@@ -1,0 +1,5242 @@
+{
+  "fr": {
+    "Porte Pile": [
+      {
+        "question": "Quelle date correspond à la construction de la porte extérieure Renaissance de Pile ?",
+        "options": [
+          "1537",
+          "La porte extérieure fut achevée en 1492 lors d'une réforme du port.",
+          "Elle date de 1668, au lendemain immédiat du grand séisme."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Que faut-il repérer pour comprendre l’ancien dispositif d’entrée ?",
+        "options": [
+          "Les rainures du pont-levis et le passage coudé",
+          "Une herse en bronze provenant du palais Sponza.",
+          "Un escalier souterrain reliant directement Pile au vieux port."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Quel rôle jouait principalement la porte Pile sous la République ?",
+        "options": [
+          "Elle servait de tribunal aux capitaines de navires marchands.",
+          "Elle abritait les réserves de grain destinées aux périodes de siège.",
+          "Elle contrôlait l'accès terrestre occidental à la ville"
+        ],
+        "answer": 0
+      }
+    ],
+    "Grande fontaine d’Onofrio": [
+      {
+        "question": "Quand l’aqueduc et la grande fontaine d’Onofrio ont-ils été réalisés ?",
+        "options": [
+          "La pharmacie aurait ouvert en 1416 avec le premier lazaret.",
+          "Ils furent construits vers 1358 après le traité de Zadar.",
+          "Le réseau fut créé en 1808 par l'administration napoléonienne."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Combien de mascarons distribuent l’eau autour de la fontaine ?",
+        "options": [
+          "Vingt-quatre gueules de lions inspirées du palais du Recteur.",
+          "Le portail sculpté de l'ancienne église gothique",
+          "Douze têtes représentant les mois de l'année."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Pourquoi cet ouvrage était-il essentiel à Dubrovnik ?",
+        "options": [
+          "Il apportait une eau régulière utile à la vie quotidienne et aux sièges",
+          "Il permettait de remplir les bassins de radoub du vieux port.",
+          "Il actionnait les cloches publiques grâce à une roue hydraulique."
+        ],
+        "answer": 0
+      }
+    ],
+    "Monastère franciscain et ancienne pharmacie": [
+      {
+        "question": "À quelle année la tradition rattache-t-elle la fondation de l’ancienne pharmacie ?",
+        "options": [
+          "La pharmacie aurait ouvert en 1416 avec le premier lazaret.",
+          "Elle fut fondée en 1522 dans les locaux de la douane.",
+          "Un ancien chenal marin progressivement comblé"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quel élément du monastère a largement survécu au séisme de 1667 ?",
+        "options": [
+          "Le grand clocher roman couronné d'une flèche de cuivre.",
+          "La nef médiévale entière avec ses voûtes d'origine.",
+          "Le portail sculpté de l'ancienne église gothique"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Que faut-il comparer dans le cloître ?",
+        "options": [
+          "Les chapiteaux aux décors tous différents",
+          "Les mosaïques dorées représentant les recteurs de Raguse.",
+          "Les cadrans solaires gravés sur chacune des colonnes jumelles."
+        ],
+        "answer": 1
+      }
+    ],
+    "Stradun": [
+      {
+        "question": "Quelle origine urbaine explique le tracé rectiligne de Stradun ?",
+        "options": [
+          "Un ancien chenal marin progressivement comblé",
+          "Une voie romaine construite pour rejoindre l'amphithéâtre de Raguse.",
+          "Un canal défensif creusé après le siège vénitien de 1205."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quelle transformation suivit le séisme de 1667 ?",
+        "options": [
+          "Les façades furent reconstruites selon un modèle plus uniforme",
+          "La rue reçut une colonnade continue inspirée de la place Saint-Marc.",
+          "Les boutiques furent déplacées sous les remparts orientaux."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Que signifie l’habitude locale de « faire un đir » ?",
+        "options": [
+          "Monter chaque matin jusqu'à la tour Minčeta pour sonner la cloche.",
+          "Fermer les volets des boutiques pendant la chaleur de midi.",
+          "Se promener pour voir du monde et échanger quelques mots"
+        ],
+        "answer": 0
+      }
+    ],
+    "Palais Sponza": [
+      {
+        "question": "Quand le palais Sponza a-t-il été construit ?",
+        "options": [
+          "Entre 1435 et 1438 après une explosion de poudre.",
+          "En 1358, l'année du passage sous la couronne hongroise.",
+          "De 1706 à 1715 pour remplacer l'ancienne église Saint-Blaise."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quelles fonctions économiques furent réunies dans le palais ?",
+        "options": [
+          "Le marché aux poissons, les salines et les moulins publics.",
+          "La douane, la monnaie, le trésor et des bureaux financiers",
+          "Le chantier naval, la prison maritime et l'hôpital des marins."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Quel contraste architectural faut-il observer sur la façade ?",
+        "options": [
+          "Une base romane en granit surmontée d'un dôme ottoman.",
+          "Les arcs Renaissance du bas et les fenêtres gothiques de l'étage",
+          "Des colonnes corinthiennes portant une façade entièrement néoclassique."
+        ],
+        "answer": 1
+      }
+    ],
+    "Colonne d’Orlando": [
+      {
+        "question": "En quelle année la colonne d’Orlando fut-elle installée ?",
+        "options": [
+          "En 1526, après la bataille de Mohács.",
+          "Entre 1706 et 1715",
+          "En 1358, l'année du passage sous la couronne hongroise."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "À quoi servait le bras d’Orlando dans la vie commerciale ?",
+        "options": [
+          "Il matérialisait une mesure d'environ 51,2 centimètres",
+          "Il indiquait la direction du vent dominant vers l'île de Lokrum.",
+          "Il portait une balance destinée au contrôle du prix du sel."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quel idéal politique la colonne symbolisait-elle surtout ?",
+        "options": [
+          "La liberté civique et l'autorité de la République",
+          "La souveraineté directe de Venise sur le port de Raguse.",
+          "L'alliance militaire permanente avec l'Empire ottoman."
+        ],
+        "answer": 1
+      }
+    ],
+    "Église Saint-Blaise": [
+      {
+        "question": "Quand l’église baroque actuelle fut-elle construite ?",
+        "options": [
+          "Entre 1706 et 1715",
+          "Entre 1440 et 1450 sous la direction d'Onofrio della Cava.",
+          "De 1538 à 1549 pendant le chantier du fort Revelin."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quel objet ancien a survécu à l’incendie de 1706 ?",
+        "options": [
+          "Le retable de Titien aujourd'hui conservé dans la cathédrale.",
+          "La statue en argent doré de saint Blaise",
+          "La grande cloche fondue avec le bronze de canons vénitiens."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Que montre la petite maquette portée par le saint ?",
+        "options": [
+          "La route commerciale reliant Raguse à Sarajevo au XVIIIe siècle.",
+          "Une représentation de Dubrovnik avant le séisme de 1667",
+          "Le plan du port de Ston avec ses bassins salins."
+        ],
+        "answer": 2
+      }
+    ],
+    "Palais du Recteur": [
+      {
+        "question": "Combien de temps durait normalement le mandat du recteur ?",
+        "options": [
+          "En 1893",
+          "Une année complète renouvelable trois fois.",
+          "Une semaine pendant la saison de navigation."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Que demandait la devise placée dans le palais ?",
+        "options": [
+          "De remettre chaque litige à l'arbitrage du Sénat vénitien.",
+          "D'oublier les intérêts privés pour servir les affaires publiques",
+          "De défendre le commerce maritime avant toute alliance terrestre."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Quel détail sculpté mérite l’attention dans la loggia ?",
+        "options": [
+          "Une sirène portant les clés de toutes les portes de la ville.",
+          "Un portrait équestre du sultan Mehmed II gravé dans le marbre.",
+          "Un chapiteau montrant Esculape dans son laboratoire"
+        ],
+        "answer": 2
+      }
+    ],
+    "Place Gundulić": [
+      {
+        "question": "Quand la statue d’Ivan Gundulić fut-elle inaugurée ?",
+        "options": [
+          "En 1815, lors de l'intégration de Dubrovnik à l'Autriche.",
+          "En 1893",
+          "En 1938 pour le tricentenaire de la mort du poète."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Quel sculpteur réalisa le monument central ?",
+        "options": [
+          "Quinze silos profonds",
+          "Bonino da Milano, traditionnellement associé à Orlando.",
+          "Marino Gropelli, architecte de l'église Saint-Blaise."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Quelle activité anime surtout la place le matin ?",
+        "options": [
+          "Le recrutement public des équipages pour les galères de la République.",
+          "Un marché de produits frais et régionaux",
+          "La vente aux enchères des cargaisons débarquées au vieux port."
+        ],
+        "answer": 2
+      }
+    ],
+    "Grenier Rupe": [
+      {
+        "question": "À quelle période le grenier Rupe fut-il construit ?",
+        "options": [
+          "En 1806 afin de nourrir l'armée française de Lauriston.",
+          "Vers 1590, à la fin du XVIe siècle",
+          "Au début du XIIIe siècle pour stocker les tributs vénitiens."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Combien de grands silos de roche sont généralement décrits ?",
+        "options": [
+          "Huit citernes alignées sous une cour Renaissance.",
+          "Quinze silos profonds",
+          "Trente-deux cellules voûtées ouvertes sur la rue."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Pourquoi la République entretenait-elle de telles réserves ?",
+        "options": [
+          "Pour produire du malt destiné exclusivement aux tavernes de Stradun.",
+          "Pour faire face aux blocus, aux mauvaises récoltes et aux ruptures d'approvisionnement",
+          "Pour conserver les épices saisies par la douane du palais Sponza."
+        ],
+        "answer": 0
+      }
+    ],
+    "Escalier des Jésuites et église Saint-Ignace": [
+      {
+        "question": "Quand l’église Saint-Ignace fut-elle principalement construite ?",
+        "options": [
+          "L'incendie de 1706 qui détruisit l'église Saint-Blaise.",
+          "De 1541 à 1551 pour accueillir la douane de la République.",
+          "Entre 1317 et 1325 lors de l'installation des Franciscains."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Qui ajouta le grand escalier extérieur en 1738 ?",
+        "options": [
+          "Paskoje Miličević, ingénieur de la fontaine d'Onofrio.",
+          "Michelozzo, concepteur de la tour ronde de Minčeta.",
+          "Titien et son atelier"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quel effet artistique faut-il chercher dans les fresques ?",
+        "options": [
+          "Des cartes nautiques peintes avec les routes des navires ragusains.",
+          "Des architectures en trompe-l'œil qui agrandissent l'espace",
+          "Une mosaïque byzantine représentant le siège de 1205."
+        ],
+        "answer": 1
+      }
+    ],
+    "Cathédrale de l’Assomption": [
+      {
+        "question": "Quel événement imposa la reconstruction baroque de la cathédrale ?",
+        "options": [
+          "L'explosion de poudre de 1463 dans le palais du Recteur.",
+          "L'incendie de 1706 qui détruisit l'église Saint-Blaise.",
+          "Le grand séisme du 6 avril 1667"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Quel artiste est associé au polyptyque de l’Assomption ?",
+        "options": [
+          "Paolo Veneziano, auteur du crucifix dominicain de 1358.",
+          "Titien et son atelier",
+          "Ivan Rendić, sculpteur de la statue de Gundulić."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Quelle légende médiévale est liée à l’ancienne cathédrale ?",
+        "options": [
+          "Marco Polo aurait offert les colonnes prises à Constantinople.",
+          "Richard Cœur de Lion aurait financé une église après un naufrage",
+          "Dante aurait composé un chant de la Divine Comédie dans la sacristie."
+        ],
+        "answer": 0
+      }
+    ],
+    "Vieux-Port": [
+      {
+        "question": "En quelle année le brise-lames de Kaše fut-il construit ?",
+        "options": [
+          "En 1377, en même temps que le premier règlement de quarantaine.",
+          "En 1485",
+          "En 1667 pour réparer les dégâts du séisme dans le port."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Pourquoi les arches de l’arsenal pouvaient-elles être murées ?",
+        "options": [
+          "Pour cacher les navires en construction aux observateurs étrangers",
+          "Pour empêcher les moines dominicains d'accéder aux quais la nuit.",
+          "Pour transformer les ateliers en entrepôts frigorifiques l'été."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Quel rôle sanitaire était lié aux arrivées maritimes ?",
+        "options": [
+          "La fontaine d'Onofrio servait de bassin obligatoire de désinfection des voiles.",
+          "Le palais Sponza délivrait un certificat de baptême à chaque équipage.",
+          "Les lazarets imposaient une quarantaine aux voyageurs et marchandises suspects"
+        ],
+        "answer": 1
+      }
+    ],
+    "Fort Lovrijenac": [
+      {
+        "question": "Quelle épaisseur peuvent atteindre les murs de Lovrijenac tournés vers la mer ?",
+        "options": [
+          "Jusqu'à environ douze mètres",
+          "Plus de vingt-cinq mètres au niveau de la porte principale.",
+          "Environ deux mètres, comme le mur faisant face à la ville."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Pourquoi le mur du côté de Dubrovnik est-il plus mince ?",
+        "options": [
+          "Pour supporter une galerie marchande aujourd'hui disparue.",
+          "Pour permettre à la ville de neutraliser le fort s'il était capturé",
+          "Pour laisser passer la lumière vers les cellules de quarantaine."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Quelle devise est inscrite au-dessus de l’entrée ?",
+        "options": [
+          "La liberté ne se vend pas pour tout l'or du monde",
+          "La mer unit ceux que les montagnes séparent.",
+          "Le commerce est la meilleure fortification des peuples libres."
+        ],
+        "answer": 0
+      }
+    ],
+    "Fort Bokar": [
+      {
+        "question": "Quel architecte lança la conception du fort Bokar vers 1461 ?",
+        "options": [
+          "Andrea Pozzo, architecte associé à l'église Saint-Ignace.",
+          "Antonio Ferramolino, ingénieur du fort Revelin.",
+          "Une tour carrée"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Pourquoi sa forme cylindrique était-elle avantageuse ?",
+        "options": [
+          "Elle permettait d'amarrer les galères tout autour du fort.",
+          "Elle reproduisait exactement la forme des silos du grenier Rupe.",
+          "Elle résistait mieux aux boulets et élargissait les angles de tir"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Quel détail de construction faut-il observer depuis l’extérieur ?",
+        "options": [
+          "Une chaussée romaine conservée dans le socle occidental.",
+          "Des arches et cavités où l'eau passe sous une partie du fort",
+          "Un escalier de marbre reliant directement la cour à Kolorina."
+        ],
+        "answer": 0
+      }
+    ],
+    "Remparts et tour Minčeta": [
+      {
+        "question": "Quelle forme avait la première tour Minčeta de 1319 ?",
+        "options": [
+          "Une tour carrée",
+          "Un bastion triangulaire tourné vers le vieux port.",
+          "Une tour octogonale couverte d'un dôme de cuivre."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quels architectes transformèrent Minčeta au XVe siècle ?",
+        "options": [
+          "Andrea Buffalini puis Marino Gropelli.",
+          "Michelozzo puis Juraj Dalmatinac",
+          "Onofrio della Cava puis Pietro Passalacqua."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quelle longueur approximative forme le circuit des remparts ?",
+        "options": [
+          "Plus de 4 500 mètres jusqu'au sommet du mont Srđ.",
+          "Près de 850 mètres entre Pile et Ploče seulement.",
+          "Elle limitait le passage des animaux dans l'enceinte"
+        ],
+        "answer": 1
+      }
+    ],
+    "Monastère dominicain": [
+      {
+        "question": "En quelle année les Dominicains s’installèrent-ils à Dubrovnik ?",
+        "options": [
+          "En 1317, avec l'ouverture de la pharmacie franciscaine.",
+          "De 1418 à 1424 pour protéger la colonne d'Orlando.",
+          "En 1453, après la chute de Constantinople."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quelle œuvre majeure est conservée dans l’église ?",
+        "options": [
+          "La statue d'argent de saint Blaise portant la ville médiévale.",
+          "Un crucifix peint par Paolo Veneziano en 1358",
+          "Le polyptyque de l'Assomption attribué à Titien."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Quel détail pratique explique la forme de la balustrade de l’escalier ?",
+        "options": [
+          "Elle permettait aux soldats de poser leurs arquebuses en batterie.",
+          "Elle limitait le passage des animaux dans l'enceinte",
+          "Elle marquait la frontière fiscale entre le port et la ville haute."
+        ],
+        "answer": 1
+      }
+    ],
+    "Fort Revelin et porte Ploče": [
+      {
+        "question": "Quand le fort Revelin actuel fut-il construit ?",
+        "options": [
+          "Entre 1699 et 1725 pendant le chantier des Jésuites.",
+          "Un autre aspect du patrimoine de Dubrovnik (Fort Revelin et porte Ploče)",
+          "De 1418 à 1424 pour protéger la colonne d'Orlando."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Quel ingénieur est associé à sa conception moderne ?",
+        "options": [
+          "Gaetano Garcia, peintre des fresques de Saint-Ignace.",
+          "Antonio Ferramolino",
+          "Mihoje Brajkov de Bar, sculpteur du cloître franciscain."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Pourquoi les autres grands chantiers furent-ils limités pendant sa construction ?",
+        "options": [
+          "Pour concentrer ouvriers et matériaux sur une défense jugée urgente",
+          "Pour respecter une interdiction religieuse de bâtir près du port.",
+          "Pour laisser sécher le terrain gagné sur l'ancien chenal de Stradun."
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  "nl": {
+    "Porte Pile": [
+      {
+        "question": "Welke datum komt overeen met de bouw van de Renaissance-buitenpoort van Pile?",
+        "options": [
+          "1537",
+          "La porte extérieure fut achevée en 1492 lors d'une réforme du port.",
+          "Elle date de 1668, au lendemain immédiat du grand séisme."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Wat moet je opmerken om het oude toegangssysteem te begrijpen?",
+        "options": [
+          "Les rainures du pont-levis et le passage coudé",
+          "Une herse en bronze provenant du palais Sponza.",
+          "Un escalier souterrain reliant directement Pile au vieux port."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Welke rol speelde de Porte Pile vooral onder de Republiek?",
+        "options": [
+          "Elle servait de tribunal aux capitaines de navires marchands.",
+          "Elle abritait les réserves de grain destinées aux périodes de siège.",
+          "Elle contrôlait l'accès terrestre occidental à la ville"
+        ],
+        "answer": 0
+      }
+    ],
+    "Grande fontaine d’Onofrio": [
+      {
+        "question": "Wanneer zijn het aquaduct en de grote Onofrio-fontein aangelegd?",
+        "options": [
+          "La pharmacie aurait ouvert en 1416 avec le premier lazaret.",
+          "Ils furent construits vers 1358 après le traité de Zadar.",
+          "Le réseau fut créé en 1808 par l'administration napoléonienne."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Hoeveel mascarons verdelen het water rond de fontein?",
+        "options": [
+          "Vingt-quatre gueules de lions inspirées du palais du Recteur.",
+          "Le portail sculpté de l'ancienne église gothique",
+          "Douze têtes représentant les mois de l'année."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Waarom was dit bouwwerk essentieel voor Dubrovnik?",
+        "options": [
+          "Il apportait une eau régulière utile à la vie quotidienne et aux sièges",
+          "Il permettait de remplir les bassins de radoub du vieux port.",
+          "Il actionnait les cloches publiques grâce à une roue hydraulique."
+        ],
+        "answer": 0
+      }
+    ],
+    "Monastère franciscain et ancienne pharmacie": [
+      {
+        "question": "Aan welk jaar wordt de stichting van de voormalige apotheek volgens de traditie gekoppeld?",
+        "options": [
+          "La pharmacie aurait ouvert en 1416 avec le premier lazaret.",
+          "Elle fut fondée en 1522 dans les locaux de la douane.",
+          "Un ancien chenal marin progressivement comblé"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Welk element van het klooster heeft de aardbeving van 1667 grotendeels doorstaan?",
+        "options": [
+          "Le grand clocher roman couronné d'une flèche de cuivre.",
+          "La nef médiévale entière avec ses voûtes d'origine.",
+          "Le portail sculpté de l'ancienne église gothique"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Wat moet er in de kloostergang worden vergeleken?",
+        "options": [
+          "Les chapiteaux aux décors tous différents",
+          "Les mosaïques dorées représentant les recteurs de Raguse.",
+          "Les cadrans solaires gravés sur chacune des colonnes jumelles."
+        ],
+        "answer": 1
+      }
+    ],
+    "Stradun": [
+      {
+        "question": "Welke stedelijke oorsprong verklaart het rechte verloop van de Stradun?",
+        "options": [
+          "Un ancien chenal marin progressivement comblé",
+          "Une voie romaine construite pour rejoindre l'amphithéâtre de Raguse.",
+          "Un canal défensif creusé après le siège vénitien de 1205."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Welke transformatie volgde op de aardbeving van 1667?",
+        "options": [
+          "Les façades furent reconstruites selon un modèle plus uniforme",
+          "La rue reçut une colonnade continue inspirée de la place Saint-Marc.",
+          "Les boutiques furent déplacées sous les remparts orientaux."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Wat betekent de lokale gewoonte om « un đir » te maken?",
+        "options": [
+          "Monter chaque matin jusqu'à la tour Minčeta pour sonner la cloche.",
+          "Fermer les volets des boutiques pendant la chaleur de midi.",
+          "Se promener pour voir du monde et échanger quelques mots"
+        ],
+        "answer": 0
+      }
+    ],
+    "Palais Sponza": [
+      {
+        "question": "Wanneer werd het paleis Sponza gebouwd?",
+        "options": [
+          "Entre 1435 et 1438 après une explosion de poudre.",
+          "En 1358, l'année du passage sous la couronne hongroise.",
+          "De 1706 à 1715 pour remplacer l'ancienne église Saint-Blaise."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Welke economische functies werden in het paleis samengebracht?",
+        "options": [
+          "Le marché aux poissons, les salines et les moulins publics.",
+          "La douane, la monnaie, le trésor et des bureaux financiers",
+          "Le chantier naval, la prison maritime et l'hôpital des marins."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Welke architectonische tegenstelling moet je aan de gevel opmerken?",
+        "options": [
+          "Une base romane en granit surmontée d'un dôme ottoman.",
+          "Les arcs Renaissance du bas et les fenêtres gothiques de l'étage",
+          "Des colonnes corinthiennes portant une façade entièrement néoclassique."
+        ],
+        "answer": 1
+      }
+    ],
+    "Colonne d’Orlando": [
+      {
+        "question": "In welk jaar werd de Orlando-zuil geplaatst?",
+        "options": [
+          "En 1526, après la bataille de Mohács.",
+          "Entre 1706 et 1715",
+          "En 1358, l'année du passage sous la couronne hongroise."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Waarvoor diende de arm van Orlando in het handelsleven?",
+        "options": [
+          "Il matérialisait une mesure d'environ 51,2 centimètres",
+          "Il indiquait la direction du vent dominant vers l'île de Lokrum.",
+          "Il portait une balance destinée au contrôle du prix du sel."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Welk politiek ideaal symboliseerde de zuil vooral?",
+        "options": [
+          "La liberté civique et l'autorité de la République",
+          "La souveraineté directe de Venise sur le port de Raguse.",
+          "L'alliance militaire permanente avec l'Empire ottoman."
+        ],
+        "answer": 1
+      }
+    ],
+    "Église Saint-Blaise": [
+      {
+        "question": "Wanneer werd de huidige barokke kerk gebouwd?",
+        "options": [
+          "Entre 1706 et 1715",
+          "Entre 1440 et 1450 sous la direction d'Onofrio della Cava.",
+          "De 1538 à 1549 pendant le chantier du fort Revelin."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Welk oud voorwerp heeft de brand van 1706 overleefd?",
+        "options": [
+          "Le retable de Titien aujourd'hui conservé dans la cathédrale.",
+          "La statue en argent doré de saint Blaise",
+          "La grande cloche fondue avec le bronze de canons vénitiens."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Wat toont het kleine maquette die de heilige draagt?",
+        "options": [
+          "La route commerciale reliant Raguse à Sarajevo au XVIIIe siècle.",
+          "Une représentation de Dubrovnik avant le séisme de 1667",
+          "Le plan du port de Ston avec ses bassins salins."
+        ],
+        "answer": 2
+      }
+    ],
+    "Palais du Recteur": [
+      {
+        "question": "Hoe lang duurde het mandaat van de rector normaal gesproken?",
+        "options": [
+          "En 1893",
+          "Une année complète renouvelable trois fois.",
+          "Une semaine pendant la saison de navigation."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Wat eiste het devies dat in het paleis was aangebracht?",
+        "options": [
+          "De remettre chaque litige à l'arbitrage du Sénat vénitien.",
+          "D'oublier les intérêts privés pour servir les affaires publiques",
+          "De défendre le commerce maritime avant toute alliance terrestre."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Welk gebeeldhouwd detail verdient aandacht in de loggia?",
+        "options": [
+          "Une sirène portant les clés de toutes les portes de la ville.",
+          "Un portrait équestre du sultan Mehmed II gravé dans le marbre.",
+          "Un chapiteau montrant Esculape dans son laboratoire"
+        ],
+        "answer": 2
+      }
+    ],
+    "Place Gundulić": [
+      {
+        "question": "Wanneer werd het standbeeld van Ivan Gundulić onthuld?",
+        "options": [
+          "En 1815, lors de l'intégration de Dubrovnik à l'Autriche.",
+          "En 1893",
+          "En 1938 pour le tricentenaire de la mort du poète."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Welke beeldhouwer maakte het centrale monument?",
+        "options": [
+          "Quinze silos profonds",
+          "Bonino da Milano, traditionnellement associé à Orlando.",
+          "Marino Gropelli, architecte de l'église Saint-Blaise."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Welke activiteit brengt vooral leven in het plein ’s ochtends?",
+        "options": [
+          "Le recrutement public des équipages pour les galères de la République.",
+          "Un marché de produits frais et régionaux",
+          "La vente aux enchères des cargaisons débarquées au vieux port."
+        ],
+        "answer": 2
+      }
+    ],
+    "Grenier Rupe": [
+      {
+        "question": "In welke periode werd de Rupe-grenier gebouwd?",
+        "options": [
+          "En 1806 afin de nourrir l'armée française de Lauriston.",
+          "Vers 1590, à la fin du XVIe siècle",
+          "Au début du XIIIe siècle pour stocker les tributs vénitiens."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Hoeveel grote rotssilo's worden er doorgaans beschreven?",
+        "options": [
+          "Huit citernes alignées sous une cour Renaissance.",
+          "Quinze silos profonds",
+          "Trente-deux cellules voûtées ouvertes sur la rue."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Waarom koesterde de Republiek zulke voorbehouden?",
+        "options": [
+          "Pour produire du malt destiné exclusivement aux tavernes de Stradun.",
+          "Pour faire face aux blocus, aux mauvaises récoltes et aux ruptures d'approvisionnement",
+          "Pour conserver les épices saisies par la douane du palais Sponza."
+        ],
+        "answer": 0
+      }
+    ],
+    "Escalier des Jésuites et église Saint-Ignace": [
+      {
+        "question": "Wanneer werd de Sint-Ignatiuskerk voornamelijk gebouwd?",
+        "options": [
+          "L'incendie de 1706 qui détruisit l'église Saint-Blaise.",
+          "De 1541 à 1551 pour accueillir la douane de la République.",
+          "Entre 1317 et 1325 lors de l'installation des Franciscains."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Wie voegde in 1738 de grote buitentrap toe?",
+        "options": [
+          "Paskoje Miličević, ingénieur de la fontaine d'Onofrio.",
+          "Michelozzo, concepteur de la tour ronde de Minčeta.",
+          "Titien et son atelier"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Welk artistiek effect moet je zoeken in de fresco's?",
+        "options": [
+          "Des cartes nautiques peintes avec les routes des navires ragusains.",
+          "Des architectures en trompe-l'œil qui agrandissent l'espace",
+          "Une mosaïque byzantine représentant le siège de 1205."
+        ],
+        "answer": 1
+      }
+    ],
+    "Cathédrale de l’Assomption": [
+      {
+        "question": "Welke gebeurtenis maakte de barokke heropbouw van de kathedraal noodzakelijk?",
+        "options": [
+          "L'explosion de poudre de 1463 dans le palais du Recteur.",
+          "L'incendie de 1706 qui détruisit l'église Saint-Blaise.",
+          "Le grand séisme du 6 avril 1667"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Welke kunstenaar wordt geassocieerd met het polyptiek van de Tenhemelopneming?",
+        "options": [
+          "Paolo Veneziano, auteur du crucifix dominicain de 1358.",
+          "Titien et son atelier",
+          "Ivan Rendić, sculpteur de la statue de Gundulić."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Welke middeleeuwse legende is verbonden aan de oude kathedraal?",
+        "options": [
+          "Marco Polo aurait offert les colonnes prises à Constantinople.",
+          "Richard Cœur de Lion aurait financé une église après un naufrage",
+          "Dante aurait composé un chant de la Divine Comédie dans la sacristie."
+        ],
+        "answer": 0
+      }
+    ],
+    "Vieux-Port": [
+      {
+        "question": "In welk jaar werd de Kaše-golfbreker gebouwd?",
+        "options": [
+          "En 1377, en même temps que le premier règlement de quarantaine.",
+          "En 1485",
+          "En 1667 pour réparer les dégâts du séisme dans le port."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Waarom konden de bogen van het arsenaal dichtgemetseld worden?",
+        "options": [
+          "Pour cacher les navires en construction aux observateurs étrangers",
+          "Pour empêcher les moines dominicains d'accéder aux quais la nuit.",
+          "Pour transformer les ateliers en entrepôts frigorifiques l'été."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Welke sanitaire rol hield verband met de aankomsten over zee?",
+        "options": [
+          "La fontaine d'Onofrio servait de bassin obligatoire de désinfection des voiles.",
+          "Le palais Sponza délivrait un certificat de baptême à chaque équipage.",
+          "Les lazarets imposaient une quarantaine aux voyageurs et marchandises suspects"
+        ],
+        "answer": 1
+      }
+    ],
+    "Fort Lovrijenac": [
+      {
+        "question": "Welke dikte kunnen de muren van Lovrijenac aan de zeezijde bereiken?",
+        "options": [
+          "Jusqu'à environ douze mètres",
+          "Plus de vingt-cinq mètres au niveau de la porte principale.",
+          "Environ deux mètres, comme le mur faisant face à la ville."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Waarom is de muur aan de kant van Dubrovnik dunner?",
+        "options": [
+          "Pour supporter une galerie marchande aujourd'hui disparue.",
+          "Pour permettre à la ville de neutraliser le fort s'il était capturé",
+          "Pour laisser passer la lumière vers les cellules de quarantaine."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Welke leus staat boven de ingang?",
+        "options": [
+          "La liberté ne se vend pas pour tout l'or du monde",
+          "La mer unit ceux que les montagnes séparent.",
+          "Le commerce est la meilleure fortification des peuples libres."
+        ],
+        "answer": 0
+      }
+    ],
+    "Fort Bokar": [
+      {
+        "question": "Welke architect gaf rond 1461 de aanzet tot het ontwerp van fort Bokar?",
+        "options": [
+          "Andrea Pozzo, architecte associé à l'église Saint-Ignace.",
+          "Antonio Ferramolino, ingénieur du fort Revelin.",
+          "Une tour carrée"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Waarom was de cilindrische vorm voordelig?",
+        "options": [
+          "Elle permettait d'amarrer les galères tout autour du fort.",
+          "Elle reproduisait exactement la forme des silos du grenier Rupe.",
+          "Elle résistait mieux aux boulets et élargissait les angles de tir"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Welk bouwdetail moet u van buitenaf bekijken?",
+        "options": [
+          "Une chaussée romaine conservée dans le socle occidental.",
+          "Des arches et cavités où l'eau passe sous une partie du fort",
+          "Un escalier de marbre reliant directement la cour à Kolorina."
+        ],
+        "answer": 0
+      }
+    ],
+    "Remparts et tour Minčeta": [
+      {
+        "question": "Welke vorm had de eerste toren Minčeta uit 1319?",
+        "options": [
+          "Une tour carrée",
+          "Un bastion triangulaire tourné vers le vieux port.",
+          "Une tour octogonale couverte d'un dôme de cuivre."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Welke architecten verbouwden Minčeta in de 15e eeuw?",
+        "options": [
+          "Andrea Buffalini puis Marino Gropelli.",
+          "Michelozzo puis Juraj Dalmatinac",
+          "Onofrio della Cava puis Pietro Passalacqua."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Welke lengte heeft het circuit van de stadsmuren ongeveer?",
+        "options": [
+          "Plus de 4 500 mètres jusqu'au sommet du mont Srđ.",
+          "Près de 850 mètres entre Pile et Ploče seulement.",
+          "Elle limitait le passage des animaux dans l'enceinte"
+        ],
+        "answer": 1
+      }
+    ],
+    "Monastère dominicain": [
+      {
+        "question": "In welk jaar vestigden de Dominicanen zich in Dubrovnik?",
+        "options": [
+          "En 1317, avec l'ouverture de la pharmacie franciscaine.",
+          "De 1418 à 1424 pour protéger la colonne d'Orlando.",
+          "En 1453, après la chute de Constantinople."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Welk belangrijk kunstwerk wordt in de kerk bewaard?",
+        "options": [
+          "La statue d'argent de saint Blaise portant la ville médiévale.",
+          "Un crucifix peint par Paolo Veneziano en 1358",
+          "Le polyptyque de l'Assomption attribué à Titien."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Welke praktische bijzonderheid verklaart de vorm van de balustrade van de trap?",
+        "options": [
+          "Elle permettait aux soldats de poser leurs arquebuses en batterie.",
+          "Elle limitait le passage des animaux dans l'enceinte",
+          "Elle marquait la frontière fiscale entre le port et la ville haute."
+        ],
+        "answer": 1
+      }
+    ],
+    "Fort Revelin et porte Ploče": [
+      {
+        "question": "Wanneer werd het huidige fort Revelin gebouwd?",
+        "options": [
+          "Entre 1699 et 1725 pendant le chantier des Jésuites.",
+          "Another aspect of Dubrovnik's heritage (Fort Revelin et porte Ploče)",
+          "De 1418 à 1424 pour protéger la colonne d'Orlando."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Welke ingenieur wordt geassocieerd met het moderne ontwerp ervan?",
+        "options": [
+          "Gaetano Garcia, peintre des fresques de Saint-Ignace.",
+          "Antonio Ferramolino",
+          "Mihoje Brajkov de Bar, sculpteur du cloître franciscain."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Waarom werden de andere grote bouwprojecten tijdens de bouw ervan beperkt?",
+        "options": [
+          "Pour concentrer ouvriers et matériaux sur une défense jugée urgente",
+          "Pour respecter une interdiction religieuse de bâtir près du port.",
+          "Pour laisser sécher le terrain gagné sur l'ancien chenal de Stradun."
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  "en": {
+    "Porte Pile": [
+      {
+        "question": "Which date corresponds to the construction of the Renaissance outer gate of Pile?",
+        "options": [
+          "1537",
+          "La porte extérieure fut achevée en 1492 lors d'une réforme du port.",
+          "Elle date de 1668, au lendemain immédiat du grand séisme."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "What should you look for to understand the old entry system?",
+        "options": [
+          "Les rainures du pont-levis et le passage coudé",
+          "Une herse en bronze provenant du palais Sponza.",
+          "Un escalier souterrain reliant directement Pile au vieux port."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "What was the main role of the Porte Pile under the Republic?",
+        "options": [
+          "Elle servait de tribunal aux capitaines de navires marchands.",
+          "Elle abritait les réserves de grain destinées aux périodes de siège.",
+          "Elle contrôlait l'accès terrestre occidental à la ville"
+        ],
+        "answer": 0
+      }
+    ],
+    "Grande fontaine d’Onofrio": [
+      {
+        "question": "When were the aqueduct and the great Onofrio fountain built?",
+        "options": [
+          "La pharmacie aurait ouvert en 1416 avec le premier lazaret.",
+          "Ils furent construits vers 1358 après le traité de Zadar.",
+          "Le réseau fut créé en 1808 par l'administration napoléonienne."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "How many mascarons distribute the water around the fountain?",
+        "options": [
+          "Vingt-quatre gueules de lions inspirées du palais du Recteur.",
+          "Le portail sculpté de l'ancienne église gothique",
+          "Douze têtes représentant les mois de l'année."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Why was this structure essential to Dubrovnik?",
+        "options": [
+          "Il apportait une eau régulière utile à la vie quotidienne et aux sièges",
+          "Il permettait de remplir les bassins de radoub du vieux port.",
+          "Il actionnait les cloches publiques grâce à une roue hydraulique."
+        ],
+        "answer": 0
+      }
+    ],
+    "Monastère franciscain et ancienne pharmacie": [
+      {
+        "question": "To what year does tradition trace the founding of the former pharmacy?",
+        "options": [
+          "La pharmacie aurait ouvert en 1416 avec le premier lazaret.",
+          "Elle fut fondée en 1522 dans les locaux de la douane.",
+          "Un ancien chenal marin progressivement comblé"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Which part of the monastery largely survived the 1667 earthquake?",
+        "options": [
+          "Le grand clocher roman couronné d'une flèche de cuivre.",
+          "La nef médiévale entière avec ses voûtes d'origine.",
+          "Le portail sculpté de l'ancienne église gothique"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "What should be compared in the cloister?",
+        "options": [
+          "Les chapiteaux aux décors tous différents",
+          "Les mosaïques dorées représentant les recteurs de Raguse.",
+          "Les cadrans solaires gravés sur chacune des colonnes jumelles."
+        ],
+        "answer": 1
+      }
+    ],
+    "Stradun": [
+      {
+        "question": "What urban origin explains the straight layout of Stradun?",
+        "options": [
+          "Un ancien chenal marin progressivement comblé",
+          "Une voie romaine construite pour rejoindre l'amphithéâtre de Raguse.",
+          "Un canal défensif creusé après le siège vénitien de 1205."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "What transformation followed the 1667 earthquake?",
+        "options": [
+          "Les façades furent reconstruites selon un modèle plus uniforme",
+          "La rue reçut une colonnade continue inspirée de la place Saint-Marc.",
+          "Les boutiques furent déplacées sous les remparts orientaux."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "What does the local habit of \"doing a đir\" mean?",
+        "options": [
+          "Monter chaque matin jusqu'à la tour Minčeta pour sonner la cloche.",
+          "Fermer les volets des boutiques pendant la chaleur de midi.",
+          "Se promener pour voir du monde et échanger quelques mots"
+        ],
+        "answer": 0
+      }
+    ],
+    "Palais Sponza": [
+      {
+        "question": "When was Sponza Palace built?",
+        "options": [
+          "Entre 1435 et 1438 après une explosion de poudre.",
+          "En 1358, l'année du passage sous la couronne hongroise.",
+          "De 1706 à 1715 pour remplacer l'ancienne église Saint-Blaise."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Which economic functions were brought together in the palace?",
+        "options": [
+          "Le marché aux poissons, les salines et les moulins publics.",
+          "La douane, la monnaie, le trésor et des bureaux financiers",
+          "Le chantier naval, la prison maritime et l'hôpital des marins."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "What architectural contrast should be observed on the façade?",
+        "options": [
+          "Une base romane en granit surmontée d'un dôme ottoman.",
+          "Les arcs Renaissance du bas et les fenêtres gothiques de l'étage",
+          "Des colonnes corinthiennes portant une façade entièrement néoclassique."
+        ],
+        "answer": 1
+      }
+    ],
+    "Colonne d’Orlando": [
+      {
+        "question": "In what year was the Orlando column installed?",
+        "options": [
+          "En 1526, après la bataille de Mohács.",
+          "Entre 1706 et 1715",
+          "En 1358, l'année du passage sous la couronne hongroise."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "What was Orlando’s arm used for in commercial life?",
+        "options": [
+          "Il matérialisait une mesure d'environ 51,2 centimètres",
+          "Il indiquait la direction du vent dominant vers l'île de Lokrum.",
+          "Il portait une balance destinée au contrôle du prix du sel."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "What political ideal did the column primarily symbolize?",
+        "options": [
+          "La liberté civique et l'autorité de la République",
+          "La souveraineté directe de Venise sur le port de Raguse.",
+          "L'alliance militaire permanente avec l'Empire ottoman."
+        ],
+        "answer": 1
+      }
+    ],
+    "Église Saint-Blaise": [
+      {
+        "question": "When was the current Baroque church built?",
+        "options": [
+          "Entre 1706 et 1715",
+          "Entre 1440 et 1450 sous la direction d'Onofrio della Cava.",
+          "De 1538 à 1549 pendant le chantier du fort Revelin."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Which ancient object survived the fire of 1706?",
+        "options": [
+          "Le retable de Titien aujourd'hui conservé dans la cathédrale.",
+          "La statue en argent doré de saint Blaise",
+          "La grande cloche fondue avec le bronze de canons vénitiens."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "What does the small model held by the saint show?",
+        "options": [
+          "La route commerciale reliant Raguse à Sarajevo au XVIIIe siècle.",
+          "Une représentation de Dubrovnik avant le séisme de 1667",
+          "Le plan du port de Ston avec ses bassins salins."
+        ],
+        "answer": 2
+      }
+    ],
+    "Palais du Recteur": [
+      {
+        "question": "How long did the rector’s term normally last?",
+        "options": [
+          "En 1893",
+          "Une année complète renouvelable trois fois.",
+          "Une semaine pendant la saison de navigation."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "What did the motto displayed in the palace ask?",
+        "options": [
+          "De remettre chaque litige à l'arbitrage du Sénat vénitien.",
+          "D'oublier les intérêts privés pour servir les affaires publiques",
+          "De défendre le commerce maritime avant toute alliance terrestre."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "What sculpted detail deserves attention in the loggia?",
+        "options": [
+          "Une sirène portant les clés de toutes les portes de la ville.",
+          "Un portrait équestre du sultan Mehmed II gravé dans le marbre.",
+          "Un chapiteau montrant Esculape dans son laboratoire"
+        ],
+        "answer": 2
+      }
+    ],
+    "Place Gundulić": [
+      {
+        "question": "When was the statue of Ivan Gundulić inaugurated?",
+        "options": [
+          "En 1815, lors de l'intégration de Dubrovnik à l'Autriche.",
+          "En 1893",
+          "En 1938 pour le tricentenaire de la mort du poète."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Which sculptor created the central monument?",
+        "options": [
+          "Quinze silos profonds",
+          "Bonino da Milano, traditionnellement associé à Orlando.",
+          "Marino Gropelli, architecte de l'église Saint-Blaise."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "What activity mainly enlivens the square in the morning?",
+        "options": [
+          "Le recrutement public des équipages pour les galères de la République.",
+          "Un marché de produits frais et régionaux",
+          "La vente aux enchères des cargaisons débarquées au vieux port."
+        ],
+        "answer": 2
+      }
+    ],
+    "Grenier Rupe": [
+      {
+        "question": "In what period was the Rupe attic built?",
+        "options": [
+          "En 1806 afin de nourrir l'armée française de Lauriston.",
+          "Vers 1590, à la fin du XVIe siècle",
+          "Au début du XIIIe siècle pour stocker les tributs vénitiens."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "How many large rock silos are generally described?",
+        "options": [
+          "Huit citernes alignées sous une cour Renaissance.",
+          "Quinze silos profonds",
+          "Trente-deux cellules voûtées ouvertes sur la rue."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Why did the Republic have such reservations?",
+        "options": [
+          "Pour produire du malt destiné exclusivement aux tavernes de Stradun.",
+          "Pour faire face aux blocus, aux mauvaises récoltes et aux ruptures d'approvisionnement",
+          "Pour conserver les épices saisies par la douane du palais Sponza."
+        ],
+        "answer": 0
+      }
+    ],
+    "Escalier des Jésuites et église Saint-Ignace": [
+      {
+        "question": "When was Saint-Ignace Church mainly built?",
+        "options": [
+          "L'incendie de 1706 qui détruisit l'église Saint-Blaise.",
+          "De 1541 à 1551 pour accueillir la douane de la République.",
+          "Entre 1317 et 1325 lors de l'installation des Franciscains."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Who added the grand exterior staircase in 1738?",
+        "options": [
+          "Paskoje Miličević, ingénieur de la fontaine d'Onofrio.",
+          "Michelozzo, concepteur de la tour ronde de Minčeta.",
+          "Titien et son atelier"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "What artistic effect should you look for in the frescoes?",
+        "options": [
+          "Des cartes nautiques peintes avec les routes des navires ragusains.",
+          "Des architectures en trompe-l'œil qui agrandissent l'espace",
+          "Une mosaïque byzantine représentant le siège de 1205."
+        ],
+        "answer": 1
+      }
+    ],
+    "Cathédrale de l’Assomption": [
+      {
+        "question": "Which event necessitated the cathedral's Baroque reconstruction?",
+        "options": [
+          "L'explosion de poudre de 1463 dans le palais du Recteur.",
+          "L'incendie de 1706 qui détruisit l'église Saint-Blaise.",
+          "Le grand séisme du 6 avril 1667"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Which artist is associated with the Assumption polyptych?",
+        "options": [
+          "Paolo Veneziano, auteur du crucifix dominicain de 1358.",
+          "Titien et son atelier",
+          "Ivan Rendić, sculpteur de la statue de Gundulić."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Which medieval legend is linked to the former cathedral?",
+        "options": [
+          "Marco Polo aurait offert les colonnes prises à Constantinople.",
+          "Richard Cœur de Lion aurait financé une église après un naufrage",
+          "Dante aurait composé un chant de la Divine Comédie dans la sacristie."
+        ],
+        "answer": 0
+      }
+    ],
+    "Vieux-Port": [
+      {
+        "question": "In what year was the Kaše breakwater built?",
+        "options": [
+          "En 1377, en même temps que le premier règlement de quarantaine.",
+          "En 1485",
+          "En 1667 pour réparer les dégâts du séisme dans le port."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Why could the arches of the arsenal be bricked up?",
+        "options": [
+          "Pour cacher les navires en construction aux observateurs étrangers",
+          "Pour empêcher les moines dominicains d'accéder aux quais la nuit.",
+          "Pour transformer les ateliers en entrepôts frigorifiques l'été."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "What health-related role was linked to maritime arrivals?",
+        "options": [
+          "La fontaine d'Onofrio servait de bassin obligatoire de désinfection des voiles.",
+          "Le palais Sponza délivrait un certificat de baptême à chaque équipage.",
+          "Les lazarets imposaient une quarantaine aux voyageurs et marchandises suspects"
+        ],
+        "answer": 1
+      }
+    ],
+    "Fort Lovrijenac": [
+      {
+        "question": "What thickness can the walls of Lovrijenac facing the sea reach?",
+        "options": [
+          "Jusqu'à environ douze mètres",
+          "Plus de vingt-cinq mètres au niveau de la porte principale.",
+          "Environ deux mètres, comme le mur faisant face à la ville."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Why is the wall on the Dubrovnik side thinner?",
+        "options": [
+          "Pour supporter une galerie marchande aujourd'hui disparue.",
+          "Pour permettre à la ville de neutraliser le fort s'il était capturé",
+          "Pour laisser passer la lumière vers les cellules de quarantaine."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "What motto is inscribed above the entrance?",
+        "options": [
+          "La liberté ne se vend pas pour tout l'or du monde",
+          "La mer unit ceux que les montagnes séparent.",
+          "Le commerce est la meilleure fortification des peuples libres."
+        ],
+        "answer": 0
+      }
+    ],
+    "Fort Bokar": [
+      {
+        "question": "Which architect initiated the design of Fort Bokar around 1461?",
+        "options": [
+          "Andrea Pozzo, architecte associé à l'église Saint-Ignace.",
+          "Antonio Ferramolino, ingénieur du fort Revelin.",
+          "Une tour carrée"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Why was its cylindrical shape advantageous?",
+        "options": [
+          "Elle permettait d'amarrer les galères tout autour du fort.",
+          "Elle reproduisait exactement la forme des silos du grenier Rupe.",
+          "Elle résistait mieux aux boulets et élargissait les angles de tir"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "What construction detail should be observed from the outside?",
+        "options": [
+          "Une chaussée romaine conservée dans le socle occidental.",
+          "Des arches et cavités où l'eau passe sous une partie du fort",
+          "Un escalier de marbre reliant directement la cour à Kolorina."
+        ],
+        "answer": 0
+      }
+    ],
+    "Remparts et tour Minčeta": [
+      {
+        "question": "What was the shape of the first Minčeta Tower from 1319?",
+        "options": [
+          "Une tour carrée",
+          "Un bastion triangulaire tourné vers le vieux port.",
+          "Une tour octogonale couverte d'un dôme de cuivre."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Which architects transformed Minčeta in the 15th century?",
+        "options": [
+          "Andrea Buffalini puis Marino Gropelli.",
+          "Michelozzo puis Juraj Dalmatinac",
+          "Onofrio della Cava puis Pietro Passalacqua."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "What is the approximate length of the city walls circuit?",
+        "options": [
+          "Plus de 4 500 mètres jusqu'au sommet du mont Srđ.",
+          "Près de 850 mètres entre Pile et Ploče seulement.",
+          "Elle limitait le passage des animaux dans l'enceinte"
+        ],
+        "answer": 1
+      }
+    ],
+    "Monastère dominicain": [
+      {
+        "question": "In what year did the Dominicans settle in Dubrovnik?",
+        "options": [
+          "En 1317, avec l'ouverture de la pharmacie franciscaine.",
+          "De 1418 à 1424 pour protéger la colonne d'Orlando.",
+          "En 1453, après la chute de Constantinople."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Which major work is preserved in the church?",
+        "options": [
+          "La statue d'argent de saint Blaise portant la ville médiévale.",
+          "Un crucifix peint par Paolo Veneziano en 1358",
+          "Le polyptyque de l'Assomption attribué à Titien."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "What practical detail explains the shape of the staircase balustrade?",
+        "options": [
+          "Elle permettait aux soldats de poser leurs arquebuses en batterie.",
+          "Elle limitait le passage des animaux dans l'enceinte",
+          "Elle marquait la frontière fiscale entre le port et la ville haute."
+        ],
+        "answer": 1
+      }
+    ],
+    "Fort Revelin et porte Ploče": [
+      {
+        "question": "When was the present Fort Revelin built?",
+        "options": [
+          "Entre 1699 et 1725 pendant le chantier des Jésuites.",
+          "Another aspect of Dubrovnik's heritage (Fort Revelin et porte Ploče)",
+          "De 1418 à 1424 pour protéger la colonne d'Orlando."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Which engineer is associated with its modern design?",
+        "options": [
+          "Gaetano Garcia, peintre des fresques de Saint-Ignace.",
+          "Antonio Ferramolino",
+          "Mihoje Brajkov de Bar, sculpteur du cloître franciscain."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Why were the other major construction projects limited during its construction?",
+        "options": [
+          "Pour concentrer ouvriers et matériaux sur une défense jugée urgente",
+          "Pour respecter une interdiction religieuse de bâtir près du port.",
+          "Pour laisser sécher le terrain gagné sur l'ancien chenal de Stradun."
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  "de": {
+    "Porte Pile": [
+      {
+        "question": "Welches Datum entspricht dem Bau des äußeren Renaissance-Tors von Pile?",
+        "options": [
+          "1537",
+          "La porte extérieure fut achevée en 1492 lors d'une réforme du port.",
+          "Elle date de 1668, au lendemain immédiat du grand séisme."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Was muss man erkennen, um das ehemalige Eingangssystem zu verstehen?",
+        "options": [
+          "Les rainures du pont-levis et le passage coudé",
+          "Une herse en bronze provenant du palais Sponza.",
+          "Un escalier souterrain reliant directement Pile au vieux port."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Welche Rolle spielte das Porte Pile während der Republik hauptsächlich?",
+        "options": [
+          "Elle servait de tribunal aux capitaines de navires marchands.",
+          "Elle abritait les réserves de grain destinées aux périodes de siège.",
+          "Elle contrôlait l'accès terrestre occidental à la ville"
+        ],
+        "answer": 0
+      }
+    ],
+    "Grande fontaine d’Onofrio": [
+      {
+        "question": "Wann wurden das Aquädukt und der große Onofrio-Brunnen erbaut?",
+        "options": [
+          "La pharmacie aurait ouvert en 1416 avec le premier lazaret.",
+          "Ils furent construits vers 1358 après le traité de Zadar.",
+          "Le réseau fut créé en 1808 par l'administration napoléonienne."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Maskaronen verteilen das Wasser rund um den Brunnen?",
+        "options": [
+          "Vingt-quatre gueules de lions inspirées du palais du Recteur.",
+          "Le portail sculpté de l'ancienne église gothique",
+          "Douze têtes représentant les mois de l'année."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Warum war dieses Bauwerk für Dubrovnik so wichtig?",
+        "options": [
+          "Il apportait une eau régulière utile à la vie quotidienne et aux sièges",
+          "Il permettait de remplir les bassins de radoub du vieux port.",
+          "Il actionnait les cloches publiques grâce à une roue hydraulique."
+        ],
+        "answer": 0
+      }
+    ],
+    "Monastère franciscain et ancienne pharmacie": [
+      {
+        "question": "Auf welches Jahr führt die Überlieferung die Gründung der alten Apotheke zurück?",
+        "options": [
+          "La pharmacie aurait ouvert en 1416 avec le premier lazaret.",
+          "Elle fut fondée en 1522 dans les locaux de la douane.",
+          "Un ancien chenal marin progressivement comblé"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Welches Element des Klosters hat das Erdbeben von 1667 weitgehend überstanden?",
+        "options": [
+          "Le grand clocher roman couronné d'une flèche de cuivre.",
+          "La nef médiévale entière avec ses voûtes d'origine.",
+          "Le portail sculpté de l'ancienne église gothique"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Was sollte man im Kreuzgang vergleichen?",
+        "options": [
+          "Les chapiteaux aux décors tous différents",
+          "Les mosaïques dorées représentant les recteurs de Raguse.",
+          "Les cadrans solaires gravés sur chacune des colonnes jumelles."
+        ],
+        "answer": 1
+      }
+    ],
+    "Stradun": [
+      {
+        "question": "Welcher städtebauliche Ursprung erklärt den geradlinigen Verlauf des Stradun?",
+        "options": [
+          "Un ancien chenal marin progressivement comblé",
+          "Une voie romaine construite pour rejoindre l'amphithéâtre de Raguse.",
+          "Un canal défensif creusé après le siège vénitien de 1205."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Welche Veränderung folgte auf das Erdbeben von 1667?",
+        "options": [
+          "Les façades furent reconstruites selon un modèle plus uniforme",
+          "La rue reçut une colonnade continue inspirée de la place Saint-Marc.",
+          "Les boutiques furent déplacées sous les remparts orientaux."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Was bedeutet der örtliche Brauch, „einen đir zu machen“?",
+        "options": [
+          "Monter chaque matin jusqu'à la tour Minčeta pour sonner la cloche.",
+          "Fermer les volets des boutiques pendant la chaleur de midi.",
+          "Se promener pour voir du monde et échanger quelques mots"
+        ],
+        "answer": 0
+      }
+    ],
+    "Palais Sponza": [
+      {
+        "question": "Wann wurde der Sponza-Palast erbaut?",
+        "options": [
+          "Entre 1435 et 1438 après une explosion de poudre.",
+          "En 1358, l'année du passage sous la couronne hongroise.",
+          "De 1706 à 1715 pour remplacer l'ancienne église Saint-Blaise."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Welche wirtschaftlichen Funktionen wurden im Palast zusammengeführt?",
+        "options": [
+          "Le marché aux poissons, les salines et les moulins publics.",
+          "La douane, la monnaie, le trésor et des bureaux financiers",
+          "Le chantier naval, la prison maritime et l'hôpital des marins."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Welchen architektonischen Kontrast sollte man an der Fassade beobachten?",
+        "options": [
+          "Une base romane en granit surmontée d'un dôme ottoman.",
+          "Les arcs Renaissance du bas et les fenêtres gothiques de l'étage",
+          "Des colonnes corinthiennes portant une façade entièrement néoclassique."
+        ],
+        "answer": 1
+      }
+    ],
+    "Colonne d’Orlando": [
+      {
+        "question": "In welchem Jahr wurde die Orlando-Säule aufgestellt?",
+        "options": [
+          "En 1526, après la bataille de Mohács.",
+          "Entre 1706 et 1715",
+          "En 1358, l'année du passage sous la couronne hongroise."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Wozu diente Orlandos Arm im Handelsleben?",
+        "options": [
+          "Il matérialisait une mesure d'environ 51,2 centimètres",
+          "Il indiquait la direction du vent dominant vers l'île de Lokrum.",
+          "Il portait une balance destinée au contrôle du prix du sel."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Welches politische Ideal symbolisierte die Säule vor allem?",
+        "options": [
+          "La liberté civique et l'autorité de la République",
+          "La souveraineté directe de Venise sur le port de Raguse.",
+          "L'alliance militaire permanente avec l'Empire ottoman."
+        ],
+        "answer": 1
+      }
+    ],
+    "Église Saint-Blaise": [
+      {
+        "question": "Wann wurde die heutige Barockkirche erbaut?",
+        "options": [
+          "Entre 1706 et 1715",
+          "Entre 1440 et 1450 sous la direction d'Onofrio della Cava.",
+          "De 1538 à 1549 pendant le chantier du fort Revelin."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Welches alte Objekt hat den Brand von 1706 überstanden?",
+        "options": [
+          "Le retable de Titien aujourd'hui conservé dans la cathédrale.",
+          "La statue en argent doré de saint Blaise",
+          "La grande cloche fondue avec le bronze de canons vénitiens."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Was zeigt das kleine Modell, das der Heilige in den Händen hält?",
+        "options": [
+          "La route commerciale reliant Raguse à Sarajevo au XVIIIe siècle.",
+          "Une représentation de Dubrovnik avant le séisme de 1667",
+          "Le plan du port de Ston avec ses bassins salins."
+        ],
+        "answer": 2
+      }
+    ],
+    "Palais du Recteur": [
+      {
+        "question": "Wie lange dauerte die Amtszeit des Rektors normalerweise?",
+        "options": [
+          "En 1893",
+          "Une année complète renouvelable trois fois.",
+          "Une semaine pendant la saison de navigation."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Was verlangte das im Palast angebrachte Motto?",
+        "options": [
+          "De remettre chaque litige à l'arbitrage du Sénat vénitien.",
+          "D'oublier les intérêts privés pour servir les affaires publiques",
+          "De défendre le commerce maritime avant toute alliance terrestre."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Welches skulptierte Detail verdient in der Loggia besondere Aufmerksamkeit?",
+        "options": [
+          "Une sirène portant les clés de toutes les portes de la ville.",
+          "Un portrait équestre du sultan Mehmed II gravé dans le marbre.",
+          "Un chapiteau montrant Esculape dans son laboratoire"
+        ],
+        "answer": 2
+      }
+    ],
+    "Place Gundulić": [
+      {
+        "question": "Wann wurde die Statue von Ivan Gundulić eingeweiht?",
+        "options": [
+          "En 1815, lors de l'intégration de Dubrovnik à l'Autriche.",
+          "En 1893",
+          "En 1938 pour le tricentenaire de la mort du poète."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Welcher Bildhauer schuf das zentrale Denkmal?",
+        "options": [
+          "Quinze silos profonds",
+          "Bonino da Milano, traditionnellement associé à Orlando.",
+          "Marino Gropelli, architecte de l'église Saint-Blaise."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Welche Aktivität belebt den Platz vor allem am Morgen?",
+        "options": [
+          "Le recrutement public des équipages pour les galères de la République.",
+          "Un marché de produits frais et régionaux",
+          "La vente aux enchères des cargaisons débarquées au vieux port."
+        ],
+        "answer": 2
+      }
+    ],
+    "Grenier Rupe": [
+      {
+        "question": "In welcher Zeit wurde der Grenier Rupe erbaut?",
+        "options": [
+          "En 1806 afin de nourrir l'armée française de Lauriston.",
+          "Vers 1590, à la fin du XVIe siècle",
+          "Au début du XIIIe siècle pour stocker les tributs vénitiens."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Wie viele große Gesteinssilos werden normalerweise beschrieben?",
+        "options": [
+          "Huit citernes alignées sous une cour Renaissance.",
+          "Quinze silos profonds",
+          "Trente-deux cellules voûtées ouvertes sur la rue."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Warum hegte die Republik derart große Vorbehalte?",
+        "options": [
+          "Pour produire du malt destiné exclusivement aux tavernes de Stradun.",
+          "Pour faire face aux blocus, aux mauvaises récoltes et aux ruptures d'approvisionnement",
+          "Pour conserver les épices saisies par la douane du palais Sponza."
+        ],
+        "answer": 0
+      }
+    ],
+    "Escalier des Jésuites et église Saint-Ignace": [
+      {
+        "question": "Wann wurde die Kirche Saint-Ignace hauptsächlich erbaut?",
+        "options": [
+          "L'incendie de 1706 qui détruisit l'église Saint-Blaise.",
+          "De 1541 à 1551 pour accueillir la douane de la République.",
+          "Entre 1317 et 1325 lors de l'installation des Franciscains."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Wer fügte 1738 die große Außentreppe hinzu?",
+        "options": [
+          "Paskoje Miličević, ingénieur de la fontaine d'Onofrio.",
+          "Michelozzo, concepteur de la tour ronde de Minčeta.",
+          "Titien et son atelier"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Welche künstlerische Wirkung sollte man in den Fresken suchen?",
+        "options": [
+          "Des cartes nautiques peintes avec les routes des navires ragusains.",
+          "Des architectures en trompe-l'œil qui agrandissent l'espace",
+          "Une mosaïque byzantine représentant le siège de 1205."
+        ],
+        "answer": 1
+      }
+    ],
+    "Cathédrale de l’Assomption": [
+      {
+        "question": "Welches Ereignis machte den barocken Wiederaufbau der Kathedrale erforderlich?",
+        "options": [
+          "L'explosion de poudre de 1463 dans le palais du Recteur.",
+          "L'incendie de 1706 qui détruisit l'église Saint-Blaise.",
+          "Le grand séisme du 6 avril 1667"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Welcher Künstler wird mit dem Polyptychon der Aufnahme Mariens in den Himmel in Verbindung gebracht?",
+        "options": [
+          "Paolo Veneziano, auteur du crucifix dominicain de 1358.",
+          "Titien et son atelier",
+          "Ivan Rendić, sculpteur de la statue de Gundulić."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Welche mittelalterliche Legende ist mit der alten Kathedrale verbunden?",
+        "options": [
+          "Marco Polo aurait offert les colonnes prises à Constantinople.",
+          "Richard Cœur de Lion aurait financé une église après un naufrage",
+          "Dante aurait composé un chant de la Divine Comédie dans la sacristie."
+        ],
+        "answer": 0
+      }
+    ],
+    "Vieux-Port": [
+      {
+        "question": "In welchem Jahr wurde der Kaše-Wellenbrecher erbaut?",
+        "options": [
+          "En 1377, en même temps que le premier règlement de quarantaine.",
+          "En 1485",
+          "En 1667 pour réparer les dégâts du séisme dans le port."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Warum konnten die Arkaden des Arsenals zugemauert werden?",
+        "options": [
+          "Pour cacher les navires en construction aux observateurs étrangers",
+          "Pour empêcher les moines dominicains d'accéder aux quais la nuit.",
+          "Pour transformer les ateliers en entrepôts frigorifiques l'été."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Welche gesundheitliche Funktion war mit den Ankünften über See verbunden?",
+        "options": [
+          "La fontaine d'Onofrio servait de bassin obligatoire de désinfection des voiles.",
+          "Le palais Sponza délivrait un certificat de baptême à chaque équipage.",
+          "Les lazarets imposaient une quarantaine aux voyageurs et marchandises suspects"
+        ],
+        "answer": 1
+      }
+    ],
+    "Fort Lovrijenac": [
+      {
+        "question": "Welche Dicke können die zum Meer hin gerichteten Mauern von Lovrijenac erreichen?",
+        "options": [
+          "Jusqu'à environ douze mètres",
+          "Plus de vingt-cinq mètres au niveau de la porte principale.",
+          "Environ deux mètres, comme le mur faisant face à la ville."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Warum ist die Mauer auf der Seite von Dubrovnik dünner?",
+        "options": [
+          "Pour supporter une galerie marchande aujourd'hui disparue.",
+          "Pour permettre à la ville de neutraliser le fort s'il était capturé",
+          "Pour laisser passer la lumière vers les cellules de quarantaine."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Welcher Wahlspruch ist über dem Eingang eingraviert?",
+        "options": [
+          "La liberté ne se vend pas pour tout l'or du monde",
+          "La mer unit ceux que les montagnes séparent.",
+          "Le commerce est la meilleure fortification des peuples libres."
+        ],
+        "answer": 0
+      }
+    ],
+    "Fort Bokar": [
+      {
+        "question": "Welcher Architekt leitete um 1461 die Planung des Forts Bokar ein?",
+        "options": [
+          "Andrea Pozzo, architecte associé à l'église Saint-Ignace.",
+          "Antonio Ferramolino, ingénieur du fort Revelin.",
+          "Une tour carrée"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Warum war seine zylindrische Form von Vorteil?",
+        "options": [
+          "Elle permettait d'amarrer les galères tout autour du fort.",
+          "Elle reproduisait exactement la forme des silos du grenier Rupe.",
+          "Elle résistait mieux aux boulets et élargissait les angles de tir"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Welches Baudetail sollte man von außen beobachten?",
+        "options": [
+          "Une chaussée romaine conservée dans le socle occidental.",
+          "Des arches et cavités où l'eau passe sous une partie du fort",
+          "Un escalier de marbre reliant directement la cour à Kolorina."
+        ],
+        "answer": 0
+      }
+    ],
+    "Remparts et tour Minčeta": [
+      {
+        "question": "Welche Form hatte der erste Minčeta-Turm von 1319?",
+        "options": [
+          "Une tour carrée",
+          "Un bastion triangulaire tourné vers le vieux port.",
+          "Une tour octogonale couverte d'un dôme de cuivre."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Welche Architekten verwandelten Minčeta im 15. Jahrhundert?",
+        "options": [
+          "Andrea Buffalini puis Marino Gropelli.",
+          "Michelozzo puis Juraj Dalmatinac",
+          "Onofrio della Cava puis Pietro Passalacqua."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Welche ungefähre Länge hat der Rundgang auf den Stadtmauern?",
+        "options": [
+          "Plus de 4 500 mètres jusqu'au sommet du mont Srđ.",
+          "Près de 850 mètres entre Pile et Ploče seulement.",
+          "Elle limitait le passage des animaux dans l'enceinte"
+        ],
+        "answer": 1
+      }
+    ],
+    "Monastère dominicain": [
+      {
+        "question": "In welchem Jahr ließen sich die Dominikaner in Dubrovnik nieder?",
+        "options": [
+          "En 1317, avec l'ouverture de la pharmacie franciscaine.",
+          "De 1418 à 1424 pour protéger la colonne d'Orlando.",
+          "En 1453, après la chute de Constantinople."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Welches bedeutende Werk wird in der Kirche aufbewahrt?",
+        "options": [
+          "La statue d'argent de saint Blaise portant la ville médiévale.",
+          "Un crucifix peint par Paolo Veneziano en 1358",
+          "Le polyptyque de l'Assomption attribué à Titien."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Welches praktische Detail erklärt die Form des Treppengeländers?",
+        "options": [
+          "Elle permettait aux soldats de poser leurs arquebuses en batterie.",
+          "Elle limitait le passage des animaux dans l'enceinte",
+          "Elle marquait la frontière fiscale entre le port et la ville haute."
+        ],
+        "answer": 1
+      }
+    ],
+    "Fort Revelin et porte Ploče": [
+      {
+        "question": "Wann wurde das heutige Fort Revelin erbaut?",
+        "options": [
+          "Entre 1699 et 1725 pendant le chantier des Jésuites.",
+          "Another aspect of Dubrovnik's heritage (Fort Revelin et porte Ploče)",
+          "De 1418 à 1424 pour protéger la colonne d'Orlando."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Welcher Ingenieur ist mit seiner modernen Gestaltung verbunden?",
+        "options": [
+          "Gaetano Garcia, peintre des fresques de Saint-Ignace.",
+          "Antonio Ferramolino",
+          "Mihoje Brajkov de Bar, sculpteur du cloître franciscain."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Warum wurden die anderen großen Bauprojekte während seines Baus eingeschränkt?",
+        "options": [
+          "Pour concentrer ouvriers et matériaux sur une défense jugée urgente",
+          "Pour respecter une interdiction religieuse de bâtir près du port.",
+          "Pour laisser sécher le terrain gagné sur l'ancien chenal de Stradun."
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  "it": {
+    "Porte Pile": [
+      {
+        "question": "Quale data corrisponde alla costruzione della porta esterna rinascimentale di Pile?",
+        "options": [
+          "1537",
+          "La porte extérieure fut achevée en 1492 lors d'une réforme du port.",
+          "Elle date de 1668, au lendemain immédiat du grand séisme."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Cosa bisogna individuare per comprendere l’antico dispositivo d’ingresso?",
+        "options": [
+          "Les rainures du pont-levis et le passage coudé",
+          "Une herse en bronze provenant du palais Sponza.",
+          "Un escalier souterrain reliant directement Pile au vieux port."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Quale ruolo svolgeva principalmente la porte Pile sotto la Repubblica?",
+        "options": [
+          "Elle servait de tribunal aux capitaines de navires marchands.",
+          "Elle abritait les réserves de grain destinées aux périodes de siège.",
+          "Elle contrôlait l'accès terrestre occidental à la ville"
+        ],
+        "answer": 0
+      }
+    ],
+    "Grande fontaine d’Onofrio": [
+      {
+        "question": "Quando sono stati realizzati l'acquedotto e la grande fontana di Onofrio?",
+        "options": [
+          "La pharmacie aurait ouvert en 1416 avec le premier lazaret.",
+          "Ils furent construits vers 1358 après le traité de Zadar.",
+          "Le réseau fut créé en 1808 par l'administration napoléonienne."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Quanti mascheroni distribuiscono l’acqua attorno alla fontana?",
+        "options": [
+          "Vingt-quatre gueules de lions inspirées du palais du Recteur.",
+          "Le portail sculpté de l'ancienne église gothique",
+          "Douze têtes représentant les mois de l'année."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Perché quest’opera era essenziale a Dubrovnik?",
+        "options": [
+          "Il apportait une eau régulière utile à la vie quotidienne et aux sièges",
+          "Il permettait de remplir les bassins de radoub du vieux port.",
+          "Il actionnait les cloches publiques grâce à une roue hydraulique."
+        ],
+        "answer": 0
+      }
+    ],
+    "Monastère franciscain et ancienne pharmacie": [
+      {
+        "question": "A quale anno la tradizione fa risalire la fondazione dell’antica farmacia?",
+        "options": [
+          "La pharmacie aurait ouvert en 1416 avec le premier lazaret.",
+          "Elle fut fondée en 1522 dans les locaux de la douane.",
+          "Un ancien chenal marin progressivement comblé"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quale elemento del monastero è sopravvissuto in gran parte al terremoto del 1667?",
+        "options": [
+          "Le grand clocher roman couronné d'une flèche de cuivre.",
+          "La nef médiévale entière avec ses voûtes d'origine.",
+          "Le portail sculpté de l'ancienne église gothique"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Cosa bisogna confrontare nel chiostro?",
+        "options": [
+          "Les chapiteaux aux décors tous différents",
+          "Les mosaïques dorées représentant les recteurs de Raguse.",
+          "Les cadrans solaires gravés sur chacune des colonnes jumelles."
+        ],
+        "answer": 1
+      }
+    ],
+    "Stradun": [
+      {
+        "question": "Quale origine urbana spiega il tracciato rettilineo dello Stradun?",
+        "options": [
+          "Un ancien chenal marin progressivement comblé",
+          "Une voie romaine construite pour rejoindre l'amphithéâtre de Raguse.",
+          "Un canal défensif creusé après le siège vénitien de 1205."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quale trasformazione seguì il terremoto del 1667?",
+        "options": [
+          "Les façades furent reconstruites selon un modèle plus uniforme",
+          "La rue reçut une colonnade continue inspirée de la place Saint-Marc.",
+          "Les boutiques furent déplacées sous les remparts orientaux."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Cosa significa l’abitudine locale di «fare un đir»?",
+        "options": [
+          "Monter chaque matin jusqu'à la tour Minčeta pour sonner la cloche.",
+          "Fermer les volets des boutiques pendant la chaleur de midi.",
+          "Se promener pour voir du monde et échanger quelques mots"
+        ],
+        "answer": 0
+      }
+    ],
+    "Palais Sponza": [
+      {
+        "question": "Quando fu costruito il palazzo Sponza?",
+        "options": [
+          "Entre 1435 et 1438 après une explosion de poudre.",
+          "En 1358, l'année du passage sous la couronne hongroise.",
+          "De 1706 à 1715 pour remplacer l'ancienne église Saint-Blaise."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quali funzioni economiche furono riunite nel palazzo?",
+        "options": [
+          "Le marché aux poissons, les salines et les moulins publics.",
+          "La douane, la monnaie, le trésor et des bureaux financiers",
+          "Le chantier naval, la prison maritime et l'hôpital des marins."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Quale contrasto architettonico bisogna osservare sulla facciata?",
+        "options": [
+          "Une base romane en granit surmontée d'un dôme ottoman.",
+          "Les arcs Renaissance du bas et les fenêtres gothiques de l'étage",
+          "Des colonnes corinthiennes portant une façade entièrement néoclassique."
+        ],
+        "answer": 1
+      }
+    ],
+    "Colonne d’Orlando": [
+      {
+        "question": "In quale anno fu installata la colonna di Orlando?",
+        "options": [
+          "En 1526, après la bataille de Mohács.",
+          "Entre 1706 et 1715",
+          "En 1358, l'année du passage sous la couronne hongroise."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "A cosa serviva il braccio di Orlando nella vita commerciale?",
+        "options": [
+          "Il matérialisait une mesure d'environ 51,2 centimètres",
+          "Il indiquait la direction du vent dominant vers l'île de Lokrum.",
+          "Il portait une balance destinée au contrôle du prix du sel."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quale ideale politico simboleggiava soprattutto la colonna?",
+        "options": [
+          "La liberté civique et l'autorité de la République",
+          "La souveraineté directe de Venise sur le port de Raguse.",
+          "L'alliance militaire permanente avec l'Empire ottoman."
+        ],
+        "answer": 1
+      }
+    ],
+    "Église Saint-Blaise": [
+      {
+        "question": "Quando fu costruita l'attuale chiesa barocca?",
+        "options": [
+          "Entre 1706 et 1715",
+          "Entre 1440 et 1450 sous la direction d'Onofrio della Cava.",
+          "De 1538 à 1549 pendant le chantier du fort Revelin."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quale oggetto antico è sopravvissuto all’incendio del 1706?",
+        "options": [
+          "Le retable de Titien aujourd'hui conservé dans la cathédrale.",
+          "La statue en argent doré de saint Blaise",
+          "La grande cloche fondue avec le bronze de canons vénitiens."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Cosa mostra il piccolo modellino portato dal santo?",
+        "options": [
+          "La route commerciale reliant Raguse à Sarajevo au XVIIIe siècle.",
+          "Une représentation de Dubrovnik avant le séisme de 1667",
+          "Le plan du port de Ston avec ses bassins salins."
+        ],
+        "answer": 2
+      }
+    ],
+    "Palais du Recteur": [
+      {
+        "question": "Quanto durava normalmente il mandato del rettore?",
+        "options": [
+          "En 1893",
+          "Une année complète renouvelable trois fois.",
+          "Une semaine pendant la saison de navigation."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Che cosa chiedeva il motto collocato nel palazzo?",
+        "options": [
+          "De remettre chaque litige à l'arbitrage du Sénat vénitien.",
+          "D'oublier les intérêts privés pour servir les affaires publiques",
+          "De défendre le commerce maritime avant toute alliance terrestre."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Quale dettaglio scolpito merita attenzione nella loggia?",
+        "options": [
+          "Une sirène portant les clés de toutes les portes de la ville.",
+          "Un portrait équestre du sultan Mehmed II gravé dans le marbre.",
+          "Un chapiteau montrant Esculape dans son laboratoire"
+        ],
+        "answer": 2
+      }
+    ],
+    "Place Gundulić": [
+      {
+        "question": "Quando fu inaugurata la statua di Ivan Gundulić?",
+        "options": [
+          "En 1815, lors de l'intégration de Dubrovnik à l'Autriche.",
+          "En 1893",
+          "En 1938 pour le tricentenaire de la mort du poète."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Quale scultore realizzò il monumento centrale?",
+        "options": [
+          "Quinze silos profonds",
+          "Bonino da Milano, traditionnellement associé à Orlando.",
+          "Marino Gropelli, architecte de l'église Saint-Blaise."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Quale attività anima soprattutto la piazza al mattino?",
+        "options": [
+          "Le recrutement public des équipages pour les galères de la République.",
+          "Un marché de produits frais et régionaux",
+          "La vente aux enchères des cargaisons débarquées au vieux port."
+        ],
+        "answer": 2
+      }
+    ],
+    "Grenier Rupe": [
+      {
+        "question": "In quale periodo fu costruito il granaio Rupe?",
+        "options": [
+          "En 1806 afin de nourrir l'armée française de Lauriston.",
+          "Vers 1590, à la fin du XVIe siècle",
+          "Au début du XIIIe siècle pour stocker les tributs vénitiens."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Quanti grandi silos di roccia vengono generalmente descritti?",
+        "options": [
+          "Huit citernes alignées sous une cour Renaissance.",
+          "Quinze silos profonds",
+          "Trente-deux cellules voûtées ouvertes sur la rue."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Perché la Repubblica nutriva tali riserve?",
+        "options": [
+          "Pour produire du malt destiné exclusivement aux tavernes de Stradun.",
+          "Pour faire face aux blocus, aux mauvaises récoltes et aux ruptures d'approvisionnement",
+          "Pour conserver les épices saisies par la douane du palais Sponza."
+        ],
+        "answer": 0
+      }
+    ],
+    "Escalier des Jésuites et église Saint-Ignace": [
+      {
+        "question": "Quando fu principalmente costruita la chiesa di Sant’Ignazio?",
+        "options": [
+          "L'incendie de 1706 qui détruisit l'église Saint-Blaise.",
+          "De 1541 à 1551 pour accueillir la douane de la République.",
+          "Entre 1317 et 1325 lors de l'installation des Franciscains."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Chi aggiunse il grande scalone esterno nel 1738?",
+        "options": [
+          "Paskoje Miličević, ingénieur de la fontaine d'Onofrio.",
+          "Michelozzo, concepteur de la tour ronde de Minčeta.",
+          "Titien et son atelier"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quale effetto artistico bisogna cercare negli affreschi?",
+        "options": [
+          "Des cartes nautiques peintes avec les routes des navires ragusains.",
+          "Des architectures en trompe-l'œil qui agrandissent l'espace",
+          "Une mosaïque byzantine représentant le siège de 1205."
+        ],
+        "answer": 1
+      }
+    ],
+    "Cathédrale de l’Assomption": [
+      {
+        "question": "Quale evento impose la ricostruzione barocca della cattedrale?",
+        "options": [
+          "L'explosion de poudre de 1463 dans le palais du Recteur.",
+          "L'incendie de 1706 qui détruisit l'église Saint-Blaise.",
+          "Le grand séisme du 6 avril 1667"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Quale artista è associato al polittico dell’Assunzione?",
+        "options": [
+          "Paolo Veneziano, auteur du crucifix dominicain de 1358.",
+          "Titien et son atelier",
+          "Ivan Rendić, sculpteur de la statue de Gundulić."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Quale leggenda medievale è legata all’antica cattedrale?",
+        "options": [
+          "Marco Polo aurait offert les colonnes prises à Constantinople.",
+          "Richard Cœur de Lion aurait financé une église après un naufrage",
+          "Dante aurait composé un chant de la Divine Comédie dans la sacristie."
+        ],
+        "answer": 0
+      }
+    ],
+    "Vieux-Port": [
+      {
+        "question": "In quale anno fu costruito il frangiflutti di Kaše?",
+        "options": [
+          "En 1377, en même temps que le premier règlement de quarantaine.",
+          "En 1485",
+          "En 1667 pour réparer les dégâts du séisme dans le port."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Perché le arcate dell’arsenale potevano essere murate?",
+        "options": [
+          "Pour cacher les navires en construction aux observateurs étrangers",
+          "Pour empêcher les moines dominicains d'accéder aux quais la nuit.",
+          "Pour transformer les ateliers en entrepôts frigorifiques l'été."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Quale ruolo sanitario era legato agli arrivi marittimi?",
+        "options": [
+          "La fontaine d'Onofrio servait de bassin obligatoire de désinfection des voiles.",
+          "Le palais Sponza délivrait un certificat de baptême à chaque équipage.",
+          "Les lazarets imposaient une quarantaine aux voyageurs et marchandises suspects"
+        ],
+        "answer": 1
+      }
+    ],
+    "Fort Lovrijenac": [
+      {
+        "question": "Quale spessore possono raggiungere le mura di Lovrijenac rivolte verso il mare?",
+        "options": [
+          "Jusqu'à environ douze mètres",
+          "Plus de vingt-cinq mètres au niveau de la porte principale.",
+          "Environ deux mètres, comme le mur faisant face à la ville."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Perché il muro dal lato di Dubrovnik è più sottile?",
+        "options": [
+          "Pour supporter une galerie marchande aujourd'hui disparue.",
+          "Pour permettre à la ville de neutraliser le fort s'il était capturé",
+          "Pour laisser passer la lumière vers les cellules de quarantaine."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Quale motto è inciso sopra l’ingresso?",
+        "options": [
+          "La liberté ne se vend pas pour tout l'or du monde",
+          "La mer unit ceux que les montagnes séparent.",
+          "Le commerce est la meilleure fortification des peuples libres."
+        ],
+        "answer": 0
+      }
+    ],
+    "Fort Bokar": [
+      {
+        "question": "Quale architetto avviò la progettazione del forte Bokar intorno al 1461?",
+        "options": [
+          "Andrea Pozzo, architecte associé à l'église Saint-Ignace.",
+          "Antonio Ferramolino, ingénieur du fort Revelin.",
+          "Une tour carrée"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Perché la sua forma cilindrica era vantaggiosa?",
+        "options": [
+          "Elle permettait d'amarrer les galères tout autour du fort.",
+          "Elle reproduisait exactement la forme des silos du grenier Rupe.",
+          "Elle résistait mieux aux boulets et élargissait les angles de tir"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Quale dettaglio di costruzione bisogna osservare dall’esterno?",
+        "options": [
+          "Une chaussée romaine conservée dans le socle occidental.",
+          "Des arches et cavités où l'eau passe sous une partie du fort",
+          "Un escalier de marbre reliant directement la cour à Kolorina."
+        ],
+        "answer": 0
+      }
+    ],
+    "Remparts et tour Minčeta": [
+      {
+        "question": "Che forma aveva la prima torre Minčeta del 1319?",
+        "options": [
+          "Une tour carrée",
+          "Un bastion triangulaire tourné vers le vieux port.",
+          "Une tour octogonale couverte d'un dôme de cuivre."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quali architetti trasformarono Minčeta nel XV secolo?",
+        "options": [
+          "Andrea Buffalini puis Marino Gropelli.",
+          "Michelozzo puis Juraj Dalmatinac",
+          "Onofrio della Cava puis Pietro Passalacqua."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quale lunghezza approssimativa forma il circuito delle mura?",
+        "options": [
+          "Plus de 4 500 mètres jusqu'au sommet du mont Srđ.",
+          "Près de 850 mètres entre Pile et Ploče seulement.",
+          "Elle limitait le passage des animaux dans l'enceinte"
+        ],
+        "answer": 1
+      }
+    ],
+    "Monastère dominicain": [
+      {
+        "question": "In quale anno i Domenicani si stabilirono a Dubrovnik?",
+        "options": [
+          "En 1317, avec l'ouverture de la pharmacie franciscaine.",
+          "De 1418 à 1424 pour protéger la colonne d'Orlando.",
+          "En 1453, après la chute de Constantinople."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Quale opera importante è conservata nella chiesa?",
+        "options": [
+          "La statue d'argent de saint Blaise portant la ville médiévale.",
+          "Un crucifix peint par Paolo Veneziano en 1358",
+          "Le polyptyque de l'Assomption attribué à Titien."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Quale dettaglio pratico spiega la forma della balaustra della scala?",
+        "options": [
+          "Elle permettait aux soldats de poser leurs arquebuses en batterie.",
+          "Elle limitait le passage des animaux dans l'enceinte",
+          "Elle marquait la frontière fiscale entre le port et la ville haute."
+        ],
+        "answer": 1
+      }
+    ],
+    "Fort Revelin et porte Ploče": [
+      {
+        "question": "Quando fu costruito l'attuale fortezza Revelin?",
+        "options": [
+          "Entre 1699 et 1725 pendant le chantier des Jésuites.",
+          "Another aspect of Dubrovnik's heritage (Fort Revelin et porte Ploče)",
+          "De 1418 à 1424 pour protéger la colonne d'Orlando."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Quale ingegnere è associato alla sua concezione moderna?",
+        "options": [
+          "Gaetano Garcia, peintre des fresques de Saint-Ignace.",
+          "Antonio Ferramolino",
+          "Mihoje Brajkov de Bar, sculpteur du cloître franciscain."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Perché gli altri grandi cantieri furono limitati durante la sua costruzione?",
+        "options": [
+          "Pour concentrer ouvriers et matériaux sur une défense jugée urgente",
+          "Pour respecter une interdiction religieuse de bâtir près du port.",
+          "Pour laisser sécher le terrain gagné sur l'ancien chenal de Stradun."
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  "es": {
+    "Porte Pile": [
+      {
+        "question": "¿Qué fecha corresponde a la construcción de la puerta exterior renacentista de Pile?",
+        "options": [
+          "1537",
+          "La porte extérieure fut achevée en 1492 lors d'une réforme du port.",
+          "Elle date de 1668, au lendemain immédiat du grand séisme."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué hay que identificar para comprender el antiguo dispositivo de entrada?",
+        "options": [
+          "Les rainures du pont-levis et le passage coudé",
+          "Une herse en bronze provenant du palais Sponza.",
+          "Un escalier souterrain reliant directement Pile au vieux port."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué función desempeñaba principalmente la Puerta Pile durante la República?",
+        "options": [
+          "Elle servait de tribunal aux capitaines de navires marchands.",
+          "Elle abritait les réserves de grain destinées aux périodes de siège.",
+          "Elle contrôlait l'accès terrestre occidental à la ville"
+        ],
+        "answer": 0
+      }
+    ],
+    "Grande fontaine d’Onofrio": [
+      {
+        "question": "¿Cuándo se construyeron el acueducto y la gran fuente de Onofrio?",
+        "options": [
+          "La pharmacie aurait ouvert en 1416 avec le premier lazaret.",
+          "Ils furent construits vers 1358 après le traité de Zadar.",
+          "Le réseau fut créé en 1808 par l'administration napoléonienne."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Cuántos mascarones distribuyen el agua alrededor de la fuente?",
+        "options": [
+          "Vingt-quatre gueules de lions inspirées du palais du Recteur.",
+          "Le portail sculpté de l'ancienne église gothique",
+          "Douze têtes représentant les mois de l'année."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "¿Por qué esta obra era esencial para Dubrovnik?",
+        "options": [
+          "Il apportait une eau régulière utile à la vie quotidienne et aux sièges",
+          "Il permettait de remplir les bassins de radoub du vieux port.",
+          "Il actionnait les cloches publiques grâce à une roue hydraulique."
+        ],
+        "answer": 0
+      }
+    ],
+    "Monastère franciscain et ancienne pharmacie": [
+      {
+        "question": "¿A qué año atribuye la tradición la fundación de la antigua farmacia?",
+        "options": [
+          "La pharmacie aurait ouvert en 1416 avec le premier lazaret.",
+          "Elle fut fondée en 1522 dans les locaux de la douane.",
+          "Un ancien chenal marin progressivement comblé"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué elemento del monasterio sobrevivió en gran medida al terremoto de 1667?",
+        "options": [
+          "Le grand clocher roman couronné d'une flèche de cuivre.",
+          "La nef médiévale entière avec ses voûtes d'origine.",
+          "Le portail sculpté de l'ancienne église gothique"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué hay que comparar en el claustro?",
+        "options": [
+          "Les chapiteaux aux décors tous différents",
+          "Les mosaïques dorées représentant les recteurs de Raguse.",
+          "Les cadrans solaires gravés sur chacune des colonnes jumelles."
+        ],
+        "answer": 1
+      }
+    ],
+    "Stradun": [
+      {
+        "question": "¿Qué origen urbano explica el trazado rectilíneo del Stradun?",
+        "options": [
+          "Un ancien chenal marin progressivement comblé",
+          "Une voie romaine construite pour rejoindre l'amphithéâtre de Raguse.",
+          "Un canal défensif creusé après le siège vénitien de 1205."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué transformación siguió al terremoto de 1667?",
+        "options": [
+          "Les façades furent reconstruites selon un modèle plus uniforme",
+          "La rue reçut une colonnade continue inspirée de la place Saint-Marc.",
+          "Les boutiques furent déplacées sous les remparts orientaux."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué significa la costumbre local de «dar un đir»?",
+        "options": [
+          "Monter chaque matin jusqu'à la tour Minčeta pour sonner la cloche.",
+          "Fermer les volets des boutiques pendant la chaleur de midi.",
+          "Se promener pour voir du monde et échanger quelques mots"
+        ],
+        "answer": 0
+      }
+    ],
+    "Palais Sponza": [
+      {
+        "question": "¿Cuándo se construyó el palacio Sponza?",
+        "options": [
+          "Entre 1435 et 1438 après une explosion de poudre.",
+          "En 1358, l'année du passage sous la couronne hongroise.",
+          "De 1706 à 1715 pour remplacer l'ancienne église Saint-Blaise."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué funciones económicas se reunían en el palacio?",
+        "options": [
+          "Le marché aux poissons, les salines et les moulins publics.",
+          "La douane, la monnaie, le trésor et des bureaux financiers",
+          "Le chantier naval, la prison maritime et l'hôpital des marins."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué contraste arquitectónico hay que observar en la fachada?",
+        "options": [
+          "Une base romane en granit surmontée d'un dôme ottoman.",
+          "Les arcs Renaissance du bas et les fenêtres gothiques de l'étage",
+          "Des colonnes corinthiennes portant une façade entièrement néoclassique."
+        ],
+        "answer": 1
+      }
+    ],
+    "Colonne d’Orlando": [
+      {
+        "question": "¿En qué año se instaló la columna de Orlando?",
+        "options": [
+          "En 1526, après la bataille de Mohács.",
+          "Entre 1706 et 1715",
+          "En 1358, l'année du passage sous la couronne hongroise."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "¿Para qué servía el brazo de Orlando en la vida comercial?",
+        "options": [
+          "Il matérialisait une mesure d'environ 51,2 centimètres",
+          "Il indiquait la direction du vent dominant vers l'île de Lokrum.",
+          "Il portait une balance destinée au contrôle du prix du sel."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué ideal político simbolizaba sobre todo la columna?",
+        "options": [
+          "La liberté civique et l'autorité de la République",
+          "La souveraineté directe de Venise sur le port de Raguse.",
+          "L'alliance militaire permanente avec l'Empire ottoman."
+        ],
+        "answer": 1
+      }
+    ],
+    "Église Saint-Blaise": [
+      {
+        "question": "¿Cuándo se construyó la actual iglesia barroca?",
+        "options": [
+          "Entre 1706 et 1715",
+          "Entre 1440 et 1450 sous la direction d'Onofrio della Cava.",
+          "De 1538 à 1549 pendant le chantier du fort Revelin."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué objeto antiguo sobrevivió al incendio de 1706?",
+        "options": [
+          "Le retable de Titien aujourd'hui conservé dans la cathédrale.",
+          "La statue en argent doré de saint Blaise",
+          "La grande cloche fondue avec le bronze de canons vénitiens."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué muestra la pequeña maqueta que lleva el santo?",
+        "options": [
+          "La route commerciale reliant Raguse à Sarajevo au XVIIIe siècle.",
+          "Une représentation de Dubrovnik avant le séisme de 1667",
+          "Le plan du port de Ston avec ses bassins salins."
+        ],
+        "answer": 2
+      }
+    ],
+    "Palais du Recteur": [
+      {
+        "question": "¿Cuánto duraba normalmente el mandato del rector?",
+        "options": [
+          "En 1893",
+          "Une année complète renouvelable trois fois.",
+          "Une semaine pendant la saison de navigation."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué pedía el lema colocado en el palacio?",
+        "options": [
+          "De remettre chaque litige à l'arbitrage du Sénat vénitien.",
+          "D'oublier les intérêts privés pour servir les affaires publiques",
+          "De défendre le commerce maritime avant toute alliance terrestre."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué detalle esculpido merece atención en la logia?",
+        "options": [
+          "Une sirène portant les clés de toutes les portes de la ville.",
+          "Un portrait équestre du sultan Mehmed II gravé dans le marbre.",
+          "Un chapiteau montrant Esculape dans son laboratoire"
+        ],
+        "answer": 2
+      }
+    ],
+    "Place Gundulić": [
+      {
+        "question": "¿Cuándo se inauguró la estatua de Ivan Gundulić?",
+        "options": [
+          "En 1815, lors de l'intégration de Dubrovnik à l'Autriche.",
+          "En 1893",
+          "En 1938 pour le tricentenaire de la mort du poète."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué escultor realizó el monumento central?",
+        "options": [
+          "Quinze silos profonds",
+          "Bonino da Milano, traditionnellement associé à Orlando.",
+          "Marino Gropelli, architecte de l'église Saint-Blaise."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué actividad anima sobre todo la plaza por la mañana?",
+        "options": [
+          "Le recrutement public des équipages pour les galères de la République.",
+          "Un marché de produits frais et régionaux",
+          "La vente aux enchères des cargaisons débarquées au vieux port."
+        ],
+        "answer": 2
+      }
+    ],
+    "Grenier Rupe": [
+      {
+        "question": "¿En qué período se construyó el granero Rupe?",
+        "options": [
+          "En 1806 afin de nourrir l'armée française de Lauriston.",
+          "Vers 1590, à la fin du XVIe siècle",
+          "Au début du XIIIe siècle pour stocker les tributs vénitiens."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "¿Cuántos grandes silos de roca se describen generalmente?",
+        "options": [
+          "Huit citernes alignées sous une cour Renaissance.",
+          "Quinze silos profonds",
+          "Trente-deux cellules voûtées ouvertes sur la rue."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Por qué la República mantenía tales reservas?",
+        "options": [
+          "Pour produire du malt destiné exclusivement aux tavernes de Stradun.",
+          "Pour faire face aux blocus, aux mauvaises récoltes et aux ruptures d'approvisionnement",
+          "Pour conserver les épices saisies par la douane du palais Sponza."
+        ],
+        "answer": 0
+      }
+    ],
+    "Escalier des Jésuites et église Saint-Ignace": [
+      {
+        "question": "¿Cuándo se construyó principalmente la iglesia de Saint-Ignace?",
+        "options": [
+          "L'incendie de 1706 qui détruisit l'église Saint-Blaise.",
+          "De 1541 à 1551 pour accueillir la douane de la République.",
+          "Entre 1317 et 1325 lors de l'installation des Franciscains."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "¿Quién añadió la gran escalera exterior en 1738?",
+        "options": [
+          "Paskoje Miličević, ingénieur de la fontaine d'Onofrio.",
+          "Michelozzo, concepteur de la tour ronde de Minčeta.",
+          "Titien et son atelier"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué efecto artístico hay que buscar en los frescos?",
+        "options": [
+          "Des cartes nautiques peintes avec les routes des navires ragusains.",
+          "Des architectures en trompe-l'œil qui agrandissent l'espace",
+          "Une mosaïque byzantine représentant le siège de 1205."
+        ],
+        "answer": 1
+      }
+    ],
+    "Cathédrale de l’Assomption": [
+      {
+        "question": "¿Qué acontecimiento impuso la reconstrucción barroca de la catedral?",
+        "options": [
+          "L'explosion de poudre de 1463 dans le palais du Recteur.",
+          "L'incendie de 1706 qui détruisit l'église Saint-Blaise.",
+          "Le grand séisme du 6 avril 1667"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué artista está asociado al políptico de la Asunción?",
+        "options": [
+          "Paolo Veneziano, auteur du crucifix dominicain de 1358.",
+          "Titien et son atelier",
+          "Ivan Rendić, sculpteur de la statue de Gundulić."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Qué leyenda medieval está vinculada a la antigua catedral?",
+        "options": [
+          "Marco Polo aurait offert les colonnes prises à Constantinople.",
+          "Richard Cœur de Lion aurait financé une église après un naufrage",
+          "Dante aurait composé un chant de la Divine Comédie dans la sacristie."
+        ],
+        "answer": 0
+      }
+    ],
+    "Vieux-Port": [
+      {
+        "question": "¿En qué año se construyó el rompeolas de Kaše?",
+        "options": [
+          "En 1377, en même temps que le premier règlement de quarantaine.",
+          "En 1485",
+          "En 1667 pour réparer les dégâts du séisme dans le port."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Por qué podían tapiarse los arcos del arsenal?",
+        "options": [
+          "Pour cacher les navires en construction aux observateurs étrangers",
+          "Pour empêcher les moines dominicains d'accéder aux quais la nuit.",
+          "Pour transformer les ateliers en entrepôts frigorifiques l'été."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué función sanitaria estaba relacionada con las llegadas marítimas?",
+        "options": [
+          "La fontaine d'Onofrio servait de bassin obligatoire de désinfection des voiles.",
+          "Le palais Sponza délivrait un certificat de baptême à chaque équipage.",
+          "Les lazarets imposaient une quarantaine aux voyageurs et marchandises suspects"
+        ],
+        "answer": 1
+      }
+    ],
+    "Fort Lovrijenac": [
+      {
+        "question": "¿Qué grosor pueden alcanzar las murallas de Lovrijenac orientadas hacia el mar?",
+        "options": [
+          "Jusqu'à environ douze mètres",
+          "Plus de vingt-cinq mètres au niveau de la porte principale.",
+          "Environ deux mètres, comme le mur faisant face à la ville."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "¿Por qué el muro del lado de Dubrovnik es más delgado?",
+        "options": [
+          "Pour supporter une galerie marchande aujourd'hui disparue.",
+          "Pour permettre à la ville de neutraliser le fort s'il était capturé",
+          "Pour laisser passer la lumière vers les cellules de quarantaine."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué lema está inscrito encima de la entrada?",
+        "options": [
+          "La liberté ne se vend pas pour tout l'or du monde",
+          "La mer unit ceux que les montagnes séparent.",
+          "Le commerce est la meilleure fortification des peuples libres."
+        ],
+        "answer": 0
+      }
+    ],
+    "Fort Bokar": [
+      {
+        "question": "¿Qué arquitecto inició el diseño del fuerte Bokar hacia 1461?",
+        "options": [
+          "Andrea Pozzo, architecte associé à l'église Saint-Ignace.",
+          "Antonio Ferramolino, ingénieur du fort Revelin.",
+          "Une tour carrée"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Por qué era ventajosa su forma cilíndrica?",
+        "options": [
+          "Elle permettait d'amarrer les galères tout autour du fort.",
+          "Elle reproduisait exactement la forme des silos du grenier Rupe.",
+          "Elle résistait mieux aux boulets et élargissait les angles de tir"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué detalle de construcción hay que observar desde el exterior?",
+        "options": [
+          "Une chaussée romaine conservée dans le socle occidental.",
+          "Des arches et cavités où l'eau passe sous une partie du fort",
+          "Un escalier de marbre reliant directement la cour à Kolorina."
+        ],
+        "answer": 0
+      }
+    ],
+    "Remparts et tour Minčeta": [
+      {
+        "question": "¿Qué forma tenía la primera torre Minčeta de 1319?",
+        "options": [
+          "Une tour carrée",
+          "Un bastion triangulaire tourné vers le vieux port.",
+          "Une tour octogonale couverte d'un dôme de cuivre."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué arquitectos transformaron Minčeta en el siglo XV?",
+        "options": [
+          "Andrea Buffalini puis Marino Gropelli.",
+          "Michelozzo puis Juraj Dalmatinac",
+          "Onofrio della Cava puis Pietro Passalacqua."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué longitud aproximada tiene el recorrido de las murallas?",
+        "options": [
+          "Plus de 4 500 mètres jusqu'au sommet du mont Srđ.",
+          "Près de 850 mètres entre Pile et Ploče seulement.",
+          "Elle limitait le passage des animaux dans l'enceinte"
+        ],
+        "answer": 1
+      }
+    ],
+    "Monastère dominicain": [
+      {
+        "question": "¿En qué año se instalaron los dominicos en Dubrovnik?",
+        "options": [
+          "En 1317, avec l'ouverture de la pharmacie franciscaine.",
+          "De 1418 à 1424 pour protéger la colonne d'Orlando.",
+          "En 1453, après la chute de Constantinople."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "¿Qué obra importante se conserva en la iglesia?",
+        "options": [
+          "La statue d'argent de saint Blaise portant la ville médiévale.",
+          "Un crucifix peint par Paolo Veneziano en 1358",
+          "Le polyptyque de l'Assomption attribué à Titien."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué detalle práctico explica la forma de la balaustrada de la escalera?",
+        "options": [
+          "Elle permettait aux soldats de poser leurs arquebuses en batterie.",
+          "Elle limitait le passage des animaux dans l'enceinte",
+          "Elle marquait la frontière fiscale entre le port et la ville haute."
+        ],
+        "answer": 1
+      }
+    ],
+    "Fort Revelin et porte Ploče": [
+      {
+        "question": "¿Cuándo se construyó el actual fuerte Revelin?",
+        "options": [
+          "Entre 1699 et 1725 pendant le chantier des Jésuites.",
+          "Another aspect of Dubrovnik's heritage (Fort Revelin et porte Ploče)",
+          "De 1418 à 1424 pour protéger la colonne d'Orlando."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "¿Qué ingeniero está asociado a su diseño moderno?",
+        "options": [
+          "Gaetano Garcia, peintre des fresques de Saint-Ignace.",
+          "Antonio Ferramolino",
+          "Mihoje Brajkov de Bar, sculpteur du cloître franciscain."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "¿Por qué se limitaron los otros grandes proyectos de obras durante su construcción?",
+        "options": [
+          "Pour concentrer ouvriers et matériaux sur une défense jugée urgente",
+          "Pour respecter une interdiction religieuse de bâtir près du port.",
+          "Pour laisser sécher le terrain gagné sur l'ancien chenal de Stradun."
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  "pl": {
+    "Porte Pile": [
+      {
+        "question": "Jaka data odpowiada budowie zewnętrznej renesansowej bramy Pile?",
+        "options": [
+          "1537",
+          "La porte extérieure fut achevée en 1492 lors d'une réforme du port.",
+          "Elle date de 1668, au lendemain immédiat du grand séisme."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Co należy wypatrzyć, aby zrozumieć dawny układ wejścia?",
+        "options": [
+          "Les rainures du pont-levis et le passage coudé",
+          "Une herse en bronze provenant du palais Sponza.",
+          "Un escalier souterrain reliant directement Pile au vieux port."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Jaką rolę odgrywała przede wszystkim brama Pile za czasów Republiki?",
+        "options": [
+          "Elle servait de tribunal aux capitaines de navires marchands.",
+          "Elle abritait les réserves de grain destinées aux périodes de siège.",
+          "Elle contrôlait l'accès terrestre occidental à la ville"
+        ],
+        "answer": 0
+      }
+    ],
+    "Grande fontaine d’Onofrio": [
+      {
+        "question": "Kiedy zbudowano akwedukt i wielką fontannę Onofria?",
+        "options": [
+          "La pharmacie aurait ouvert en 1416 avec le premier lazaret.",
+          "Ils furent construits vers 1358 après le traité de Zadar.",
+          "Le réseau fut créé en 1808 par l'administration napoléonienne."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Ile masek dekoracyjnych rozprowadza wodę wokół fontanny?",
+        "options": [
+          "Vingt-quatre gueules de lions inspirées du palais du Recteur.",
+          "Le portail sculpté de l'ancienne église gothique",
+          "Douze têtes représentant les mois de l'année."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Dlaczego to dzieło było tak ważne dla Dubrownika?",
+        "options": [
+          "Il apportait une eau régulière utile à la vie quotidienne et aux sièges",
+          "Il permettait de remplir les bassins de radoub du vieux port.",
+          "Il actionnait les cloches publiques grâce à une roue hydraulique."
+        ],
+        "answer": 0
+      }
+    ],
+    "Monastère franciscain et ancienne pharmacie": [
+      {
+        "question": "Z którym rokiem tradycja wiąże założenie dawnej apteki?",
+        "options": [
+          "La pharmacie aurait ouvert en 1416 avec le premier lazaret.",
+          "Elle fut fondée en 1522 dans les locaux de la douane.",
+          "Un ancien chenal marin progressivement comblé"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Który element klasztoru przetrwał w dużej mierze trzęsienie ziemi z 1667 roku?",
+        "options": [
+          "Le grand clocher roman couronné d'une flèche de cuivre.",
+          "La nef médiévale entière avec ses voûtes d'origine.",
+          "Le portail sculpté de l'ancienne église gothique"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Co należy porównać w krużganku?",
+        "options": [
+          "Les chapiteaux aux décors tous différents",
+          "Les mosaïques dorées représentant les recteurs de Raguse.",
+          "Les cadrans solaires gravés sur chacune des colonnes jumelles."
+        ],
+        "answer": 1
+      }
+    ],
+    "Stradun": [
+      {
+        "question": "Jakie miejskie pochodzenie wyjaśnia prostoliniowy przebieg Stradunu?",
+        "options": [
+          "Un ancien chenal marin progressivement comblé",
+          "Une voie romaine construite pour rejoindre l'amphithéâtre de Raguse.",
+          "Un canal défensif creusé après le siège vénitien de 1205."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Jaką przemianę przyniosło trzęsienie ziemi w 1667 roku?",
+        "options": [
+          "Les façades furent reconstruites selon un modèle plus uniforme",
+          "La rue reçut une colonnade continue inspirée de la place Saint-Marc.",
+          "Les boutiques furent déplacées sous les remparts orientaux."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Co oznacza lokalny zwyczaj „zrobić đir”?",
+        "options": [
+          "Monter chaque matin jusqu'à la tour Minčeta pour sonner la cloche.",
+          "Fermer les volets des boutiques pendant la chaleur de midi.",
+          "Se promener pour voir du monde et échanger quelques mots"
+        ],
+        "answer": 0
+      }
+    ],
+    "Palais Sponza": [
+      {
+        "question": "Kiedy zbudowano pałac Sponza?",
+        "options": [
+          "Entre 1435 et 1438 après une explosion de poudre.",
+          "En 1358, l'année du passage sous la couronne hongroise.",
+          "De 1706 à 1715 pour remplacer l'ancienne église Saint-Blaise."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Jakie funkcje gospodarcze zostały połączone w pałacu?",
+        "options": [
+          "Le marché aux poissons, les salines et les moulins publics.",
+          "La douane, la monnaie, le trésor et des bureaux financiers",
+          "Le chantier naval, la prison maritime et l'hôpital des marins."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Jaki kontrast architektoniczny należy zauważyć na fasadzie?",
+        "options": [
+          "Une base romane en granit surmontée d'un dôme ottoman.",
+          "Les arcs Renaissance du bas et les fenêtres gothiques de l'étage",
+          "Des colonnes corinthiennes portant une façade entièrement néoclassique."
+        ],
+        "answer": 1
+      }
+    ],
+    "Colonne d’Orlando": [
+      {
+        "question": "W którym roku została zainstalowana kolumna Orlando?",
+        "options": [
+          "En 1526, après la bataille de Mohács.",
+          "Entre 1706 et 1715",
+          "En 1358, l'année du passage sous la couronne hongroise."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Do czego służyło ramię Orlando w życiu handlowym?",
+        "options": [
+          "Il matérialisait une mesure d'environ 51,2 centimètres",
+          "Il indiquait la direction du vent dominant vers l'île de Lokrum.",
+          "Il portait une balance destinée au contrôle du prix du sel."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Jaki ideał polityczny symbolizowała przede wszystkim ta kolumna?",
+        "options": [
+          "La liberté civique et l'autorité de la République",
+          "La souveraineté directe de Venise sur le port de Raguse.",
+          "L'alliance militaire permanente avec l'Empire ottoman."
+        ],
+        "answer": 1
+      }
+    ],
+    "Église Saint-Blaise": [
+      {
+        "question": "Kiedy zbudowano obecny barokowy kościół?",
+        "options": [
+          "Entre 1706 et 1715",
+          "Entre 1440 et 1450 sous la direction d'Onofrio della Cava.",
+          "De 1538 à 1549 pendant le chantier du fort Revelin."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Jaki stary przedmiot przetrwał pożar z 1706 roku?",
+        "options": [
+          "Le retable de Titien aujourd'hui conservé dans la cathédrale.",
+          "La statue en argent doré de saint Blaise",
+          "La grande cloche fondue avec le bronze de canons vénitiens."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Co przedstawia mała makieta niesiona przez świętego?",
+        "options": [
+          "La route commerciale reliant Raguse à Sarajevo au XVIIIe siècle.",
+          "Une représentation de Dubrovnik avant le séisme de 1667",
+          "Le plan du port de Ston avec ses bassins salins."
+        ],
+        "answer": 2
+      }
+    ],
+    "Palais du Recteur": [
+      {
+        "question": "Jak długo zwykle trwała kadencja rektora?",
+        "options": [
+          "En 1893",
+          "Une année complète renouvelable trois fois.",
+          "Une semaine pendant la saison de navigation."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Czego wymagało motto umieszczone w pałacu?",
+        "options": [
+          "De remettre chaque litige à l'arbitrage du Sénat vénitien.",
+          "D'oublier les intérêts privés pour servir les affaires publiques",
+          "De défendre le commerce maritime avant toute alliance terrestre."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Który wyrzeźbiony detal w loggii zasługuje na uwagę?",
+        "options": [
+          "Une sirène portant les clés de toutes les portes de la ville.",
+          "Un portrait équestre du sultan Mehmed II gravé dans le marbre.",
+          "Un chapiteau montrant Esculape dans son laboratoire"
+        ],
+        "answer": 2
+      }
+    ],
+    "Place Gundulić": [
+      {
+        "question": "Kiedy odsłonięto pomnik Ivana Gundulicia?",
+        "options": [
+          "En 1815, lors de l'intégration de Dubrovnik à l'Autriche.",
+          "En 1893",
+          "En 1938 pour le tricentenaire de la mort du poète."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Który rzeźbiarz wykonał centralny pomnik?",
+        "options": [
+          "Quinze silos profonds",
+          "Bonino da Milano, traditionnellement associé à Orlando.",
+          "Marino Gropelli, architecte de l'église Saint-Blaise."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Jaka aktywność najbardziej ożywia plac rano?",
+        "options": [
+          "Le recrutement public des équipages pour les galères de la République.",
+          "Un marché de produits frais et régionaux",
+          "La vente aux enchères des cargaisons débarquées au vieux port."
+        ],
+        "answer": 2
+      }
+    ],
+    "Grenier Rupe": [
+      {
+        "question": "W jakim okresie zbudowano spichlerz Rupe?",
+        "options": [
+          "En 1806 afin de nourrir l'armée française de Lauriston.",
+          "Vers 1590, à la fin du XVIe siècle",
+          "Au début du XIIIe siècle pour stocker les tributs vénitiens."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Ile dużych silosów skalnych jest zazwyczaj opisywanych?",
+        "options": [
+          "Huit citernes alignées sous une cour Renaissance.",
+          "Quinze silos profonds",
+          "Trente-deux cellules voûtées ouvertes sur la rue."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Dlaczego Republika miała tak duże zastrzeżenia?",
+        "options": [
+          "Pour produire du malt destiné exclusivement aux tavernes de Stradun.",
+          "Pour faire face aux blocus, aux mauvaises récoltes et aux ruptures d'approvisionnement",
+          "Pour conserver les épices saisies par la douane du palais Sponza."
+        ],
+        "answer": 0
+      }
+    ],
+    "Escalier des Jésuites et église Saint-Ignace": [
+      {
+        "question": "Kiedy głównie zbudowano kościół św. Ignacego?",
+        "options": [
+          "L'incendie de 1706 qui détruisit l'église Saint-Blaise.",
+          "De 1541 à 1551 pour accueillir la douane de la République.",
+          "Entre 1317 et 1325 lors de l'installation des Franciscains."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Kto dobudował wielkie zewnętrzne schody w 1738 roku?",
+        "options": [
+          "Paskoje Miličević, ingénieur de la fontaine d'Onofrio.",
+          "Michelozzo, concepteur de la tour ronde de Minčeta.",
+          "Titien et son atelier"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Jakiego efektu artystycznego należy szukać w freskach?",
+        "options": [
+          "Des cartes nautiques peintes avec les routes des navires ragusains.",
+          "Des architectures en trompe-l'œil qui agrandissent l'espace",
+          "Une mosaïque byzantine représentant le siège de 1205."
+        ],
+        "answer": 1
+      }
+    ],
+    "Cathédrale de l’Assomption": [
+      {
+        "question": "Jakie wydarzenie wymusiło barokową przebudowę katedry?",
+        "options": [
+          "L'explosion de poudre de 1463 dans le palais du Recteur.",
+          "L'incendie de 1706 qui détruisit l'église Saint-Blaise.",
+          "Le grand séisme du 6 avril 1667"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Który artysta jest związany z poliptykiem Wniebowzięcia?",
+        "options": [
+          "Paolo Veneziano, auteur du crucifix dominicain de 1358.",
+          "Titien et son atelier",
+          "Ivan Rendić, sculpteur de la statue de Gundulić."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Jaka średniowieczna legenda jest związana ze starą katedrą?",
+        "options": [
+          "Marco Polo aurait offert les colonnes prises à Constantinople.",
+          "Richard Cœur de Lion aurait financé une église après un naufrage",
+          "Dante aurait composé un chant de la Divine Comédie dans la sacristie."
+        ],
+        "answer": 0
+      }
+    ],
+    "Vieux-Port": [
+      {
+        "question": "W którym roku zbudowano falochron Kaše?",
+        "options": [
+          "En 1377, en même temps que le premier règlement de quarantaine.",
+          "En 1485",
+          "En 1667 pour réparer les dégâts du séisme dans le port."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Dlaczego łuki arsenału mogły zostać zamurowane?",
+        "options": [
+          "Pour cacher les navires en construction aux observateurs étrangers",
+          "Pour empêcher les moines dominicains d'accéder aux quais la nuit.",
+          "Pour transformer les ateliers en entrepôts frigorifiques l'été."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Jaką rolę w zakresie zdrowia publicznego wiązano z przybyciami morskimi?",
+        "options": [
+          "La fontaine d'Onofrio servait de bassin obligatoire de désinfection des voiles.",
+          "Le palais Sponza délivrait un certificat de baptême à chaque équipage.",
+          "Les lazarets imposaient une quarantaine aux voyageurs et marchandises suspects"
+        ],
+        "answer": 1
+      }
+    ],
+    "Fort Lovrijenac": [
+      {
+        "question": "Jaką grubość mogą osiągać mury Lovrijenac od strony morza?",
+        "options": [
+          "Jusqu'à environ douze mètres",
+          "Plus de vingt-cinq mètres au niveau de la porte principale.",
+          "Environ deux mètres, comme le mur faisant face à la ville."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Dlaczego mur od strony Dubrownika jest cieńszy?",
+        "options": [
+          "Pour supporter une galerie marchande aujourd'hui disparue.",
+          "Pour permettre à la ville de neutraliser le fort s'il était capturé",
+          "Pour laisser passer la lumière vers les cellules de quarantaine."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Jaki napis widnieje nad wejściem?",
+        "options": [
+          "La liberté ne se vend pas pour tout l'or du monde",
+          "La mer unit ceux que les montagnes séparent.",
+          "Le commerce est la meilleure fortification des peuples libres."
+        ],
+        "answer": 0
+      }
+    ],
+    "Fort Bokar": [
+      {
+        "question": "Który architekt rozpoczął projekt fortu Bokar około 1461 roku?",
+        "options": [
+          "Andrea Pozzo, architecte associé à l'église Saint-Ignace.",
+          "Antonio Ferramolino, ingénieur du fort Revelin.",
+          "Une tour carrée"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Dlaczego jego cylindryczny kształt był korzystny?",
+        "options": [
+          "Elle permettait d'amarrer les galères tout autour du fort.",
+          "Elle reproduisait exactement la forme des silos du grenier Rupe.",
+          "Elle résistait mieux aux boulets et élargissait les angles de tir"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Jaki szczegół konstrukcyjny należy obserwować z zewnątrz?",
+        "options": [
+          "Une chaussée romaine conservée dans le socle occidental.",
+          "Des arches et cavités où l'eau passe sous une partie du fort",
+          "Un escalier de marbre reliant directement la cour à Kolorina."
+        ],
+        "answer": 0
+      }
+    ],
+    "Remparts et tour Minčeta": [
+      {
+        "question": "Jaką formę miała pierwsza wieża Minčeta z 1319 roku?",
+        "options": [
+          "Une tour carrée",
+          "Un bastion triangulaire tourné vers le vieux port.",
+          "Une tour octogonale couverte d'un dôme de cuivre."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Którzy architekci przekształcili Minčetę w XV wieku?",
+        "options": [
+          "Andrea Buffalini puis Marino Gropelli.",
+          "Michelozzo puis Juraj Dalmatinac",
+          "Onofrio della Cava puis Pietro Passalacqua."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Jaką przybliżoną długość ma obwód murów obronnych?",
+        "options": [
+          "Plus de 4 500 mètres jusqu'au sommet du mont Srđ.",
+          "Près de 850 mètres entre Pile et Ploče seulement.",
+          "Elle limitait le passage des animaux dans l'enceinte"
+        ],
+        "answer": 1
+      }
+    ],
+    "Monastère dominicain": [
+      {
+        "question": "W którym roku dominikanie osiedlili się w Dubrowniku?",
+        "options": [
+          "En 1317, avec l'ouverture de la pharmacie franciscaine.",
+          "De 1418 à 1424 pour protéger la colonne d'Orlando.",
+          "En 1453, après la chute de Constantinople."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Jakie wybitne dzieło jest przechowywane w kościele?",
+        "options": [
+          "La statue d'argent de saint Blaise portant la ville médiévale.",
+          "Un crucifix peint par Paolo Veneziano en 1358",
+          "Le polyptyque de l'Assomption attribué à Titien."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Jaki praktyczny szczegół wyjaśnia kształt balustrady schodów?",
+        "options": [
+          "Elle permettait aux soldats de poser leurs arquebuses en batterie.",
+          "Elle limitait le passage des animaux dans l'enceinte",
+          "Elle marquait la frontière fiscale entre le port et la ville haute."
+        ],
+        "answer": 1
+      }
+    ],
+    "Fort Revelin et porte Ploče": [
+      {
+        "question": "Kiedy został zbudowany obecny fort Revelin?",
+        "options": [
+          "Entre 1699 et 1725 pendant le chantier des Jésuites.",
+          "Another aspect of Dubrovnik's heritage (Fort Revelin et porte Ploče)",
+          "De 1418 à 1424 pour protéger la colonne d'Orlando."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Z którym inżynierem wiąże się jego nowoczesna koncepcja?",
+        "options": [
+          "Gaetano Garcia, peintre des fresques de Saint-Ignace.",
+          "Antonio Ferramolino",
+          "Mihoje Brajkov de Bar, sculpteur du cloître franciscain."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Dlaczego podczas jego budowy ograniczono inne duże prace budowlane?",
+        "options": [
+          "Pour concentrer ouvriers et matériaux sur une défense jugée urgente",
+          "Pour respecter une interdiction religieuse de bâtir près du port.",
+          "Pour laisser sécher le terrain gagné sur l'ancien chenal de Stradun."
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  "ar": {
+    "Porte Pile": [
+      {
+        "question": "أي تاريخ يوافق بناء البوابة الخارجية لعصر النهضة في بيل؟",
+        "options": [
+          "1537",
+          "La porte extérieure fut achevée en 1492 lors d'une réforme du port.",
+          "Elle date de 1668, au lendemain immédiat du grand séisme."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "ما الذي يجب رصده لفهم نظام الدخول القديم؟",
+        "options": [
+          "Les rainures du pont-levis et le passage coudé",
+          "Une herse en bronze provenant du palais Sponza.",
+          "Un escalier souterrain reliant directement Pile au vieux port."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "ما الدور الذي كانت تؤديه بوابة بيل بشكل رئيسي في عهد الجمهورية؟",
+        "options": [
+          "Elle servait de tribunal aux capitaines de navires marchands.",
+          "Elle abritait les réserves de grain destinées aux périodes de siège.",
+          "Elle contrôlait l'accès terrestre occidental à la ville"
+        ],
+        "answer": 0
+      }
+    ],
+    "Grande fontaine d’Onofrio": [
+      {
+        "question": "متى تم إنشاء القناة المائية والنافورة الكبرى أونوفريو؟",
+        "options": [
+          "La pharmacie aurait ouvert en 1416 avec le premier lazaret.",
+          "Ils furent construits vers 1358 après le traité de Zadar.",
+          "Le réseau fut créé en 1808 par l'administration napoléonienne."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "كم عدد الوجوه المنحوتة التي توزّع الماء حول النافورة؟",
+        "options": [
+          "Vingt-quatre gueules de lions inspirées du palais du Recteur.",
+          "Le portail sculpté de l'ancienne église gothique",
+          "Douze têtes représentant les mois de l'année."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "لماذا كانت هذه المنشأة أساسية في دوبروفنيك؟",
+        "options": [
+          "Il apportait une eau régulière utile à la vie quotidienne et aux sièges",
+          "Il permettait de remplir les bassins de radoub du vieux port.",
+          "Il actionnait les cloches publiques grâce à une roue hydraulique."
+        ],
+        "answer": 0
+      }
+    ],
+    "Monastère franciscain et ancienne pharmacie": [
+      {
+        "question": "إلى أي سنة تُنسب التقاليد تأسيس الصيدلية القديمة؟",
+        "options": [
+          "La pharmacie aurait ouvert en 1416 avec le premier lazaret.",
+          "Elle fut fondée en 1522 dans les locaux de la douane.",
+          "Un ancien chenal marin progressivement comblé"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "أيُّ عنصرٍ من عناصر الدير نجا إلى حدٍّ كبير من زلزال عام 1667؟",
+        "options": [
+          "Le grand clocher roman couronné d'une flèche de cuivre.",
+          "La nef médiévale entière avec ses voûtes d'origine.",
+          "Le portail sculpté de l'ancienne église gothique"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "ما الذي ينبغي مقارنته في الدير؟",
+        "options": [
+          "Les chapiteaux aux décors tous différents",
+          "Les mosaïques dorées représentant les recteurs de Raguse.",
+          "Les cadrans solaires gravés sur chacune des colonnes jumelles."
+        ],
+        "answer": 1
+      }
+    ],
+    "Stradun": [
+      {
+        "question": "ما الأصل الحضري الذي يفسّر المسار المستقيم لشارع سترادون؟",
+        "options": [
+          "Un ancien chenal marin progressivement comblé",
+          "Une voie romaine construite pour rejoindre l'amphithéâtre de Raguse.",
+          "Un canal défensif creusé après le siège vénitien de 1205."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "ما التحول الذي تلا زلزال عام 1667؟",
+        "options": [
+          "Les façades furent reconstruites selon un modèle plus uniforme",
+          "La rue reçut une colonnade continue inspirée de la place Saint-Marc.",
+          "Les boutiques furent déplacées sous les remparts orientaux."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "ماذا تعني العادة المحلية «faire un đir»؟",
+        "options": [
+          "Monter chaque matin jusqu'à la tour Minčeta pour sonner la cloche.",
+          "Fermer les volets des boutiques pendant la chaleur de midi.",
+          "Se promener pour voir du monde et échanger quelques mots"
+        ],
+        "answer": 0
+      }
+    ],
+    "Palais Sponza": [
+      {
+        "question": "متى شُيِّد قصر سبونزا؟",
+        "options": [
+          "Entre 1435 et 1438 après une explosion de poudre.",
+          "En 1358, l'année du passage sous la couronne hongroise.",
+          "De 1706 à 1715 pour remplacer l'ancienne église Saint-Blaise."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "ما الوظائف الاقتصادية التي جُمعت في القصر؟",
+        "options": [
+          "Le marché aux poissons, les salines et les moulins publics.",
+          "La douane, la monnaie, le trésor et des bureaux financiers",
+          "Le chantier naval, la prison maritime et l'hôpital des marins."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "ما التباين المعماري الذي ينبغي ملاحظته على الواجهة؟",
+        "options": [
+          "Une base romane en granit surmontée d'un dôme ottoman.",
+          "Les arcs Renaissance du bas et les fenêtres gothiques de l'étage",
+          "Des colonnes corinthiennes portant une façade entièrement néoclassique."
+        ],
+        "answer": 1
+      }
+    ],
+    "Colonne d’Orlando": [
+      {
+        "question": "في أي سنة نُصبت عمود أورلاندو؟",
+        "options": [
+          "En 1526, après la bataille de Mohács.",
+          "Entre 1706 et 1715",
+          "En 1358, l'année du passage sous la couronne hongroise."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "فيم كان يُستخدم ذراع أورلاندو في الحياة التجارية؟",
+        "options": [
+          "Il matérialisait une mesure d'environ 51,2 centimètres",
+          "Il indiquait la direction du vent dominant vers l'île de Lokrum.",
+          "Il portait une balance destinée au contrôle du prix du sel."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "ما المثُل السياسي الذي كانت العمود يرمز إليه في المقام الأول؟",
+        "options": [
+          "La liberté civique et l'autorité de la République",
+          "La souveraineté directe de Venise sur le port de Raguse.",
+          "L'alliance militaire permanente avec l'Empire ottoman."
+        ],
+        "answer": 1
+      }
+    ],
+    "Église Saint-Blaise": [
+      {
+        "question": "متى شُيِّدت الكنيسة الباروكية الحالية؟",
+        "options": [
+          "Entre 1706 et 1715",
+          "Entre 1440 et 1450 sous la direction d'Onofrio della Cava.",
+          "De 1538 à 1549 pendant le chantier du fort Revelin."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "أيُّ غرضٍ قديمٍ نجا من حريق عام 1706؟",
+        "options": [
+          "Le retable de Titien aujourd'hui conservé dans la cathédrale.",
+          "La statue en argent doré de saint Blaise",
+          "La grande cloche fondue avec le bronze de canons vénitiens."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "ماذا تُظهر المجسم الصغير الذي يحمله القديس؟",
+        "options": [
+          "La route commerciale reliant Raguse à Sarajevo au XVIIIe siècle.",
+          "Une représentation de Dubrovnik avant le séisme de 1667",
+          "Le plan du port de Ston avec ses bassins salins."
+        ],
+        "answer": 2
+      }
+    ],
+    "Palais du Recteur": [
+      {
+        "question": "كم كانت مدة ولاية العميد عادةً؟",
+        "options": [
+          "En 1893",
+          "Une année complète renouvelable trois fois.",
+          "Une semaine pendant la saison de navigation."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "ماذا كان يطلب الشعار الموضوع في القصر؟",
+        "options": [
+          "De remettre chaque litige à l'arbitrage du Sénat vénitien.",
+          "D'oublier les intérêts privés pour servir les affaires publiques",
+          "De défendre le commerce maritime avant toute alliance terrestre."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "أيّ تفصيل منحوت يستحق الانتباه في الرواق المقنطر؟",
+        "options": [
+          "Une sirène portant les clés de toutes les portes de la ville.",
+          "Un portrait équestre du sultan Mehmed II gravé dans le marbre.",
+          "Un chapiteau montrant Esculape dans son laboratoire"
+        ],
+        "answer": 2
+      }
+    ],
+    "Place Gundulić": [
+      {
+        "question": "متى تم افتتاح تمثال إيفان غوندولييتش؟",
+        "options": [
+          "En 1815, lors de l'intégration de Dubrovnik à l'Autriche.",
+          "En 1893",
+          "En 1938 pour le tricentenaire de la mort du poète."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "أيّ نحاتٍ أنجز النصب التذكاري المركزي؟",
+        "options": [
+          "Quinze silos profonds",
+          "Bonino da Milano, traditionnellement associé à Orlando.",
+          "Marino Gropelli, architecte de l'église Saint-Blaise."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "ما النشاط الذي يضفي على الساحة حيويتها بشكل خاص في الصباح؟",
+        "options": [
+          "Le recrutement public des équipages pour les galères de la République.",
+          "Un marché de produits frais et régionaux",
+          "La vente aux enchères des cargaisons débarquées au vieux port."
+        ],
+        "answer": 2
+      }
+    ],
+    "Grenier Rupe": [
+      {
+        "question": "في أي فترة شُيِّد مخزن رُبه؟",
+        "options": [
+          "En 1806 afin de nourrir l'armée française de Lauriston.",
+          "Vers 1590, à la fin du XVIe siècle",
+          "Au début du XIIIe siècle pour stocker les tributs vénitiens."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "كم عدد صوامع الصخور الكبيرة التي تُوصَف عادةً؟",
+        "options": [
+          "Huit citernes alignées sous une cour Renaissance.",
+          "Quinze silos profonds",
+          "Trente-deux cellules voûtées ouvertes sur la rue."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "لماذا كانت الجمهورية تبدي مثل هذه التحفظات؟",
+        "options": [
+          "Pour produire du malt destiné exclusivement aux tavernes de Stradun.",
+          "Pour faire face aux blocus, aux mauvaises récoltes et aux ruptures d'approvisionnement",
+          "Pour conserver les épices saisies par la douane du palais Sponza."
+        ],
+        "answer": 0
+      }
+    ],
+    "Escalier des Jésuites et église Saint-Ignace": [
+      {
+        "question": "متى تمّ تشييد كنيسة سانت إيناس أساسًا؟",
+        "options": [
+          "L'incendie de 1706 qui détruisit l'église Saint-Blaise.",
+          "De 1541 à 1551 pour accueillir la douane de la République.",
+          "Entre 1317 et 1325 lors de l'installation des Franciscains."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "من أضاف الدرج الخارجي الكبير في عام 1738؟",
+        "options": [
+          "Paskoje Miličević, ingénieur de la fontaine d'Onofrio.",
+          "Michelozzo, concepteur de la tour ronde de Minčeta.",
+          "Titien et son atelier"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "ما التأثير الفني الذي يجب البحث عنه في اللوحات الجصية؟",
+        "options": [
+          "Des cartes nautiques peintes avec les routes des navires ragusains.",
+          "Des architectures en trompe-l'œil qui agrandissent l'espace",
+          "Une mosaïque byzantine représentant le siège de 1205."
+        ],
+        "answer": 1
+      }
+    ],
+    "Cathédrale de l’Assomption": [
+      {
+        "question": "ما الحدث الذي فرض إعادة بناء الكاتدرائية على الطراز الباروكي؟",
+        "options": [
+          "L'explosion de poudre de 1463 dans le palais du Recteur.",
+          "L'incendie de 1706 qui détruisit l'église Saint-Blaise.",
+          "Le grand séisme du 6 avril 1667"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "أي فنان مرتبط باللوحة متعددة الأجزاء الخاصة بـ«الافتراض»؟",
+        "options": [
+          "Paolo Veneziano, auteur du crucifix dominicain de 1358.",
+          "Titien et son atelier",
+          "Ivan Rendić, sculpteur de la statue de Gundulić."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "ما الأسطورةُ الوسيطةُ المرتبطةُ بالكاتدرائيةِ القديمة؟",
+        "options": [
+          "Marco Polo aurait offert les colonnes prises à Constantinople.",
+          "Richard Cœur de Lion aurait financé une église après un naufrage",
+          "Dante aurait composé un chant de la Divine Comédie dans la sacristie."
+        ],
+        "answer": 0
+      }
+    ],
+    "Vieux-Port": [
+      {
+        "question": "في أي سنة تم بناء حاجز أمواج كاشي؟",
+        "options": [
+          "En 1377, en même temps que le premier règlement de quarantaine.",
+          "En 1485",
+          "En 1667 pour réparer les dégâts du séisme dans le port."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "لماذا كان من الممكن سدّ أقواس الترسانة بالجدران؟",
+        "options": [
+          "Pour cacher les navires en construction aux observateurs étrangers",
+          "Pour empêcher les moines dominicains d'accéder aux quais la nuit.",
+          "Pour transformer les ateliers en entrepôts frigorifiques l'été."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "ما الدور الصحي المرتبط بالوصول البحري؟",
+        "options": [
+          "La fontaine d'Onofrio servait de bassin obligatoire de désinfection des voiles.",
+          "Le palais Sponza délivrait un certificat de baptême à chaque équipage.",
+          "Les lazarets imposaient une quarantaine aux voyageurs et marchandises suspects"
+        ],
+        "answer": 1
+      }
+    ],
+    "Fort Lovrijenac": [
+      {
+        "question": "ما السماكة التي يمكن أن تصل إليها جدران لوفرينياك المطلة على البحر؟",
+        "options": [
+          "Jusqu'à environ douze mètres",
+          "Plus de vingt-cinq mètres au niveau de la porte principale.",
+          "Environ deux mètres, comme le mur faisant face à la ville."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "لماذا الجدار من جهة دوبروفنيك أرفع؟",
+        "options": [
+          "Pour supporter une galerie marchande aujourd'hui disparue.",
+          "Pour permettre à la ville de neutraliser le fort s'il était capturé",
+          "Pour laisser passer la lumière vers les cellules de quarantaine."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "ما الشعار المنقوش فوق المدخل؟",
+        "options": [
+          "La liberté ne se vend pas pour tout l'or du monde",
+          "La mer unit ceux que les montagnes séparent.",
+          "Le commerce est la meilleure fortification des peuples libres."
+        ],
+        "answer": 0
+      }
+    ],
+    "Fort Bokar": [
+      {
+        "question": "أيُّ معماريٍّ بدأ تصميم حصن بوكار نحو عام 1461؟",
+        "options": [
+          "Andrea Pozzo, architecte associé à l'église Saint-Ignace.",
+          "Antonio Ferramolino, ingénieur du fort Revelin.",
+          "Une tour carrée"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "لماذا كانت شكله الأسطواني ميزة؟",
+        "options": [
+          "Elle permettait d'amarrer les galères tout autour du fort.",
+          "Elle reproduisait exactement la forme des silos du grenier Rupe.",
+          "Elle résistait mieux aux boulets et élargissait les angles de tir"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "ما التفصيل الإنشائي الذي ينبغي ملاحظته من الخارج؟",
+        "options": [
+          "Une chaussée romaine conservée dans le socle occidental.",
+          "Des arches et cavités où l'eau passe sous une partie du fort",
+          "Un escalier de marbre reliant directement la cour à Kolorina."
+        ],
+        "answer": 0
+      }
+    ],
+    "Remparts et tour Minčeta": [
+      {
+        "question": "ما هو شكل برج منشيتا الأول عام 1319؟",
+        "options": [
+          "Une tour carrée",
+          "Un bastion triangulaire tourné vers le vieux port.",
+          "Une tour octogonale couverte d'un dôme de cuivre."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "أيّ المعماريين حوّلوا مينتشيتا في القرن الخامس عشر؟",
+        "options": [
+          "Andrea Buffalini puis Marino Gropelli.",
+          "Michelozzo puis Juraj Dalmatinac",
+          "Onofrio della Cava puis Pietro Passalacqua."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "ما الطول التقريبي الذي يشكّله مسار الأسوار؟",
+        "options": [
+          "Plus de 4 500 mètres jusqu'au sommet du mont Srđ.",
+          "Près de 850 mètres entre Pile et Ploče seulement.",
+          "Elle limitait le passage des animaux dans l'enceinte"
+        ],
+        "answer": 1
+      }
+    ],
+    "Monastère dominicain": [
+      {
+        "question": "في أي سنة استقرّ الدومينيكان في دوبروفنيك؟",
+        "options": [
+          "En 1317, avec l'ouverture de la pharmacie franciscaine.",
+          "De 1418 à 1424 pour protéger la colonne d'Orlando.",
+          "En 1453, après la chute de Constantinople."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "ما العمل الرئيسي المحفوظ في الكنيسة؟",
+        "options": [
+          "La statue d'argent de saint Blaise portant la ville médiévale.",
+          "Un crucifix peint par Paolo Veneziano en 1358",
+          "Le polyptyque de l'Assomption attribué à Titien."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "ما التفصيل العملي الذي يفسّر شكل درابزين السلم؟",
+        "options": [
+          "Elle permettait aux soldats de poser leurs arquebuses en batterie.",
+          "Elle limitait le passage des animaux dans l'enceinte",
+          "Elle marquait la frontière fiscale entre le port et la ville haute."
+        ],
+        "answer": 1
+      }
+    ],
+    "Fort Revelin et porte Ploče": [
+      {
+        "question": "متى شُيِّد حصن ريفيلين الحالي؟",
+        "options": [
+          "Entre 1699 et 1725 pendant le chantier des Jésuites.",
+          "Another aspect of Dubrovnik's heritage (Fort Revelin et porte Ploče)",
+          "De 1418 à 1424 pour protéger la colonne d'Orlando."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "أيُّ مهندسٍ ارتبط بتصميمه الحديث؟",
+        "options": [
+          "Gaetano Garcia, peintre des fresques de Saint-Ignace.",
+          "Antonio Ferramolino",
+          "Mihoje Brajkov de Bar, sculpteur du cloître franciscain."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "لماذا كانت مشاريع البناء الكبرى الأخرى محدودة أثناء تشييده؟",
+        "options": [
+          "Pour concentrer ouvriers et matériaux sur une défense jugée urgente",
+          "Pour respecter une interdiction religieuse de bâtir près du port.",
+          "Pour laisser sécher le terrain gagné sur l'ancien chenal de Stradun."
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  "cn": {
+    "Porte Pile": [
+      {
+        "question": "波尔外门文艺复兴风格的建造日期是哪一年？",
+        "options": [
+          "1537",
+          "La porte extérieure fut achevée en 1492 lors d'une réforme du port.",
+          "Elle date de 1668, au lendemain immédiat du grand séisme."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "为了理解旧的入口装置，需要留意什么？",
+        "options": [
+          "Les rainures du pont-levis et le passage coudé",
+          "Une herse en bronze provenant du palais Sponza.",
+          "Un escalier souterrain reliant directement Pile au vieux port."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "在共和国时期，Porte Pile 主要起什么作用？",
+        "options": [
+          "Elle servait de tribunal aux capitaines de navires marchands.",
+          "Elle abritait les réserves de grain destinées aux périodes de siège.",
+          "Elle contrôlait l'accès terrestre occidental à la ville"
+        ],
+        "answer": 0
+      }
+    ],
+    "Grande fontaine d’Onofrio": [
+      {
+        "question": "那条引水渠和奥诺弗里奥大喷泉是什么时候建成的？",
+        "options": [
+          "La pharmacie aurait ouvert en 1416 avec le premier lazaret.",
+          "Ils furent construits vers 1358 après le traité de Zadar.",
+          "Le réseau fut créé en 1808 par l'administration napoléonienne."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "有多少个水神面具围绕喷泉分配水流？",
+        "options": [
+          "Vingt-quatre gueules de lions inspirées du palais du Recteur.",
+          "Le portail sculpté de l'ancienne église gothique",
+          "Douze têtes représentant les mois de l'année."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "为什么这座建筑对杜布罗夫尼克至关重要？",
+        "options": [
+          "Il apportait une eau régulière utile à la vie quotidienne et aux sièges",
+          "Il permettait de remplir les bassins de radoub du vieux port.",
+          "Il actionnait les cloches publiques grâce à une roue hydraulique."
+        ],
+        "answer": 0
+      }
+    ],
+    "Monastère franciscain et ancienne pharmacie": [
+      {
+        "question": "传统将这座古老药房的创建追溯到哪一年？",
+        "options": [
+          "La pharmacie aurait ouvert en 1416 avec le premier lazaret.",
+          "Elle fut fondée en 1522 dans les locaux de la douane.",
+          "Un ancien chenal marin progressivement comblé"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "修道院的哪一部分在1667年的地震中大体保存了下来？",
+        "options": [
+          "Le grand clocher roman couronné d'une flèche de cuivre.",
+          "La nef médiévale entière avec ses voûtes d'origine.",
+          "Le portail sculpté de l'ancienne église gothique"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "在回廊里应该比较什么？",
+        "options": [
+          "Les chapiteaux aux décors tous différents",
+          "Les mosaïques dorées représentant les recteurs de Raguse.",
+          "Les cadrans solaires gravés sur chacune des colonnes jumelles."
+        ],
+        "answer": 1
+      }
+    ],
+    "Stradun": [
+      {
+        "question": "什么城市起源解释了斯特拉顿（Stradun）的笔直布局？",
+        "options": [
+          "Un ancien chenal marin progressivement comblé",
+          "Une voie romaine construite pour rejoindre l'amphithéâtre de Raguse.",
+          "Un canal défensif creusé après le siège vénitien de 1205."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "1667年的地震之后发生了什么变化？",
+        "options": [
+          "Les façades furent reconstruites selon un modèle plus uniforme",
+          "La rue reçut une colonnade continue inspirée de la place Saint-Marc.",
+          "Les boutiques furent déplacées sous les remparts orientaux."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "当地说的“faire un đir”这个习惯是什么意思？",
+        "options": [
+          "Monter chaque matin jusqu'à la tour Minčeta pour sonner la cloche.",
+          "Fermer les volets des boutiques pendant la chaleur de midi.",
+          "Se promener pour voir du monde et échanger quelques mots"
+        ],
+        "answer": 0
+      }
+    ],
+    "Palais Sponza": [
+      {
+        "question": "斯庞扎宫是什么时候建造的？",
+        "options": [
+          "Entre 1435 et 1438 après une explosion de poudre.",
+          "En 1358, l'année du passage sous la couronne hongroise.",
+          "De 1706 à 1715 pour remplacer l'ancienne église Saint-Blaise."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "宫殿内汇集了哪些经济职能？",
+        "options": [
+          "Le marché aux poissons, les salines et les moulins publics.",
+          "La douane, la monnaie, le trésor et des bureaux financiers",
+          "Le chantier naval, la prison maritime et l'hôpital des marins."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "在立面上应注意观察哪种建筑对比？",
+        "options": [
+          "Une base romane en granit surmontée d'un dôme ottoman.",
+          "Les arcs Renaissance du bas et les fenêtres gothiques de l'étage",
+          "Des colonnes corinthiennes portant une façade entièrement néoclassique."
+        ],
+        "answer": 1
+      }
+    ],
+    "Colonne d’Orlando": [
+      {
+        "question": "奥兰多柱是哪一年安装的？",
+        "options": [
+          "En 1526, après la bataille de Mohács.",
+          "Entre 1706 et 1715",
+          "En 1358, l'année du passage sous la couronne hongroise."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "奥兰多的手臂在商业生活中有什么用途？",
+        "options": [
+          "Il matérialisait une mesure d'environ 51,2 centimètres",
+          "Il indiquait la direction du vent dominant vers l'île de Lokrum.",
+          "Il portait une balance destinée au contrôle du prix du sel."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "奥兰多柱主要象征着什么政治理想？",
+        "options": [
+          "La liberté civique et l'autorité de la République",
+          "La souveraineté directe de Venise sur le port de Raguse.",
+          "L'alliance militaire permanente avec l'Empire ottoman."
+        ],
+        "answer": 1
+      }
+    ],
+    "Église Saint-Blaise": [
+      {
+        "question": "现存的巴洛克风格教堂是什么时候建造的？",
+        "options": [
+          "Entre 1706 et 1715",
+          "Entre 1440 et 1450 sous la direction d'Onofrio della Cava.",
+          "De 1538 à 1549 pendant le chantier du fort Revelin."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "哪件古物在1706年的大火中幸存了下来？",
+        "options": [
+          "Le retable de Titien aujourd'hui conservé dans la cathédrale.",
+          "La statue en argent doré de saint Blaise",
+          "La grande cloche fondue avec le bronze de canons vénitiens."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "圣人手持的小模型展示了什么？",
+        "options": [
+          "La route commerciale reliant Raguse à Sarajevo au XVIIIe siècle.",
+          "Une représentation de Dubrovnik avant le séisme de 1667",
+          "Le plan du port de Ston avec ses bassins salins."
+        ],
+        "answer": 2
+      }
+    ],
+    "Palais du Recteur": [
+      {
+        "question": "校长的任期通常有多长？",
+        "options": [
+          "En 1893",
+          "Une année complète renouvelable trois fois.",
+          "Une semaine pendant la saison de navigation."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "宫殿里悬挂的座右铭要求什么？",
+        "options": [
+          "De remettre chaque litige à l'arbitrage du Sénat vénitien.",
+          "D'oublier les intérêts privés pour servir les affaires publiques",
+          "De défendre le commerce maritime avant toute alliance terrestre."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "阳台上的哪一处雕刻细节值得注意？",
+        "options": [
+          "Une sirène portant les clés de toutes les portes de la ville.",
+          "Un portrait équestre du sultan Mehmed II gravé dans le marbre.",
+          "Un chapiteau montrant Esculape dans son laboratoire"
+        ],
+        "answer": 2
+      }
+    ],
+    "Place Gundulić": [
+      {
+        "question": "伊万·贡杜利奇雕像是什么时候揭幕的？",
+        "options": [
+          "En 1815, lors de l'intégration de Dubrovnik à l'Autriche.",
+          "En 1893",
+          "En 1938 pour le tricentenaire de la mort du poète."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "哪位雕塑家创作了中央纪念碑？",
+        "options": [
+          "Quinze silos profonds",
+          "Bonino da Milano, traditionnellement associé à Orlando.",
+          "Marino Gropelli, architecte de l'église Saint-Blaise."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "早晨，广场上最主要的活动是什么？",
+        "options": [
+          "Le recrutement public des équipages pour les galères de la République.",
+          "Un marché de produits frais et régionaux",
+          "La vente aux enchères des cargaisons débarquées au vieux port."
+        ],
+        "answer": 2
+      }
+    ],
+    "Grenier Rupe": [
+      {
+        "question": "Rupe谷仓建于哪个时期？",
+        "options": [
+          "En 1806 afin de nourrir l'armée française de Lauriston.",
+          "Vers 1590, à la fin du XVIe siècle",
+          "Au début du XIIIe siècle pour stocker les tributs vénitiens."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "通常描述了多少个大型岩石筒仓？",
+        "options": [
+          "Huit citernes alignées sous une cour Renaissance.",
+          "Quinze silos profonds",
+          "Trente-deux cellules voûtées ouvertes sur la rue."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "为什么共和国会保留如此的顾虑？",
+        "options": [
+          "Pour produire du malt destiné exclusivement aux tavernes de Stradun.",
+          "Pour faire face aux blocus, aux mauvaises récoltes et aux ruptures d'approvisionnement",
+          "Pour conserver les épices saisies par la douane du palais Sponza."
+        ],
+        "answer": 0
+      }
+    ],
+    "Escalier des Jésuites et église Saint-Ignace": [
+      {
+        "question": "圣伊格纳西奥教堂主要建于什么时候？",
+        "options": [
+          "L'incendie de 1706 qui détruisit l'église Saint-Blaise.",
+          "De 1541 à 1551 pour accueillir la douane de la République.",
+          "Entre 1317 et 1325 lors de l'installation des Franciscains."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "是谁在1738年加建了这座宏伟的外部楼梯？",
+        "options": [
+          "Paskoje Miličević, ingénieur de la fontaine d'Onofrio.",
+          "Michelozzo, concepteur de la tour ronde de Minčeta.",
+          "Titien et son atelier"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "在壁画中应该寻找什么样的艺术效果？",
+        "options": [
+          "Des cartes nautiques peintes avec les routes des navires ragusains.",
+          "Des architectures en trompe-l'œil qui agrandissent l'espace",
+          "Une mosaïque byzantine représentant le siège de 1205."
+        ],
+        "answer": 1
+      }
+    ],
+    "Cathédrale de l’Assomption": [
+      {
+        "question": "是什么事件促使这座大教堂按巴洛克风格重建？",
+        "options": [
+          "L'explosion de poudre de 1463 dans le palais du Recteur.",
+          "L'incendie de 1706 qui détruisit l'église Saint-Blaise.",
+          "Le grand séisme du 6 avril 1667"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "哪位艺术家与《圣母升天》多联画有关？",
+        "options": [
+          "Paolo Veneziano, auteur du crucifix dominicain de 1358.",
+          "Titien et son atelier",
+          "Ivan Rendić, sculpteur de la statue de Gundulić."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "哪一个中世纪传说与这座古老的主教座堂有关？",
+        "options": [
+          "Marco Polo aurait offert les colonnes prises à Constantinople.",
+          "Richard Cœur de Lion aurait financé une église après un naufrage",
+          "Dante aurait composé un chant de la Divine Comédie dans la sacristie."
+        ],
+        "answer": 0
+      }
+    ],
+    "Vieux-Port": [
+      {
+        "question": "Kaše 防波堤建于哪一年？",
+        "options": [
+          "En 1377, en même temps que le premier règlement de quarantaine.",
+          "En 1485",
+          "En 1667 pour réparer les dégâts du séisme dans le port."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "为什么兵工厂的拱门会被砌起来封死？",
+        "options": [
+          "Pour cacher les navires en construction aux observateurs étrangers",
+          "Pour empêcher les moines dominicains d'accéder aux quais la nuit.",
+          "Pour transformer les ateliers en entrepôts frigorifiques l'été."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "与海上抵达相关的卫生职责是什么？",
+        "options": [
+          "La fontaine d'Onofrio servait de bassin obligatoire de désinfection des voiles.",
+          "Le palais Sponza délivrait un certificat de baptême à chaque équipage.",
+          "Les lazarets imposaient une quarantaine aux voyageurs et marchandises suspects"
+        ],
+        "answer": 1
+      }
+    ],
+    "Fort Lovrijenac": [
+      {
+        "question": "洛夫里耶尼茨面向大海的城墙厚度可达多少？",
+        "options": [
+          "Jusqu'à environ douze mètres",
+          "Plus de vingt-cinq mètres au niveau de la porte principale.",
+          "Environ deux mètres, comme le mur faisant face à la ville."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "为什么朝杜布罗夫尼克一侧的城墙更薄？",
+        "options": [
+          "Pour supporter une galerie marchande aujourd'hui disparue.",
+          "Pour permettre à la ville de neutraliser le fort s'il était capturé",
+          "Pour laisser passer la lumière vers les cellules de quarantaine."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "入口上方刻着什么格言？",
+        "options": [
+          "La liberté ne se vend pas pour tout l'or du monde",
+          "La mer unit ceux que les montagnes séparent.",
+          "Le commerce est la meilleure fortification des peuples libres."
+        ],
+        "answer": 0
+      }
+    ],
+    "Fort Bokar": [
+      {
+        "question": "哪位建筑师在约1461年启动了博卡尔堡的设计？",
+        "options": [
+          "Andrea Pozzo, architecte associé à l'église Saint-Ignace.",
+          "Antonio Ferramolino, ingénieur du fort Revelin.",
+          "Une tour carrée"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "为什么它的圆柱形结构具有优势？",
+        "options": [
+          "Elle permettait d'amarrer les galères tout autour du fort.",
+          "Elle reproduisait exactement la forme des silos du grenier Rupe.",
+          "Elle résistait mieux aux boulets et élargissait les angles de tir"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "从外部应观察哪一处建筑细节？",
+        "options": [
+          "Une chaussée romaine conservée dans le socle occidental.",
+          "Des arches et cavités où l'eau passe sous une partie du fort",
+          "Un escalier de marbre reliant directement la cour à Kolorina."
+        ],
+        "answer": 0
+      }
+    ],
+    "Remparts et tour Minčeta": [
+      {
+        "question": "1319年的第一座明切塔是什么形状？",
+        "options": [
+          "Une tour carrée",
+          "Un bastion triangulaire tourné vers le vieux port.",
+          "Une tour octogonale couverte d'un dôme de cuivre."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "哪些建筑师在15世纪改造了明切塔？",
+        "options": [
+          "Andrea Buffalini puis Marino Gropelli.",
+          "Michelozzo puis Juraj Dalmatinac",
+          "Onofrio della Cava puis Pietro Passalacqua."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "环绕城墙的路线大约有多长？",
+        "options": [
+          "Plus de 4 500 mètres jusqu'au sommet du mont Srđ.",
+          "Près de 850 mètres entre Pile et Ploče seulement.",
+          "Elle limitait le passage des animaux dans l'enceinte"
+        ],
+        "answer": 1
+      }
+    ],
+    "Monastère dominicain": [
+      {
+        "question": "多米尼加会士是哪一年定居杜布罗夫尼克的？",
+        "options": [
+          "En 1317, avec l'ouverture de la pharmacie franciscaine.",
+          "De 1418 à 1424 pour protéger la colonne d'Orlando.",
+          "En 1453, après la chute de Constantinople."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "教堂里保存着哪一件重要作品？",
+        "options": [
+          "La statue d'argent de saint Blaise portant la ville médiévale.",
+          "Un crucifix peint par Paolo Veneziano en 1358",
+          "Le polyptyque de l'Assomption attribué à Titien."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "哪一处实用细节解释了楼梯扶栏的形状？",
+        "options": [
+          "Elle permettait aux soldats de poser leurs arquebuses en batterie.",
+          "Elle limitait le passage des animaux dans l'enceinte",
+          "Elle marquait la frontière fiscale entre le port et la ville haute."
+        ],
+        "answer": 1
+      }
+    ],
+    "Fort Revelin et porte Ploče": [
+      {
+        "question": "现今的雷维林要塞是什么时候建造的？",
+        "options": [
+          "Entre 1699 et 1725 pendant le chantier des Jésuites.",
+          "Another aspect of Dubrovnik's heritage (Fort Revelin et porte Ploče)",
+          "De 1418 à 1424 pour protéger la colonne d'Orlando."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "哪位工程师与其现代设计有关？",
+        "options": [
+          "Gaetano Garcia, peintre des fresques de Saint-Ignace.",
+          "Antonio Ferramolino",
+          "Mihoje Brajkov de Bar, sculpteur du cloître franciscain."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "为什么在其建造期间，其他大型工程会受到限制？",
+        "options": [
+          "Pour concentrer ouvriers et matériaux sur une défense jugée urgente",
+          "Pour respecter une interdiction religieuse de bâtir près du port.",
+          "Pour laisser sécher le terrain gagné sur l'ancien chenal de Stradun."
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  "ja": {
+    "Porte Pile": [
+      {
+        "question": "ピルのルネサンス様式の外門の建設に対応する年代はいつですか？",
+        "options": [
+          "1537",
+          "La porte extérieure fut achevée en 1492 lors d'une réforme du port.",
+          "Elle date de 1668, au lendemain immédiat du grand séisme."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "かつての入口の仕組みを理解するために、何を見つければよいでしょうか？",
+        "options": [
+          "Les rainures du pont-levis et le passage coudé",
+          "Une herse en bronze provenant du palais Sponza.",
+          "Un escalier souterrain reliant directement Pile au vieux port."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "共和国時代、ポルテ・ピルは主にどのような役割を果たしていましたか？",
+        "options": [
+          "Elle servait de tribunal aux capitaines de navires marchands.",
+          "Elle abritait les réserves de grain destinées aux périodes de siège.",
+          "Elle contrôlait l'accès terrestre occidental à la ville"
+        ],
+        "answer": 0
+      }
+    ],
+    "Grande fontaine d’Onofrio": [
+      {
+        "question": "水道橋とオノフリオの大噴水はいつ建設されましたか？",
+        "options": [
+          "La pharmacie aurait ouvert en 1416 avec le premier lazaret.",
+          "Ils furent construits vers 1358 après le traité de Zadar.",
+          "Le réseau fut créé en 1808 par l'administration napoléonienne."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "噴水の周囲に水を分けているのは何体のマスカロンでしょうか？",
+        "options": [
+          "Vingt-quatre gueules de lions inspirées du palais du Recteur.",
+          "Le portail sculpté de l'ancienne église gothique",
+          "Douze têtes représentant les mois de l'année."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "なぜこの建造物はドゥブロヴニクにとって不可欠だったのでしょうか？",
+        "options": [
+          "Il apportait une eau régulière utile à la vie quotidienne et aux sièges",
+          "Il permettait de remplir les bassins de radoub du vieux port.",
+          "Il actionnait les cloches publiques grâce à une roue hydraulique."
+        ],
+        "answer": 0
+      }
+    ],
+    "Monastère franciscain et ancienne pharmacie": [
+      {
+        "question": "伝承によれば、旧薬局の創設は何年にさかのぼるのでしょうか？",
+        "options": [
+          "La pharmacie aurait ouvert en 1416 avec le premier lazaret.",
+          "Elle fut fondée en 1522 dans les locaux de la douane.",
+          "Un ancien chenal marin progressivement comblé"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "1667年の地震を大きく免れた、修道院のどの部分でしょうか？",
+        "options": [
+          "Le grand clocher roman couronné d'une flèche de cuivre.",
+          "La nef médiévale entière avec ses voûtes d'origine.",
+          "Le portail sculpté de l'ancienne église gothique"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "回廊で何を見比べればよいでしょうか？",
+        "options": [
+          "Les chapiteaux aux décors tous différents",
+          "Les mosaïques dorées représentant les recteurs de Raguse.",
+          "Les cadrans solaires gravés sur chacune des colonnes jumelles."
+        ],
+        "answer": 1
+      }
+    ],
+    "Stradun": [
+      {
+        "question": "ストラドゥンの直線的な道筋を説明する都市起源は何ですか？",
+        "options": [
+          "Un ancien chenal marin progressivement comblé",
+          "Une voie romaine construite pour rejoindre l'amphithéâtre de Raguse.",
+          "Un canal défensif creusé après le siège vénitien de 1205."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "1667年の地震の後、どのような変化が起こりましたか？",
+        "options": [
+          "Les façades furent reconstruites selon un modèle plus uniforme",
+          "La rue reçut une colonnade continue inspirée de la place Saint-Marc.",
+          "Les boutiques furent déplacées sous les remparts orientaux."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "地元の習慣である「faire un đir」とは、どういう意味でしょうか？",
+        "options": [
+          "Monter chaque matin jusqu'à la tour Minčeta pour sonner la cloche.",
+          "Fermer les volets des boutiques pendant la chaleur de midi.",
+          "Se promener pour voir du monde et échanger quelques mots"
+        ],
+        "answer": 0
+      }
+    ],
+    "Palais Sponza": [
+      {
+        "question": "パラッツォ・スポンザはいつ建てられましたか？",
+        "options": [
+          "Entre 1435 et 1438 après une explosion de poudre.",
+          "En 1358, l'année du passage sous la couronne hongroise.",
+          "De 1706 à 1715 pour remplacer l'ancienne église Saint-Blaise."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "宮殿にはどのような経済機能が集約されていましたか？",
+        "options": [
+          "Le marché aux poissons, les salines et les moulins publics.",
+          "La douane, la monnaie, le trésor et des bureaux financiers",
+          "Le chantier naval, la prison maritime et l'hôpital des marins."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "ファサードでどのような建築的対比に注目すべきでしょうか？",
+        "options": [
+          "Une base romane en granit surmontée d'un dôme ottoman.",
+          "Les arcs Renaissance du bas et les fenêtres gothiques de l'étage",
+          "Des colonnes corinthiennes portant une façade entièrement néoclassique."
+        ],
+        "answer": 1
+      }
+    ],
+    "Colonne d’Orlando": [
+      {
+        "question": "オルランドの柱は何年に設置されましたか？",
+        "options": [
+          "En 1526, après la bataille de Mohács.",
+          "Entre 1706 et 1715",
+          "En 1358, l'année du passage sous la couronne hongroise."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "オルランドの腕は商業生活の中で何に使われていたのでしょうか？",
+        "options": [
+          "Il matérialisait une mesure d'environ 51,2 centimètres",
+          "Il indiquait la direction du vent dominant vers l'île de Lokrum.",
+          "Il portait une balance destinée au contrôle du prix du sel."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "この柱はとりわけ、どのような政治的理想を象徴していたのでしょうか？",
+        "options": [
+          "La liberté civique et l'autorité de la République",
+          "La souveraineté directe de Venise sur le port de Raguse.",
+          "L'alliance militaire permanente avec l'Empire ottoman."
+        ],
+        "answer": 1
+      }
+    ],
+    "Église Saint-Blaise": [
+      {
+        "question": "現在のバロック様式の教会はいつ建てられましたか？",
+        "options": [
+          "Entre 1706 et 1715",
+          "Entre 1440 et 1450 sous la direction d'Onofrio della Cava.",
+          "De 1538 à 1549 pendant le chantier du fort Revelin."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "1706年の火災を生き延びた古い物は何ですか？",
+        "options": [
+          "Le retable de Titien aujourd'hui conservé dans la cathédrale.",
+          "La statue en argent doré de saint Blaise",
+          "La grande cloche fondue avec le bronze de canons vénitiens."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "聖人が持っている小さな模型は何を表していますか？",
+        "options": [
+          "La route commerciale reliant Raguse à Sarajevo au XVIIIe siècle.",
+          "Une représentation de Dubrovnik avant le séisme de 1667",
+          "Le plan du port de Ston avec ses bassins salins."
+        ],
+        "answer": 2
+      }
+    ],
+    "Palais du Recteur": [
+      {
+        "question": "通常、学長の任期はどれくらいでしたか？",
+        "options": [
+          "En 1893",
+          "Une année complète renouvelable trois fois.",
+          "Une semaine pendant la saison de navigation."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "宮殿に掲げられていた標語は、何を求めていたのでしょうか？",
+        "options": [
+          "De remettre chaque litige à l'arbitrage du Sénat vénitien.",
+          "D'oublier les intérêts privés pour servir les affaires publiques",
+          "De défendre le commerce maritime avant toute alliance terrestre."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "ロッジアで注目すべき彫刻の細部はどれですか？",
+        "options": [
+          "Une sirène portant les clés de toutes les portes de la ville.",
+          "Un portrait équestre du sultan Mehmed II gravé dans le marbre.",
+          "Un chapiteau montrant Esculape dans son laboratoire"
+        ],
+        "answer": 2
+      }
+    ],
+    "Place Gundulić": [
+      {
+        "question": "イヴァン・グンドゥリッチの像はいつ除幕されましたか？",
+        "options": [
+          "En 1815, lors de l'intégration de Dubrovnik à l'Autriche.",
+          "En 1893",
+          "En 1938 pour le tricentenaire de la mort du poète."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "中央の記念碑を制作した彫刻家は誰ですか？",
+        "options": [
+          "Quinze silos profonds",
+          "Bonino da Milano, traditionnellement associé à Orlando.",
+          "Marino Gropelli, architecte de l'église Saint-Blaise."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "朝、広場をいちばん活気づかせているのはどんな活動ですか？",
+        "options": [
+          "Le recrutement public des équipages pour les galères de la République.",
+          "Un marché de produits frais et régionaux",
+          "La vente aux enchères des cargaisons débarquées au vieux port."
+        ],
+        "answer": 2
+      }
+    ],
+    "Grenier Rupe": [
+      {
+        "question": "ルペ屋根裏は、いつの時代に建てられましたか？",
+        "options": [
+          "En 1806 afin de nourrir l'armée française de Lauriston.",
+          "Vers 1590, à la fin du XVIe siècle",
+          "Au début du XIIIe siècle pour stocker les tributs vénitiens."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "通常、いくつの大きな岩の貯蔵庫が説明されますか？",
+        "options": [
+          "Huit citernes alignées sous une cour Renaissance.",
+          "Quinze silos profonds",
+          "Trente-deux cellules voûtées ouvertes sur la rue."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "なぜ共和国はこのような強い警戒心を抱いていたのでしょうか？",
+        "options": [
+          "Pour produire du malt destiné exclusivement aux tavernes de Stradun.",
+          "Pour faire face aux blocus, aux mauvaises récoltes et aux ruptures d'approvisionnement",
+          "Pour conserver les épices saisies par la douane du palais Sponza."
+        ],
+        "answer": 0
+      }
+    ],
+    "Escalier des Jésuites et église Saint-Ignace": [
+      {
+        "question": "サン＝イグナス教会は、いつ主に建設されたのでしょうか？",
+        "options": [
+          "L'incendie de 1706 qui détruisit l'église Saint-Blaise.",
+          "De 1541 à 1551 pour accueillir la douane de la République.",
+          "Entre 1317 et 1325 lors de l'installation des Franciscains."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "1738年に大きな外階段を付け加えたのは誰ですか？",
+        "options": [
+          "Paskoje Miličević, ingénieur de la fontaine d'Onofrio.",
+          "Michelozzo, concepteur de la tour ronde de Minčeta.",
+          "Titien et son atelier"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "フレスコ画で探すべき芸術的な効果は何ですか？",
+        "options": [
+          "Des cartes nautiques peintes avec les routes des navires ragusains.",
+          "Des architectures en trompe-l'œil qui agrandissent l'espace",
+          "Une mosaïque byzantine représentant le siège de 1205."
+        ],
+        "answer": 1
+      }
+    ],
+    "Cathédrale de l’Assomption": [
+      {
+        "question": "どの出来事が大聖堂のバロック様式による再建を余儀なくさせたのでしょうか？",
+        "options": [
+          "L'explosion de poudre de 1463 dans le palais du Recteur.",
+          "L'incendie de 1706 qui détruisit l'église Saint-Blaise.",
+          "Le grand séisme du 6 avril 1667"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "被昇天の多翼祭壇画に関連する芸術家は誰ですか？",
+        "options": [
+          "Paolo Veneziano, auteur du crucifix dominicain de 1358.",
+          "Titien et son atelier",
+          "Ivan Rendić, sculpteur de la statue de Gundulić."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "どの中世の伝説が旧大聖堂に結びついていますか？",
+        "options": [
+          "Marco Polo aurait offert les colonnes prises à Constantinople.",
+          "Richard Cœur de Lion aurait financé une église après un naufrage",
+          "Dante aurait composé un chant de la Divine Comédie dans la sacristie."
+        ],
+        "answer": 0
+      }
+    ],
+    "Vieux-Port": [
+      {
+        "question": "Kašeの防波堤は何年に建設されましたか？",
+        "options": [
+          "En 1377, en même temps que le premier règlement de quarantaine.",
+          "En 1485",
+          "En 1667 pour réparer les dégâts du séisme dans le port."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "なぜ兵器工廠のアーチはふさがれることがあったのでしょうか？",
+        "options": [
+          "Pour cacher les navires en construction aux observateurs étrangers",
+          "Pour empêcher les moines dominicains d'accéder aux quais la nuit.",
+          "Pour transformer les ateliers en entrepôts frigorifiques l'été."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "海上の到着と結びついていた衛生上の役割は何でしたか？",
+        "options": [
+          "La fontaine d'Onofrio servait de bassin obligatoire de désinfection des voiles.",
+          "Le palais Sponza délivrait un certificat de baptême à chaque équipage.",
+          "Les lazarets imposaient une quarantaine aux voyageurs et marchandises suspects"
+        ],
+        "answer": 1
+      }
+    ],
+    "Fort Lovrijenac": [
+      {
+        "question": "ラヴリェナツの海に面した壁は、どのくらいの厚さになることがありますか？",
+        "options": [
+          "Jusqu'à environ douze mètres",
+          "Plus de vingt-cinq mètres au niveau de la porte principale.",
+          "Environ deux mètres, comme le mur faisant face à la ville."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "なぜドゥブロヴニク側の壁はより薄いのでしょうか？",
+        "options": [
+          "Pour supporter une galerie marchande aujourd'hui disparue.",
+          "Pour permettre à la ville de neutraliser le fort s'il était capturé",
+          "Pour laisser passer la lumière vers les cellules de quarantaine."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "入口の上に刻まれている標語は何ですか？",
+        "options": [
+          "La liberté ne se vend pas pour tout l'or du monde",
+          "La mer unit ceux que les montagnes séparent.",
+          "Le commerce est la meilleure fortification des peuples libres."
+        ],
+        "answer": 0
+      }
+    ],
+    "Fort Bokar": [
+      {
+        "question": "どの建築家が1461年ごろにボカール要塞の設計を始めましたか？",
+        "options": [
+          "Andrea Pozzo, architecte associé à l'église Saint-Ignace.",
+          "Antonio Ferramolino, ingénieur du fort Revelin.",
+          "Une tour carrée"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "なぜその円筒形は有利だったのでしょうか？",
+        "options": [
+          "Elle permettait d'amarrer les galères tout autour du fort.",
+          "Elle reproduisait exactement la forme des silos du grenier Rupe.",
+          "Elle résistait mieux aux boulets et élargissait les angles de tir"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "外から観察すべき建築上の細部はどれですか？",
+        "options": [
+          "Une chaussée romaine conservée dans le socle occidental.",
+          "Des arches et cavités où l'eau passe sous une partie du fort",
+          "Un escalier de marbre reliant directement la cour à Kolorina."
+        ],
+        "answer": 0
+      }
+    ],
+    "Remparts et tour Minčeta": [
+      {
+        "question": "1319年の最初のミンチェタ塔はどのような形でしたか？",
+        "options": [
+          "Une tour carrée",
+          "Un bastion triangulaire tourné vers le vieux port.",
+          "Une tour octogonale couverte d'un dôme de cuivre."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "15世紀にミンチェタを改築したのはどの建築家ですか？",
+        "options": [
+          "Andrea Buffalini puis Marino Gropelli.",
+          "Michelozzo puis Juraj Dalmatinac",
+          "Onofrio della Cava puis Pietro Passalacqua."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "城壁の周回ルートのおおよその長さはどれくらいですか？",
+        "options": [
+          "Plus de 4 500 mètres jusqu'au sommet du mont Srđ.",
+          "Près de 850 mètres entre Pile et Ploče seulement.",
+          "Elle limitait le passage des animaux dans l'enceinte"
+        ],
+        "answer": 1
+      }
+    ],
+    "Monastère dominicain": [
+      {
+        "question": "ドゥブロヴニクにドミニコ会修道士たちが定住したのは何年ですか？",
+        "options": [
+          "En 1317, avec l'ouverture de la pharmacie franciscaine.",
+          "De 1418 à 1424 pour protéger la colonne d'Orlando.",
+          "En 1453, après la chute de Constantinople."
+        ],
+        "answer": 0
+      },
+      {
+        "question": "教会にはどの主要作品が保存されていますか？",
+        "options": [
+          "La statue d'argent de saint Blaise portant la ville médiévale.",
+          "Un crucifix peint par Paolo Veneziano en 1358",
+          "Le polyptyque de l'Assomption attribué à Titien."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "階段の手すりの形がこのようになっているのは、どの実用的な理由によるのでしょうか？",
+        "options": [
+          "Elle permettait aux soldats de poser leurs arquebuses en batterie.",
+          "Elle limitait le passage des animaux dans l'enceinte",
+          "Elle marquait la frontière fiscale entre le port et la ville haute."
+        ],
+        "answer": 1
+      }
+    ],
+    "Fort Revelin et porte Ploče": [
+      {
+        "question": "現在のレヴェリン要塞はいつ建設されましたか？",
+        "options": [
+          "Entre 1699 et 1725 pendant le chantier des Jésuites.",
+          "Another aspect of Dubrovnik's heritage (Fort Revelin et porte Ploče)",
+          "De 1418 à 1424 pour protéger la colonne d'Orlando."
+        ],
+        "answer": 2
+      },
+      {
+        "question": "その近代的な設計に関係しているのは、どの技師ですか？",
+        "options": [
+          "Gaetano Garcia, peintre des fresques de Saint-Ignace.",
+          "Antonio Ferramolino",
+          "Mihoje Brajkov de Bar, sculpteur du cloître franciscain."
+        ],
+        "answer": 1
+      },
+      {
+        "question": "フォート・レヴェリンとプロチェ門のクイズコース（質問3）\n\nなぜ、建設中にほかの大規模工事は制限されたのでしょうか？",
+        "options": [
+          "Pour concentrer ouvriers et matériaux sur une défense jugée urgente",
+          "Pour respecter une interdiction religieuse de bâtir près du port.",
+          "Pour laisser sécher le terrain gagné sur l'ancien chenal de Stradun."
+        ],
+        "answer": 1
+      }
+    ]
+  }
+}

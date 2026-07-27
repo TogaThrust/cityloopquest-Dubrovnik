@@ -1,0 +1,1640 @@
+{
+  "generatedAt": "2026-07-27T06:11:25.852Z",
+  "model": "gpt-4o-mini-tts",
+  "voice": "Remi",
+  "files": {
+    "audio/Porte_Pile_fr.mp3": {
+      "hash": "7d39477527fb44f2ab6b0d84006d69593375e857",
+      "lang": "fr",
+      "label": "POI parcours: Porte Pile",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Remi",
+      "generatedAt": "2026-07-27T06:12:08.903Z"
+    },
+    "audio/Porte_Pile_nl.mp3": {
+      "hash": "3246cf410370283773cb907473e921e5ef73f91e",
+      "lang": "nl",
+      "label": "POI parcours: Porte Pile",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Laura",
+      "generatedAt": "2026-07-27T06:12:28.862Z"
+    },
+    "audio/Porte_Pile_en.mp3": {
+      "hash": "ef19a62b5532663edbcfe5ef9d96390ffd3512f4",
+      "lang": "en",
+      "label": "POI parcours: Porte Pile",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Joanna",
+      "generatedAt": "2026-07-27T06:12:46.693Z"
+    },
+    "audio/Porte_Pile_de.mp3": {
+      "hash": "a878c7a35c91ac0ca8dba494c20458e3216899f9",
+      "lang": "de",
+      "label": "POI parcours: Porte Pile",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Vicki",
+      "generatedAt": "2026-07-27T06:13:07.003Z"
+    },
+    "audio/Porte_Pile_it.mp3": {
+      "hash": "ef5ab71450bac06a4cfdd9e31e2cc58843126aa4",
+      "lang": "it",
+      "label": "POI parcours: Porte Pile",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Beatrice",
+      "generatedAt": "2026-07-27T06:13:43.772Z"
+    },
+    "audio/Porte_Pile_es.mp3": {
+      "hash": "3bda3da1786058dc193164b07cf2cf904d71329b",
+      "lang": "es",
+      "label": "POI parcours: Porte Pile",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Lucia",
+      "generatedAt": "2026-07-27T06:14:00.804Z"
+    },
+    "audio/Porte_Pile_pl.mp3": {
+      "hash": "b7c3adf992b278d0a60fed67c50c8a9a64df2365",
+      "lang": "pl",
+      "label": "POI parcours: Porte Pile",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Ola",
+      "generatedAt": "2026-07-27T06:14:17.319Z"
+    },
+    "audio/Porte_Pile_ar.mp3": {
+      "hash": "755fd70c876ca499ce7676334ccc75cfa8190853",
+      "lang": "ar",
+      "label": "POI parcours: Porte Pile",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Hala",
+      "generatedAt": "2026-07-27T06:14:33.878Z"
+    },
+    "audio/Porte_Pile_cn.mp3": {
+      "hash": "faebf5250e5b3ec3d879e3eec1984c6a9b46e837",
+      "lang": "cn",
+      "label": "POI parcours: Porte Pile",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Zhiyu",
+      "generatedAt": "2026-07-27T06:14:48.665Z"
+    },
+    "audio/Porte_Pile_ja.mp3": {
+      "hash": "6dbcc5c7f54113db345716ad6d292b783c3bef12",
+      "lang": "ja",
+      "label": "POI parcours: Porte Pile",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Takumi",
+      "generatedAt": "2026-07-27T06:15:06.853Z"
+    },
+    "audio/Grande_fontaine_d_Onofrio_fr.mp3": {
+      "hash": "5f982333c7a4851ad89bcab31da9c54a4794178d",
+      "lang": "fr",
+      "label": "POI parcours: Grande fontaine d’Onofrio",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Remi",
+      "generatedAt": "2026-07-27T06:15:25.274Z"
+    },
+    "audio/Grande_fontaine_d_Onofrio_nl.mp3": {
+      "hash": "2e1463fefe18507a332624c1d3faa8593eeb76a4",
+      "lang": "nl",
+      "label": "POI parcours: Grande fontaine d’Onofrio",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Laura",
+      "generatedAt": "2026-07-27T06:15:40.919Z"
+    },
+    "audio/Grande_fontaine_d_Onofrio_en.mp3": {
+      "hash": "49669535b868468b04061f1f7ea7ec01e96d05e8",
+      "lang": "en",
+      "label": "POI parcours: Grande fontaine d’Onofrio",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Joanna",
+      "generatedAt": "2026-07-27T06:15:55.873Z"
+    },
+    "audio/Grande_fontaine_d_Onofrio_de.mp3": {
+      "hash": "392263b04e934eb8f26a323e7f02c1d95e32cdfd",
+      "lang": "de",
+      "label": "POI parcours: Grande fontaine d’Onofrio",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Vicki",
+      "generatedAt": "2026-07-27T06:16:09.619Z"
+    },
+    "audio/Grande_fontaine_d_Onofrio_it.mp3": {
+      "hash": "c2423622c09ee43f66b9da1b00ee4364378e252b",
+      "lang": "it",
+      "label": "POI parcours: Grande fontaine d’Onofrio",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Beatrice",
+      "generatedAt": "2026-07-27T06:16:51.889Z"
+    },
+    "audio/Grande_fontaine_d_Onofrio_es.mp3": {
+      "hash": "14301e6410b2277a42fbb838607182b43e41d8a6",
+      "lang": "es",
+      "label": "POI parcours: Grande fontaine d’Onofrio",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Lucia",
+      "generatedAt": "2026-07-27T06:17:05.982Z"
+    },
+    "audio/Grande_fontaine_d_Onofrio_pl.mp3": {
+      "hash": "fa929cd840cadf33619b52cd8ec84f457af99412",
+      "lang": "pl",
+      "label": "POI parcours: Grande fontaine d’Onofrio",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Ola",
+      "generatedAt": "2026-07-27T06:17:21.664Z"
+    },
+    "audio/Grande_fontaine_d_Onofrio_ar.mp3": {
+      "hash": "7fcdd88b09cae0d676c611ce0901610adc4bfbaa",
+      "lang": "ar",
+      "label": "POI parcours: Grande fontaine d’Onofrio",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Hala",
+      "generatedAt": "2026-07-27T06:17:35.878Z"
+    },
+    "audio/Grande_fontaine_d_Onofrio_cn.mp3": {
+      "hash": "f4a81a5db453219626655eba35d5e51db549fe3b",
+      "lang": "cn",
+      "label": "POI parcours: Grande fontaine d’Onofrio",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Zhiyu",
+      "generatedAt": "2026-07-27T06:17:50.289Z"
+    },
+    "audio/Grande_fontaine_d_Onofrio_ja.mp3": {
+      "hash": "38d6de883ddf4dc0025ab146f440a94e582a568f",
+      "lang": "ja",
+      "label": "POI parcours: Grande fontaine d’Onofrio",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Takumi",
+      "generatedAt": "2026-07-27T06:18:03.949Z"
+    },
+    "audio/Monastere_franciscain_et_ancienne_pharmacie_fr.mp3": {
+      "hash": "023b73a686475ceb132ca84375ed94023393578d",
+      "lang": "fr",
+      "label": "POI parcours: Monastère franciscain et ancienne pharmacie",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Remi",
+      "generatedAt": "2026-07-27T06:18:17.664Z"
+    },
+    "audio/Monastere_franciscain_et_ancienne_pharmacie_nl.mp3": {
+      "hash": "151d2ae9cb47e192eed88c4f044fda22c637d002",
+      "lang": "nl",
+      "label": "POI parcours: Monastère franciscain et ancienne pharmacie",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Laura",
+      "generatedAt": "2026-07-27T06:18:30.903Z"
+    },
+    "audio/Monastere_franciscain_et_ancienne_pharmacie_en.mp3": {
+      "hash": "c4daef34b5e65ac93088329494b00bfb132aa386",
+      "lang": "en",
+      "label": "POI parcours: Monastère franciscain et ancienne pharmacie",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Joanna",
+      "generatedAt": "2026-07-27T06:18:45.303Z"
+    },
+    "audio/Monastere_franciscain_et_ancienne_pharmacie_de.mp3": {
+      "hash": "6bcd37c7bfea95fc3cc54b2ed3426525302eb671",
+      "lang": "de",
+      "label": "POI parcours: Monastère franciscain et ancienne pharmacie",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Vicki",
+      "generatedAt": "2026-07-27T06:19:00.738Z"
+    },
+    "audio/Monastere_franciscain_et_ancienne_pharmacie_it.mp3": {
+      "hash": "85f18831f313d8c70c1c0ca902b3029ae0b526dc",
+      "lang": "it",
+      "label": "POI parcours: Monastère franciscain et ancienne pharmacie",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Beatrice",
+      "generatedAt": "2026-07-27T06:19:43.676Z"
+    },
+    "audio/Monastere_franciscain_et_ancienne_pharmacie_es.mp3": {
+      "hash": "eac3cd05b8e36ff40f7c5617396c11abbe0aabbb",
+      "lang": "es",
+      "label": "POI parcours: Monastère franciscain et ancienne pharmacie",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Lucia",
+      "generatedAt": "2026-07-27T06:20:00.786Z"
+    },
+    "audio/Monastere_franciscain_et_ancienne_pharmacie_pl.mp3": {
+      "hash": "ff8272089162162139e36f3c5b7886e96608c02c",
+      "lang": "pl",
+      "label": "POI parcours: Monastère franciscain et ancienne pharmacie",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Ola",
+      "generatedAt": "2026-07-27T06:20:16.856Z"
+    },
+    "audio/Monastere_franciscain_et_ancienne_pharmacie_ar.mp3": {
+      "hash": "97adbb7806f4960c54167777d63e7b7abd35a27d",
+      "lang": "ar",
+      "label": "POI parcours: Monastère franciscain et ancienne pharmacie",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Hala",
+      "generatedAt": "2026-07-27T06:20:36.551Z"
+    },
+    "audio/Monastere_franciscain_et_ancienne_pharmacie_cn.mp3": {
+      "hash": "8fce936df9b9fef04c8c0e155e0b7cacaa6c8ecc",
+      "lang": "cn",
+      "label": "POI parcours: Monastère franciscain et ancienne pharmacie",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Zhiyu",
+      "generatedAt": "2026-07-27T06:20:55.483Z"
+    },
+    "audio/Monastere_franciscain_et_ancienne_pharmacie_ja.mp3": {
+      "hash": "8262a93e704d10734ea2074a9c980815a9c43075",
+      "lang": "ja",
+      "label": "POI parcours: Monastère franciscain et ancienne pharmacie",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Takumi",
+      "generatedAt": "2026-07-27T06:21:13.611Z"
+    },
+    "audio/Stradun_fr.mp3": {
+      "hash": "3ff3c95f8e53b0c3162c0f48bacd9aef3f9766cf",
+      "lang": "fr",
+      "label": "POI parcours: Stradun",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Remi",
+      "generatedAt": "2026-07-27T06:21:31.031Z"
+    },
+    "audio/Stradun_nl.mp3": {
+      "hash": "835951b8d087e7fbacd3f6df846c4a9cab4a30f6",
+      "lang": "nl",
+      "label": "POI parcours: Stradun",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Laura",
+      "generatedAt": "2026-07-27T06:21:46.947Z"
+    },
+    "audio/Stradun_en.mp3": {
+      "hash": "ad7b52aaaf3f4cbbf129ababe568dcf70cb148c5",
+      "lang": "en",
+      "label": "POI parcours: Stradun",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Joanna",
+      "generatedAt": "2026-07-27T06:22:07.546Z"
+    },
+    "audio/Stradun_de.mp3": {
+      "hash": "fad164c5461f5d7510c684995f428e954407894c",
+      "lang": "de",
+      "label": "POI parcours: Stradun",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Vicki",
+      "generatedAt": "2026-07-27T06:22:23.618Z"
+    },
+    "audio/Stradun_it.mp3": {
+      "hash": "12d3e9d93e04f14987a93561258f494f9e4bb774",
+      "lang": "it",
+      "label": "POI parcours: Stradun",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Beatrice",
+      "generatedAt": "2026-07-27T06:23:12.860Z"
+    },
+    "audio/Stradun_es.mp3": {
+      "hash": "2b04aae6cfe39fcb49029e4dc86a1306c5b5af3d",
+      "lang": "es",
+      "label": "POI parcours: Stradun",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Lucia",
+      "generatedAt": "2026-07-27T06:23:29.050Z"
+    },
+    "audio/Stradun_pl.mp3": {
+      "hash": "5419df3b70f389f16c54fa9e3e6b79cef7d30be5",
+      "lang": "pl",
+      "label": "POI parcours: Stradun",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Ola",
+      "generatedAt": "2026-07-27T06:23:46.182Z"
+    },
+    "audio/Stradun_ar.mp3": {
+      "hash": "ea96de7e296c46142993e00d0ad927a3a2a4d480",
+      "lang": "ar",
+      "label": "POI parcours: Stradun",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Hala",
+      "generatedAt": "2026-07-27T06:24:01.431Z"
+    },
+    "audio/Stradun_cn.mp3": {
+      "hash": "b99fe13ffe5683efec80f9b6e94e009821e4566a",
+      "lang": "cn",
+      "label": "POI parcours: Stradun",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Zhiyu",
+      "generatedAt": "2026-07-27T06:24:15.405Z"
+    },
+    "audio/Stradun_ja.mp3": {
+      "hash": "830485b22462c92dade2c4e79dd37c9bdddda412",
+      "lang": "ja",
+      "label": "POI parcours: Stradun",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Takumi",
+      "generatedAt": "2026-07-27T06:24:30.444Z"
+    },
+    "audio/Palais_Sponza_fr.mp3": {
+      "hash": "74f6bbf82bec1daf26332d419663f6f56c71e9c2",
+      "lang": "fr",
+      "label": "POI parcours: Palais Sponza",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Remi",
+      "generatedAt": "2026-07-27T06:24:45.936Z"
+    },
+    "audio/Palais_Sponza_nl.mp3": {
+      "hash": "4d13bd1c7eacd5dcc2d087cbb2bcf3f43cfc5714",
+      "lang": "nl",
+      "label": "POI parcours: Palais Sponza",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Laura",
+      "generatedAt": "2026-07-27T06:25:00.039Z"
+    },
+    "audio/Palais_Sponza_en.mp3": {
+      "hash": "d300e941eeb0f3ecec1d6d88e8b9d46204140ff6",
+      "lang": "en",
+      "label": "POI parcours: Palais Sponza",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Joanna",
+      "generatedAt": "2026-07-27T06:25:15.632Z"
+    },
+    "audio/Palais_Sponza_de.mp3": {
+      "hash": "6633fe572562f9e87211deaf84269b10345cd1b7",
+      "lang": "de",
+      "label": "POI parcours: Palais Sponza",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Vicki",
+      "generatedAt": "2026-07-27T06:25:30.807Z"
+    },
+    "audio/Palais_Sponza_it.mp3": {
+      "hash": "5155223cbac551d925f1329afda2d55703780ccf",
+      "lang": "it",
+      "label": "POI parcours: Palais Sponza",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Beatrice",
+      "generatedAt": "2026-07-27T06:26:14.082Z"
+    },
+    "audio/Palais_Sponza_es.mp3": {
+      "hash": "cb451d1126d4b3ca49a531f1013f6e4658ba5001",
+      "lang": "es",
+      "label": "POI parcours: Palais Sponza",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Lucia",
+      "generatedAt": "2026-07-27T06:26:30.704Z"
+    },
+    "audio/Palais_Sponza_pl.mp3": {
+      "hash": "96204afbe24cc53bcf3cd885c99d47b3d5e49ad2",
+      "lang": "pl",
+      "label": "POI parcours: Palais Sponza",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Ola",
+      "generatedAt": "2026-07-27T06:26:45.915Z"
+    },
+    "audio/Palais_Sponza_ar.mp3": {
+      "hash": "211a9870c70b95a80bd67b0a2ed17cca9779670f",
+      "lang": "ar",
+      "label": "POI parcours: Palais Sponza",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Hala",
+      "generatedAt": "2026-07-27T06:26:59.116Z"
+    },
+    "audio/Palais_Sponza_cn.mp3": {
+      "hash": "ee62657ab9559922f3924ad882136b404f4aa98d",
+      "lang": "cn",
+      "label": "POI parcours: Palais Sponza",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Zhiyu",
+      "generatedAt": "2026-07-27T06:27:13.185Z"
+    },
+    "audio/Palais_Sponza_ja.mp3": {
+      "hash": "deefbdd084f9e438db872426016e2cb8483a72e2",
+      "lang": "ja",
+      "label": "POI parcours: Palais Sponza",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Takumi",
+      "generatedAt": "2026-07-27T06:27:27.258Z"
+    },
+    "audio/Colonne_d_Orlando_fr.mp3": {
+      "hash": "6e6321a9140f4a3a81b302e777a11e6887571a2e",
+      "lang": "fr",
+      "label": "POI parcours: Colonne d’Orlando",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Remi",
+      "generatedAt": "2026-07-27T06:27:43.342Z"
+    },
+    "audio/Colonne_d_Orlando_nl.mp3": {
+      "hash": "5deeab29cdda98ad1ce6f62ece4277032ee64cc4",
+      "lang": "nl",
+      "label": "POI parcours: Colonne d’Orlando",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Laura",
+      "generatedAt": "2026-07-27T06:27:59.144Z"
+    },
+    "audio/Colonne_d_Orlando_en.mp3": {
+      "hash": "5065933c774308b4d57d2a4d06eecce75b914cb7",
+      "lang": "en",
+      "label": "POI parcours: Colonne d’Orlando",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Joanna",
+      "generatedAt": "2026-07-27T06:28:15.970Z"
+    },
+    "audio/Colonne_d_Orlando_de.mp3": {
+      "hash": "bd83318fe26a4c13eddc7e413773cc948a3381fa",
+      "lang": "de",
+      "label": "POI parcours: Colonne d’Orlando",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Vicki",
+      "generatedAt": "2026-07-27T06:28:31.450Z"
+    },
+    "audio/Colonne_d_Orlando_it.mp3": {
+      "hash": "48d5f69d06d4b93ce1593132755beb24ea353481",
+      "lang": "it",
+      "label": "POI parcours: Colonne d’Orlando",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Beatrice",
+      "generatedAt": "2026-07-27T06:29:12.010Z"
+    },
+    "audio/Colonne_d_Orlando_es.mp3": {
+      "hash": "57b27008e11ae3dad303444be9d3bd53ed4189e6",
+      "lang": "es",
+      "label": "POI parcours: Colonne d’Orlando",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Lucia",
+      "generatedAt": "2026-07-27T06:29:27.681Z"
+    },
+    "audio/Colonne_d_Orlando_pl.mp3": {
+      "hash": "c20aede9b075a9c31c3ada27ee6c245e927bffff",
+      "lang": "pl",
+      "label": "POI parcours: Colonne d’Orlando",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Ola",
+      "generatedAt": "2026-07-27T06:29:44.026Z"
+    },
+    "audio/Colonne_d_Orlando_ar.mp3": {
+      "hash": "cd22dfaeed7f5b21ba546d9278d41136a5675f72",
+      "lang": "ar",
+      "label": "POI parcours: Colonne d’Orlando",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Hala",
+      "generatedAt": "2026-07-27T06:30:00.740Z"
+    },
+    "audio/Colonne_d_Orlando_cn.mp3": {
+      "hash": "6abe6ce97dea07c6cfa7e327d2545b7158709ad0",
+      "lang": "cn",
+      "label": "POI parcours: Colonne d’Orlando",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Zhiyu",
+      "generatedAt": "2026-07-27T06:30:17.401Z"
+    },
+    "audio/Colonne_d_Orlando_ja.mp3": {
+      "hash": "f6af545a0a5df3d227f2b5586a6a18c25a1c67aa",
+      "lang": "ja",
+      "label": "POI parcours: Colonne d’Orlando",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Takumi",
+      "generatedAt": "2026-07-27T06:30:32.436Z"
+    },
+    "audio/Eglise_Saint_Blaise_fr.mp3": {
+      "hash": "83294201d5e342aa71b9a3d12e9758b6a1cec2b5",
+      "lang": "fr",
+      "label": "POI parcours: Église Saint-Blaise",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Remi",
+      "generatedAt": "2026-07-27T06:30:49.285Z"
+    },
+    "audio/Eglise_Saint_Blaise_nl.mp3": {
+      "hash": "5c6639e85068742948d19aad11fdc9d4c4978c97",
+      "lang": "nl",
+      "label": "POI parcours: Église Saint-Blaise",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Laura",
+      "generatedAt": "2026-07-27T06:31:06.118Z"
+    },
+    "audio/Eglise_Saint_Blaise_en.mp3": {
+      "hash": "8e9631cf834ed7aeab70ecb3e47be94c3698a258",
+      "lang": "en",
+      "label": "POI parcours: Église Saint-Blaise",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Joanna",
+      "generatedAt": "2026-07-27T06:31:26.194Z"
+    },
+    "audio/Eglise_Saint_Blaise_de.mp3": {
+      "hash": "d9677454e701beb5b93ab2373a4b04662a433c84",
+      "lang": "de",
+      "label": "POI parcours: Église Saint-Blaise",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Vicki",
+      "generatedAt": "2026-07-27T06:31:44.807Z"
+    },
+    "audio/Eglise_Saint_Blaise_it.mp3": {
+      "hash": "dbe4fef32afa91dd1baa307e5ba826042d5bfe62",
+      "lang": "it",
+      "label": "POI parcours: Église Saint-Blaise",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Beatrice",
+      "generatedAt": "2026-07-27T06:32:26.680Z"
+    },
+    "audio/Eglise_Saint_Blaise_es.mp3": {
+      "hash": "238c47e25e6b1f39c3d5da5dcaed1a18d76692f7",
+      "lang": "es",
+      "label": "POI parcours: Église Saint-Blaise",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Lucia",
+      "generatedAt": "2026-07-27T06:32:41.450Z"
+    },
+    "audio/Eglise_Saint_Blaise_pl.mp3": {
+      "hash": "5c7e71d551441cdba9820abca45cae9bafddda36",
+      "lang": "pl",
+      "label": "POI parcours: Église Saint-Blaise",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Ola",
+      "generatedAt": "2026-07-27T06:32:56.410Z"
+    },
+    "audio/Eglise_Saint_Blaise_ar.mp3": {
+      "hash": "e0a510624fc3a29d24c1a45ee0d6f32f01b4e46d",
+      "lang": "ar",
+      "label": "POI parcours: Église Saint-Blaise",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Hala",
+      "generatedAt": "2026-07-27T06:33:10.270Z"
+    },
+    "audio/Eglise_Saint_Blaise_cn.mp3": {
+      "hash": "17ec999feaad7dfc627af37dcddf7f32a15ca7bc",
+      "lang": "cn",
+      "label": "POI parcours: Église Saint-Blaise",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Zhiyu",
+      "generatedAt": "2026-07-27T06:33:24.428Z"
+    },
+    "audio/Eglise_Saint_Blaise_ja.mp3": {
+      "hash": "65e8a2fb031a7d5f2249470941446cfa8ec3f6e6",
+      "lang": "ja",
+      "label": "POI parcours: Église Saint-Blaise",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Takumi",
+      "generatedAt": "2026-07-27T06:33:40.616Z"
+    },
+    "audio/Palais_du_Recteur_fr.mp3": {
+      "hash": "d8f47d5324abf1fd899e03cb43a4835bd6ff5b41",
+      "lang": "fr",
+      "label": "POI parcours: Palais du Recteur",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Remi",
+      "generatedAt": "2026-07-27T06:33:54.929Z"
+    },
+    "audio/Palais_du_Recteur_nl.mp3": {
+      "hash": "88818a9dbab6e3584cb9a3c0f03c971513fea2a4",
+      "lang": "nl",
+      "label": "POI parcours: Palais du Recteur",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Laura",
+      "generatedAt": "2026-07-27T06:34:08.749Z"
+    },
+    "audio/Palais_du_Recteur_en.mp3": {
+      "hash": "b8694a5cbd14455319d7386390bbcebc88444eae",
+      "lang": "en",
+      "label": "POI parcours: Palais du Recteur",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Joanna",
+      "generatedAt": "2026-07-27T06:34:22.963Z"
+    },
+    "audio/Palais_du_Recteur_de.mp3": {
+      "hash": "cfce147fbd664406d7c0d19483fb4f834bd838a5",
+      "lang": "de",
+      "label": "POI parcours: Palais du Recteur",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Vicki",
+      "generatedAt": "2026-07-27T06:34:37.558Z"
+    },
+    "audio/Palais_du_Recteur_it.mp3": {
+      "hash": "9f22df9b816d91a1d78e5165a76ca50aedac313b",
+      "lang": "it",
+      "label": "POI parcours: Palais du Recteur",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Beatrice",
+      "generatedAt": "2026-07-27T06:35:38.904Z"
+    },
+    "audio/Palais_du_Recteur_es.mp3": {
+      "hash": "cb804c824c1c298f12350376fbff36bc0e3452a1",
+      "lang": "es",
+      "label": "POI parcours: Palais du Recteur",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Lucia",
+      "generatedAt": "2026-07-27T06:36:00.421Z"
+    },
+    "audio/Palais_du_Recteur_pl.mp3": {
+      "hash": "cbc8a6de371b0e04d135948ab988f3acc373059b",
+      "lang": "pl",
+      "label": "POI parcours: Palais du Recteur",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Ola",
+      "generatedAt": "2026-07-27T06:36:05.010Z"
+    },
+    "audio/Palais_du_Recteur_ar.mp3": {
+      "hash": "5b8c03caad7f6a7f836210fc4e2212a449bd12d7",
+      "lang": "ar",
+      "label": "POI parcours: Palais du Recteur",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Hala",
+      "generatedAt": "2026-07-27T06:36:09.805Z"
+    },
+    "audio/Palais_du_Recteur_cn.mp3": {
+      "hash": "45bd7f44240bf0cb167c79e98dd2f5fd3cd51b3a",
+      "lang": "cn",
+      "label": "POI parcours: Palais du Recteur",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Zhiyu",
+      "generatedAt": "2026-07-27T06:36:14.438Z"
+    },
+    "audio/Palais_du_Recteur_ja.mp3": {
+      "hash": "e5624398b354bd36594dc1198dad16929e5b7ed2",
+      "lang": "ja",
+      "label": "POI parcours: Palais du Recteur",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Takumi",
+      "generatedAt": "2026-07-27T06:36:20.323Z"
+    },
+    "audio/Place_Gundulic_fr.mp3": {
+      "hash": "a03f1c2c192be8d41dc84f1c0fe219580ff0445e",
+      "lang": "fr",
+      "label": "POI parcours: Place Gundulić",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Remi",
+      "generatedAt": "2026-07-27T06:36:39.801Z"
+    },
+    "audio/Place_Gundulic_nl.mp3": {
+      "hash": "ded99753aea0ee03d448dde9ecd8c4f46c37bf62",
+      "lang": "nl",
+      "label": "POI parcours: Place Gundulić",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Laura",
+      "generatedAt": "2026-07-27T06:37:01.691Z"
+    },
+    "audio/Place_Gundulic_en.mp3": {
+      "hash": "54d31d1c849d868f0aa9a808f0929b009fa7c83f",
+      "lang": "en",
+      "label": "POI parcours: Place Gundulić",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Joanna",
+      "generatedAt": "2026-07-27T06:37:21.623Z"
+    },
+    "audio/Place_Gundulic_de.mp3": {
+      "hash": "3eb9d54a694d0deddf721395d1b9cebfd3ffc167",
+      "lang": "de",
+      "label": "POI parcours: Place Gundulić",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Vicki",
+      "generatedAt": "2026-07-27T06:37:46.873Z"
+    },
+    "audio/Place_Gundulic_it.mp3": {
+      "hash": "cfe598c6c7dfbaff54b022dfb092d8f99e047e05",
+      "lang": "it",
+      "label": "POI parcours: Place Gundulić",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Beatrice",
+      "generatedAt": "2026-07-27T06:38:20.113Z"
+    },
+    "audio/Place_Gundulic_es.mp3": {
+      "hash": "6e5a89ab068eee299640486b408f4e6f713afaab",
+      "lang": "es",
+      "label": "POI parcours: Place Gundulić",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Lucia",
+      "generatedAt": "2026-07-27T06:38:40.577Z"
+    },
+    "audio/Place_Gundulic_pl.mp3": {
+      "hash": "aa08b1fe47d609c82684fec4e1f948a5158d64ed",
+      "lang": "pl",
+      "label": "POI parcours: Place Gundulić",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Ola",
+      "generatedAt": "2026-07-27T06:38:45.067Z"
+    },
+    "audio/Place_Gundulic_ar.mp3": {
+      "hash": "874eea42f6fd0911bc39d109f24a0842a9a5e5d5",
+      "lang": "ar",
+      "label": "POI parcours: Place Gundulić",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Hala",
+      "generatedAt": "2026-07-27T06:38:49.607Z"
+    },
+    "audio/Place_Gundulic_cn.mp3": {
+      "hash": "3abe403c96a1b6dde22fc3dbdcaa8ebe97f9477d",
+      "lang": "cn",
+      "label": "POI parcours: Place Gundulić",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Zhiyu",
+      "generatedAt": "2026-07-27T06:38:54.436Z"
+    },
+    "audio/Place_Gundulic_ja.mp3": {
+      "hash": "5b061d86b0c80c2ee27a26957f748a2e197262f1",
+      "lang": "ja",
+      "label": "POI parcours: Place Gundulić",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Takumi",
+      "generatedAt": "2026-07-27T06:39:00.173Z"
+    },
+    "audio/Grenier_Rupe_fr.mp3": {
+      "hash": "5fed95dffa32a9aa459e0fe55aa4145b1c423281",
+      "lang": "fr",
+      "label": "POI parcours: Grenier Rupe",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Remi",
+      "generatedAt": "2026-07-27T06:39:19.067Z"
+    },
+    "audio/Grenier_Rupe_nl.mp3": {
+      "hash": "597a3c6560bb377745f921cc9b8da58dc3df5876",
+      "lang": "nl",
+      "label": "POI parcours: Grenier Rupe",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Laura",
+      "generatedAt": "2026-07-27T06:39:40.518Z"
+    },
+    "audio/Grenier_Rupe_en.mp3": {
+      "hash": "9e4e0a6b5a06a75dce2cf876cba74bdacdd9bfac",
+      "lang": "en",
+      "label": "POI parcours: Grenier Rupe",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Joanna",
+      "generatedAt": "2026-07-27T06:40:00.223Z"
+    },
+    "audio/Grenier_Rupe_de.mp3": {
+      "hash": "a1316592c867ef278f7c5e7742b217d52571c42b",
+      "lang": "de",
+      "label": "POI parcours: Grenier Rupe",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Vicki",
+      "generatedAt": "2026-07-27T06:40:25.195Z"
+    },
+    "audio/Grenier_Rupe_it.mp3": {
+      "hash": "f12014601c777a9b3b2038362808df54e27cc5f4",
+      "lang": "it",
+      "label": "POI parcours: Grenier Rupe",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Beatrice",
+      "generatedAt": "2026-07-27T06:40:58.646Z"
+    },
+    "audio/Grenier_Rupe_es.mp3": {
+      "hash": "9882d8251cd08e511b6e3df445e96848f5a4f9cc",
+      "lang": "es",
+      "label": "POI parcours: Grenier Rupe",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Lucia",
+      "generatedAt": "2026-07-27T06:41:20.148Z"
+    },
+    "audio/Grenier_Rupe_pl.mp3": {
+      "hash": "8562ffb6ee75181cf9fe904484bcfff3aa9249ab",
+      "lang": "pl",
+      "label": "POI parcours: Grenier Rupe",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Ola",
+      "generatedAt": "2026-07-27T06:41:24.449Z"
+    },
+    "audio/Grenier_Rupe_ar.mp3": {
+      "hash": "cc1605f754834e5c44453ba37ddc30d6edc78477",
+      "lang": "ar",
+      "label": "POI parcours: Grenier Rupe",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Hala",
+      "generatedAt": "2026-07-27T06:41:28.963Z"
+    },
+    "audio/Grenier_Rupe_cn.mp3": {
+      "hash": "3004bc95b374602956be6a295cb2f1b07e8c8e69",
+      "lang": "cn",
+      "label": "POI parcours: Grenier Rupe",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Zhiyu",
+      "generatedAt": "2026-07-27T06:41:33.465Z"
+    },
+    "audio/Grenier_Rupe_ja.mp3": {
+      "hash": "b67c86eee7398060f14448648ca586a029a90137",
+      "lang": "ja",
+      "label": "POI parcours: Grenier Rupe",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Takumi",
+      "generatedAt": "2026-07-27T06:41:38.764Z"
+    },
+    "audio/Escalier_des_Jesuites_et_eglise_Saint_Ignace_fr.mp3": {
+      "hash": "cda3752d3821da63338841c9ae27d13627888924",
+      "lang": "fr",
+      "label": "POI parcours: Escalier des Jésuites et église Saint-Ignace",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Remi",
+      "generatedAt": "2026-07-27T06:41:57.986Z"
+    },
+    "audio/Escalier_des_Jesuites_et_eglise_Saint_Ignace_nl.mp3": {
+      "hash": "03795f754c860c0404a89e8b0acd5418a181f3a5",
+      "lang": "nl",
+      "label": "POI parcours: Escalier des Jésuites et église Saint-Ignace",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Laura",
+      "generatedAt": "2026-07-27T06:42:21.119Z"
+    },
+    "audio/Escalier_des_Jesuites_et_eglise_Saint_Ignace_en.mp3": {
+      "hash": "80d6688d24c5ca5573543cce8ca0be1e0593e66b",
+      "lang": "en",
+      "label": "POI parcours: Escalier des Jésuites et église Saint-Ignace",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Joanna",
+      "generatedAt": "2026-07-27T06:42:42.166Z"
+    },
+    "audio/Escalier_des_Jesuites_et_eglise_Saint_Ignace_de.mp3": {
+      "hash": "e2213521d2f3aaf1fde3256516072645dd7461ae",
+      "lang": "de",
+      "label": "POI parcours: Escalier des Jésuites et église Saint-Ignace",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Vicki",
+      "generatedAt": "2026-07-27T06:43:07.645Z"
+    },
+    "audio/Escalier_des_Jesuites_et_eglise_Saint_Ignace_it.mp3": {
+      "hash": "091ff9e0c175fd584991968a09cdcb6269674229",
+      "lang": "it",
+      "label": "POI parcours: Escalier des Jésuites et église Saint-Ignace",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Beatrice",
+      "generatedAt": "2026-07-27T06:43:41.572Z"
+    },
+    "audio/Escalier_des_Jesuites_et_eglise_Saint_Ignace_es.mp3": {
+      "hash": "c4d75b9dec3a42294eb00931d54d3e2295a15789",
+      "lang": "es",
+      "label": "POI parcours: Escalier des Jésuites et église Saint-Ignace",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Lucia",
+      "generatedAt": "2026-07-27T06:44:02.450Z"
+    },
+    "audio/Escalier_des_Jesuites_et_eglise_Saint_Ignace_pl.mp3": {
+      "hash": "e607e37aae9833b1b3eb35088285967a8afaade5",
+      "lang": "pl",
+      "label": "POI parcours: Escalier des Jésuites et église Saint-Ignace",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Ola",
+      "generatedAt": "2026-07-27T06:44:06.912Z"
+    },
+    "audio/Escalier_des_Jesuites_et_eglise_Saint_Ignace_ar.mp3": {
+      "hash": "b2042de5d98424afc038e3905925b174384b6fa1",
+      "lang": "ar",
+      "label": "POI parcours: Escalier des Jésuites et église Saint-Ignace",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Hala",
+      "generatedAt": "2026-07-27T06:44:11.857Z"
+    },
+    "audio/Escalier_des_Jesuites_et_eglise_Saint_Ignace_cn.mp3": {
+      "hash": "1c554ce51604e0ef5a290845d3da8ba0c6cffd28",
+      "lang": "cn",
+      "label": "POI parcours: Escalier des Jésuites et église Saint-Ignace",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Zhiyu",
+      "generatedAt": "2026-07-27T06:44:16.633Z"
+    },
+    "audio/Escalier_des_Jesuites_et_eglise_Saint_Ignace_ja.mp3": {
+      "hash": "216d3a22dae48014b2c90d0155aa176b0d368d01",
+      "lang": "ja",
+      "label": "POI parcours: Escalier des Jésuites et église Saint-Ignace",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Takumi",
+      "generatedAt": "2026-07-27T06:44:23.077Z"
+    },
+    "audio/Cathedrale_de_l_Assomption_fr.mp3": {
+      "hash": "005d45aa3d8f9a3da3ed4447f321e2250b02ea90",
+      "lang": "fr",
+      "label": "POI parcours: Cathédrale de l’Assomption",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Remi",
+      "generatedAt": "2026-07-27T06:44:41.872Z"
+    },
+    "audio/Cathedrale_de_l_Assomption_nl.mp3": {
+      "hash": "66d7e27aad2763e5db811a22481c8ce1d3f2fecd",
+      "lang": "nl",
+      "label": "POI parcours: Cathédrale de l’Assomption",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Laura",
+      "generatedAt": "2026-07-27T06:45:04.618Z"
+    },
+    "audio/Cathedrale_de_l_Assomption_en.mp3": {
+      "hash": "1fd1ac7a89d0b825909cf4fcbd921215d1b9bc44",
+      "lang": "en",
+      "label": "POI parcours: Cathédrale de l’Assomption",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Joanna",
+      "generatedAt": "2026-07-27T06:45:24.372Z"
+    },
+    "audio/Cathedrale_de_l_Assomption_de.mp3": {
+      "hash": "0e11b1c27c559a52c830ebd0b0d2969ee6c52ac1",
+      "lang": "de",
+      "label": "POI parcours: Cathédrale de l’Assomption",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Vicki",
+      "generatedAt": "2026-07-27T06:45:50.477Z"
+    },
+    "audio/Cathedrale_de_l_Assomption_it.mp3": {
+      "hash": "997ea46281f75244d688146eee56b453c2d1b3c7",
+      "lang": "it",
+      "label": "POI parcours: Cathédrale de l’Assomption",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Beatrice",
+      "generatedAt": "2026-07-27T06:46:23.228Z"
+    },
+    "audio/Cathedrale_de_l_Assomption_es.mp3": {
+      "hash": "79d4f2b3a97720a9d6c0b0160359eacc73048661",
+      "lang": "es",
+      "label": "POI parcours: Cathédrale de l’Assomption",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Lucia",
+      "generatedAt": "2026-07-27T06:46:44.821Z"
+    },
+    "audio/Cathedrale_de_l_Assomption_pl.mp3": {
+      "hash": "bb38a8d15d5ad717663cbfc9482722f484949ab4",
+      "lang": "pl",
+      "label": "POI parcours: Cathédrale de l’Assomption",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Ola",
+      "generatedAt": "2026-07-27T06:46:49.253Z"
+    },
+    "audio/Cathedrale_de_l_Assomption_ar.mp3": {
+      "hash": "44ce541acdc6aa5465d745982aba802b30f02e2c",
+      "lang": "ar",
+      "label": "POI parcours: Cathédrale de l’Assomption",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Hala",
+      "generatedAt": "2026-07-27T06:46:54.155Z"
+    },
+    "audio/Cathedrale_de_l_Assomption_cn.mp3": {
+      "hash": "f6068dab2d80a926197fe681fc31278df404aa3e",
+      "lang": "cn",
+      "label": "POI parcours: Cathédrale de l’Assomption",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Zhiyu",
+      "generatedAt": "2026-07-27T06:46:58.661Z"
+    },
+    "audio/Cathedrale_de_l_Assomption_ja.mp3": {
+      "hash": "71611f0f6a605137712183a0767762fa89e82604",
+      "lang": "ja",
+      "label": "POI parcours: Cathédrale de l’Assomption",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Takumi",
+      "generatedAt": "2026-07-27T06:47:04.909Z"
+    },
+    "audio/Vieux_Port_fr.mp3": {
+      "hash": "dc4e210299ac17104180ed428b05284825a200e6",
+      "lang": "fr",
+      "label": "POI parcours: Vieux-Port",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Remi",
+      "generatedAt": "2026-07-27T06:47:23.658Z"
+    },
+    "audio/Vieux_Port_nl.mp3": {
+      "hash": "0fdfe0380a0a062e971a55c780b02e17f5fae666",
+      "lang": "nl",
+      "label": "POI parcours: Vieux-Port",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Laura",
+      "generatedAt": "2026-07-27T06:47:44.967Z"
+    },
+    "audio/Vieux_Port_en.mp3": {
+      "hash": "e7df4a14453d77ba6f03112e0b7c92bad0f464af",
+      "lang": "en",
+      "label": "POI parcours: Vieux-Port",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Joanna",
+      "generatedAt": "2026-07-27T06:48:04.732Z"
+    },
+    "audio/Vieux_Port_de.mp3": {
+      "hash": "ee1ee30865142e55ba971706169b2cfb7d8ddfcd",
+      "lang": "de",
+      "label": "POI parcours: Vieux-Port",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Vicki",
+      "generatedAt": "2026-07-27T06:48:29.318Z"
+    },
+    "audio/Vieux_Port_it.mp3": {
+      "hash": "26fe74d44dabbd8fc6a918347cadf171f519662d",
+      "lang": "it",
+      "label": "POI parcours: Vieux-Port",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Beatrice",
+      "generatedAt": "2026-07-27T06:49:02.810Z"
+    },
+    "audio/Vieux_Port_es.mp3": {
+      "hash": "03eac1a6c8f6f82525fb3150f079608849e00037",
+      "lang": "es",
+      "label": "POI parcours: Vieux-Port",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Lucia",
+      "generatedAt": "2026-07-27T06:49:23.683Z"
+    },
+    "audio/Vieux_Port_pl.mp3": {
+      "hash": "c02e7fecf2b6aee898533f3a7c708f0f0c6a79cc",
+      "lang": "pl",
+      "label": "POI parcours: Vieux-Port",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Ola",
+      "generatedAt": "2026-07-27T06:49:28.602Z"
+    },
+    "audio/Vieux_Port_ar.mp3": {
+      "hash": "0feab2888e86a3f4c8b7145275de9fec8fa0ea84",
+      "lang": "ar",
+      "label": "POI parcours: Vieux-Port",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Hala",
+      "generatedAt": "2026-07-27T06:49:33.669Z"
+    },
+    "audio/Vieux_Port_cn.mp3": {
+      "hash": "dfed7d232e1be296f388f9d98c7b826c54442505",
+      "lang": "cn",
+      "label": "POI parcours: Vieux-Port",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Zhiyu",
+      "generatedAt": "2026-07-27T06:49:38.324Z"
+    },
+    "audio/Vieux_Port_ja.mp3": {
+      "hash": "d1a029ecdbf4b9f2a10491c0ab715363344f206d",
+      "lang": "ja",
+      "label": "POI parcours: Vieux-Port",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Takumi",
+      "generatedAt": "2026-07-27T06:49:43.649Z"
+    },
+    "audio/Fort_Lovrijenac_fr.mp3": {
+      "hash": "a831cf0c41f92442973cf8805309d8ff3bb457b9",
+      "lang": "fr",
+      "label": "POI parcours: Fort Lovrijenac",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Remi",
+      "generatedAt": "2026-07-27T06:50:02.052Z"
+    },
+    "audio/Fort_Lovrijenac_nl.mp3": {
+      "hash": "e65c69c89798e14b727f3bacfb1e8fa76a92ca3e",
+      "lang": "nl",
+      "label": "POI parcours: Fort Lovrijenac",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Laura",
+      "generatedAt": "2026-07-27T06:50:23.303Z"
+    },
+    "audio/Fort_Lovrijenac_en.mp3": {
+      "hash": "11110123b00fa228e3497be99b1cb815edb49ab3",
+      "lang": "en",
+      "label": "POI parcours: Fort Lovrijenac",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Joanna",
+      "generatedAt": "2026-07-27T06:50:41.914Z"
+    },
+    "audio/Fort_Lovrijenac_de.mp3": {
+      "hash": "3266b1640a9269ef8bb6bf4e213ab5e1f9497217",
+      "lang": "de",
+      "label": "POI parcours: Fort Lovrijenac",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Vicki",
+      "generatedAt": "2026-07-27T06:51:06.327Z"
+    },
+    "audio/Fort_Lovrijenac_it.mp3": {
+      "hash": "bad4373646e2c5a72e21b4bd1bdaee239b02c8c1",
+      "lang": "it",
+      "label": "POI parcours: Fort Lovrijenac",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Beatrice",
+      "generatedAt": "2026-07-27T06:51:38.199Z"
+    },
+    "audio/Fort_Lovrijenac_es.mp3": {
+      "hash": "cb28647a16bdeeddfc3ee01dca5b0785c12146a3",
+      "lang": "es",
+      "label": "POI parcours: Fort Lovrijenac",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Lucia",
+      "generatedAt": "2026-07-27T06:51:57.624Z"
+    },
+    "audio/Fort_Lovrijenac_pl.mp3": {
+      "hash": "6b3fb3b343f1e8ba0f5818b17fffe6359ee37804",
+      "lang": "pl",
+      "label": "POI parcours: Fort Lovrijenac",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Ola",
+      "generatedAt": "2026-07-27T06:52:02.948Z"
+    },
+    "audio/Fort_Lovrijenac_ar.mp3": {
+      "hash": "af49454941905e2d55f5dab065a771de99451f17",
+      "lang": "ar",
+      "label": "POI parcours: Fort Lovrijenac",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Hala",
+      "generatedAt": "2026-07-27T06:52:07.734Z"
+    },
+    "audio/Fort_Lovrijenac_cn.mp3": {
+      "hash": "df50aa8a69db22822c6288311c649d6534fc29fd",
+      "lang": "cn",
+      "label": "POI parcours: Fort Lovrijenac",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Zhiyu",
+      "generatedAt": "2026-07-27T06:52:13.575Z"
+    },
+    "audio/Fort_Lovrijenac_ja.mp3": {
+      "hash": "94ee200b12bce8932623fc198f8ccf86b9dee4c6",
+      "lang": "ja",
+      "label": "POI parcours: Fort Lovrijenac",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Takumi",
+      "generatedAt": "2026-07-27T06:52:22.223Z"
+    },
+    "audio/Fort_Bokar_fr.mp3": {
+      "hash": "8430def59f03b20825414bf8801b019559351f0c",
+      "lang": "fr",
+      "label": "POI parcours: Fort Bokar",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Remi",
+      "generatedAt": "2026-07-27T06:52:40.848Z"
+    },
+    "audio/Fort_Bokar_nl.mp3": {
+      "hash": "672f5db51938711047cd6b572569d83ccc92b4c2",
+      "lang": "nl",
+      "label": "POI parcours: Fort Bokar",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Laura",
+      "generatedAt": "2026-07-27T06:53:02.819Z"
+    },
+    "audio/Fort_Bokar_en.mp3": {
+      "hash": "cdece99fe6ab5459f89abeac6b1cc4b829f2b7e7",
+      "lang": "en",
+      "label": "POI parcours: Fort Bokar",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Joanna",
+      "generatedAt": "2026-07-27T06:53:20.730Z"
+    },
+    "audio/Fort_Bokar_de.mp3": {
+      "hash": "a94fc4eae65b0c6f6f2526537dba81545807296b",
+      "lang": "de",
+      "label": "POI parcours: Fort Bokar",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Vicki",
+      "generatedAt": "2026-07-27T06:53:43.849Z"
+    },
+    "audio/Fort_Bokar_it.mp3": {
+      "hash": "35d4936ad2b7727adbf744d4e0048eea5c846b12",
+      "lang": "it",
+      "label": "POI parcours: Fort Bokar",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Beatrice",
+      "generatedAt": "2026-07-27T06:54:14.779Z"
+    },
+    "audio/Fort_Bokar_es.mp3": {
+      "hash": "270170067a62b4c8a180debc338ad0a671b59176",
+      "lang": "es",
+      "label": "POI parcours: Fort Bokar",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Lucia",
+      "generatedAt": "2026-07-27T06:54:33.751Z"
+    },
+    "audio/Fort_Bokar_pl.mp3": {
+      "hash": "e24e1c9891c35fbd413490bb3978fdbd6700622a",
+      "lang": "pl",
+      "label": "POI parcours: Fort Bokar",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Ola",
+      "generatedAt": "2026-07-27T06:54:37.761Z"
+    },
+    "audio/Fort_Bokar_ar.mp3": {
+      "hash": "f3a30432aed2f8721499e065313261dc101f31b0",
+      "lang": "ar",
+      "label": "POI parcours: Fort Bokar",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Hala",
+      "generatedAt": "2026-07-27T06:54:42.022Z"
+    },
+    "audio/Fort_Bokar_cn.mp3": {
+      "hash": "8bc296e582ac8d82e11f61abdcad984931e3d603",
+      "lang": "cn",
+      "label": "POI parcours: Fort Bokar",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Zhiyu",
+      "generatedAt": "2026-07-27T06:54:46.344Z"
+    },
+    "audio/Fort_Bokar_ja.mp3": {
+      "hash": "c0999828188ea5501763b50589cb4a8e6a3033b2",
+      "lang": "ja",
+      "label": "POI parcours: Fort Bokar",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Takumi",
+      "generatedAt": "2026-07-27T06:54:51.666Z"
+    },
+    "audio/Remparts_et_tour_Minceta_fr.mp3": {
+      "hash": "6585cc53c75b1cc049e7ef7563d155da90541ee9",
+      "lang": "fr",
+      "label": "POI parcours: Remparts et tour Minčeta",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Remi",
+      "generatedAt": "2026-07-27T06:55:10.893Z"
+    },
+    "audio/Remparts_et_tour_Minceta_nl.mp3": {
+      "hash": "db688123937807ab2e8edea38eb65009c8133d6e",
+      "lang": "nl",
+      "label": "POI parcours: Remparts et tour Minčeta",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Laura",
+      "generatedAt": "2026-07-27T06:55:33.905Z"
+    },
+    "audio/Remparts_et_tour_Minceta_en.mp3": {
+      "hash": "4fad67b5d1512a03d8ebbd826d3a27024abbd2d7",
+      "lang": "en",
+      "label": "POI parcours: Remparts et tour Minčeta",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Joanna",
+      "generatedAt": "2026-07-27T06:55:54.648Z"
+    },
+    "audio/Remparts_et_tour_Minceta_de.mp3": {
+      "hash": "9f1dde57131631d7b8c43106fc6c02224121a3dc",
+      "lang": "de",
+      "label": "POI parcours: Remparts et tour Minčeta",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Vicki",
+      "generatedAt": "2026-07-27T06:56:20.509Z"
+    },
+    "audio/Remparts_et_tour_Minceta_it.mp3": {
+      "hash": "294870b0f9d773bfbaeec4e0a5fd6122ecb96bcc",
+      "lang": "it",
+      "label": "POI parcours: Remparts et tour Minčeta",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Beatrice",
+      "generatedAt": "2026-07-27T06:56:55.200Z"
+    },
+    "audio/Remparts_et_tour_Minceta_es.mp3": {
+      "hash": "b85e61760c7f9b4e0bcd814834c6e15a7fd94ac2",
+      "lang": "es",
+      "label": "POI parcours: Remparts et tour Minčeta",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Lucia",
+      "generatedAt": "2026-07-27T06:57:16.466Z"
+    },
+    "audio/Remparts_et_tour_Minceta_pl.mp3": {
+      "hash": "ccb3ba7cf78f77407d64c61b2c44c6c2f67e65a0",
+      "lang": "pl",
+      "label": "POI parcours: Remparts et tour Minčeta",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Ola",
+      "generatedAt": "2026-07-27T06:57:21.410Z"
+    },
+    "audio/Remparts_et_tour_Minceta_ar.mp3": {
+      "hash": "44eb97e78f203f1a92fb0d0817a91b9ffa413759",
+      "lang": "ar",
+      "label": "POI parcours: Remparts et tour Minčeta",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Hala",
+      "generatedAt": "2026-07-27T06:57:26.099Z"
+    },
+    "audio/Remparts_et_tour_Minceta_cn.mp3": {
+      "hash": "1a15f590895c8446282783986d4942d152869658",
+      "lang": "cn",
+      "label": "POI parcours: Remparts et tour Minčeta",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Zhiyu",
+      "generatedAt": "2026-07-27T06:57:30.601Z"
+    },
+    "audio/Remparts_et_tour_Minceta_ja.mp3": {
+      "hash": "ce85336d25c1e113b1e0a743b088bbd69f83bd2d",
+      "lang": "ja",
+      "label": "POI parcours: Remparts et tour Minčeta",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Takumi",
+      "generatedAt": "2026-07-27T06:57:35.983Z"
+    },
+    "audio/Monastere_dominicain_fr.mp3": {
+      "hash": "f6912ad31f1ec526d21d7724a0374873779e3cba",
+      "lang": "fr",
+      "label": "POI parcours: Monastère dominicain",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Remi",
+      "generatedAt": "2026-07-27T06:57:54.299Z"
+    },
+    "audio/Monastere_dominicain_nl.mp3": {
+      "hash": "8631166f0ed4ec38756767c1045a9668e4706620",
+      "lang": "nl",
+      "label": "POI parcours: Monastère dominicain",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Laura",
+      "generatedAt": "2026-07-27T06:58:15.750Z"
+    },
+    "audio/Monastere_dominicain_en.mp3": {
+      "hash": "7c6cc285a5752c772065fdcc662ff5a39ce37b5f",
+      "lang": "en",
+      "label": "POI parcours: Monastère dominicain",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Joanna",
+      "generatedAt": "2026-07-27T06:58:35.737Z"
+    },
+    "audio/Monastere_dominicain_de.mp3": {
+      "hash": "a1c398e51d72f004498b9bdfe761e57a15440203",
+      "lang": "de",
+      "label": "POI parcours: Monastère dominicain",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Vicki",
+      "generatedAt": "2026-07-27T06:58:59.526Z"
+    },
+    "audio/Monastere_dominicain_it.mp3": {
+      "hash": "d986a1193a2e5c8979c1e0abd2df0bcfd4016367",
+      "lang": "it",
+      "label": "POI parcours: Monastère dominicain",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Beatrice",
+      "generatedAt": "2026-07-27T06:59:32.105Z"
+    },
+    "audio/Monastere_dominicain_es.mp3": {
+      "hash": "97dec7cb2830a37bba81833224bdb8eb1407413e",
+      "lang": "es",
+      "label": "POI parcours: Monastère dominicain",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Lucia",
+      "generatedAt": "2026-07-27T06:59:52.249Z"
+    },
+    "audio/Monastere_dominicain_pl.mp3": {
+      "hash": "2a78200923f3303f3ad5017aaf874eb7a0ed989c",
+      "lang": "pl",
+      "label": "POI parcours: Monastère dominicain",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Ola",
+      "generatedAt": "2026-07-27T06:59:56.653Z"
+    },
+    "audio/Monastere_dominicain_ar.mp3": {
+      "hash": "24e15d66d6b9a9c078b6d9e41df163dce116cabf",
+      "lang": "ar",
+      "label": "POI parcours: Monastère dominicain",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Hala",
+      "generatedAt": "2026-07-27T07:00:01.098Z"
+    },
+    "audio/Monastere_dominicain_cn.mp3": {
+      "hash": "69b34877606c1e144d601f6647847a92bc165605",
+      "lang": "cn",
+      "label": "POI parcours: Monastère dominicain",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Zhiyu",
+      "generatedAt": "2026-07-27T07:00:05.620Z"
+    },
+    "audio/Monastere_dominicain_ja.mp3": {
+      "hash": "fcb0b42e0af9fd1e48abd3232ff098f4e34aef5b",
+      "lang": "ja",
+      "label": "POI parcours: Monastère dominicain",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Takumi",
+      "generatedAt": "2026-07-27T07:00:10.879Z"
+    },
+    "audio/Fort_Revelin_et_porte_Ploce_fr.mp3": {
+      "hash": "32802f9b5baf64cf3c6e55d345f1597cbe04e231",
+      "lang": "fr",
+      "label": "POI parcours: Fort Revelin et porte Ploče",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Remi",
+      "generatedAt": "2026-07-27T07:00:28.725Z"
+    },
+    "audio/Fort_Revelin_et_porte_Ploce_nl.mp3": {
+      "hash": "d03b7b52c9928cf482c0ca037db8e1948b18d566",
+      "lang": "nl",
+      "label": "POI parcours: Fort Revelin et porte Ploče",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Laura",
+      "generatedAt": "2026-07-27T07:00:49.578Z"
+    },
+    "audio/Fort_Revelin_et_porte_Ploce_en.mp3": {
+      "hash": "f4cbcf3de898de8c7d4716703937ce8091921c97",
+      "lang": "en",
+      "label": "POI parcours: Fort Revelin et porte Ploče",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Joanna",
+      "generatedAt": "2026-07-27T07:01:08.230Z"
+    },
+    "audio/Fort_Revelin_et_porte_Ploce_de.mp3": {
+      "hash": "c3e12930212e0b564e9293edd3b83050159c76a6",
+      "lang": "de",
+      "label": "POI parcours: Fort Revelin et porte Ploče",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Vicki",
+      "generatedAt": "2026-07-27T07:01:32.396Z"
+    },
+    "audio/Fort_Revelin_et_porte_Ploce_it.mp3": {
+      "hash": "1e79d17660071ee48985baefe9634b3100d23521",
+      "lang": "it",
+      "label": "POI parcours: Fort Revelin et porte Ploče",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Beatrice",
+      "generatedAt": "2026-07-27T07:02:04.154Z"
+    },
+    "audio/Fort_Revelin_et_porte_Ploce_es.mp3": {
+      "hash": "da743f63ef91dc9a97f21d6caafa4999c4fb4516",
+      "lang": "es",
+      "label": "POI parcours: Fort Revelin et porte Ploče",
+      "provider": "polly",
+      "model": "polly-generative",
+      "voice": "Lucia",
+      "generatedAt": "2026-07-27T07:02:24.135Z"
+    },
+    "audio/Fort_Revelin_et_porte_Ploce_pl.mp3": {
+      "hash": "8a2e77f121d4609733624894fc922c3ac0aab2d1",
+      "lang": "pl",
+      "label": "POI parcours: Fort Revelin et porte Ploče",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Ola",
+      "generatedAt": "2026-07-27T07:02:28.382Z"
+    },
+    "audio/Fort_Revelin_et_porte_Ploce_ar.mp3": {
+      "hash": "5777017db1941f378759ab4a2f2d09c8d375b761",
+      "lang": "ar",
+      "label": "POI parcours: Fort Revelin et porte Ploče",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Hala",
+      "generatedAt": "2026-07-27T07:02:33.284Z"
+    },
+    "audio/Fort_Revelin_et_porte_Ploce_cn.mp3": {
+      "hash": "bb8abf74df58bdf833225586ecc03ddba8284371",
+      "lang": "cn",
+      "label": "POI parcours: Fort Revelin et porte Ploče",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Zhiyu",
+      "generatedAt": "2026-07-27T07:02:37.519Z"
+    },
+    "audio/Fort_Revelin_et_porte_Ploce_ja.mp3": {
+      "hash": "304b8d01810a0eed830bed0236ba2937a576d9b1",
+      "lang": "ja",
+      "label": "POI parcours: Fort Revelin et porte Ploče",
+      "provider": "polly",
+      "model": "polly-neural",
+      "voice": "Takumi",
+      "generatedAt": "2026-07-27T07:02:42.796Z"
+    }
+  },
+  "langRegenRequired": {},
+  "langAudioSyncedAt": {
+    "fr": "2026-07-27T07:02:42.808Z",
+    "nl": "2026-07-27T07:02:42.808Z",
+    "en": "2026-07-27T07:02:42.808Z",
+    "de": "2026-07-27T07:02:42.808Z",
+    "it": "2026-07-27T07:02:42.808Z",
+    "es": "2026-07-27T07:02:42.808Z",
+    "pl": "2026-07-27T07:02:42.808Z",
+    "ar": "2026-07-27T07:02:42.808Z",
+    "cn": "2026-07-27T07:02:42.808Z",
+    "ja": "2026-07-27T07:02:42.808Z"
+  }
+}

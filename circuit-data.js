@@ -1,0 +1,24 @@
+// Genere CLQ App Factory v2026.07.26-culture-city-bound
+const locations=[
+    { name: "Porte Pile", lat: 42.64174, lng: 18.10685, audio: "audio/Porte_Pile.mp3", image: "images/points interets/porte-pile.jpg", fallbackImage: "images/points interets/Porte_Pile.svg" },
+    { name: "Grande fontaine d’Onofrio", lat: 42.64156, lng: 18.10734, audio: "audio/Grande_fontaine_d_Onofrio.mp3", image: "images/points interets/grande-fontaine-d-onofrio.jpg", fallbackImage: "images/points interets/Grande_fontaine_d_Onofrio.svg" },
+    { name: "Monastère franciscain et ancienne pharmacie", lat: 42.64183, lng: 18.10778, audio: "audio/Monastere_franciscain_et_ancienne_pharmacie.mp3", image: "images/points interets/monastere-franciscain-et-ancienne-pharmacie.jpg", fallbackImage: "images/points interets/Monastere_franciscain_et_ancienne_pharmacie.svg" },
+    { name: "Stradun", lat: 42.64114, lng: 18.10907, audio: "audio/Stradun.mp3", image: "images/points interets/stradun.jpg", fallbackImage: "images/points interets/Stradun.svg" },
+    { name: "Palais Sponza", lat: 42.64113, lng: 18.11056, audio: "audio/Palais_Sponza.mp3", image: "images/points interets/palais-sponza.jpg", fallbackImage: "images/points interets/Palais_Sponza.svg" },
+    { name: "Colonne d’Orlando", lat: 42.64098, lng: 18.11042, audio: "audio/Colonne_d_Orlando.mp3", image: "images/points interets/colonne-d-orlando.jpg", fallbackImage: "images/points interets/Colonne_d_Orlando.svg" },
+    { name: "Église Saint-Blaise", lat: 42.64088, lng: 18.11041, audio: "audio/Eglise_Saint_Blaise.mp3", image: "images/points interets/eglise-saint-blaise.jpg", fallbackImage: "images/points interets/Eglise_Saint_Blaise.svg" },
+    { name: "Palais du Recteur", lat: 42.64034, lng: 18.11059, audio: "audio/Palais_du_Recteur.mp3", image: "images/points interets/palais-du-recteur.jpg", fallbackImage: "images/points interets/Palais_du_Recteur.svg" },
+    { name: "Place Gundulić", lat: 42.6401, lng: 18.10983, audio: "audio/Place_Gundulic.mp3", image: "images/points interets/place-gundulic.jpg", fallbackImage: "images/points interets/Place_Gundulic.svg" },
+    { name: "Grenier Rupe", lat: 42.64032, lng: 18.10842, audio: "audio/Grenier_Rupe.mp3", image: "images/points interets/grenier-rupe.jpg", fallbackImage: "images/points interets/Grenier_Rupe.svg" },
+    { name: "Escalier des Jésuites et église Saint-Ignace", lat: 42.63939, lng: 18.10972, audio: "audio/Escalier_des_Jesuites_et_eglise_Saint_Ignace.mp3", image: "images/points interets/escalier-des-jesuites-et-eglise-saint-ignace.jpg", fallbackImage: "images/points interets/Escalier_des_Jesuites_et_eglise_Saint_Ignace.svg" },
+    { name: "Cathédrale de l’Assomption", lat: 42.63986, lng: 18.11036, audio: "audio/Cathedrale_de_l_Assomption.mp3", image: "images/points interets/cathedrale-de-l-assomption.jpg", fallbackImage: "images/points interets/Cathedrale_de_l_Assomption.svg" },
+    { name: "Vieux-Port", lat: 42.64184, lng: 18.11181, audio: "audio/Vieux_Port.mp3", image: "images/points interets/vieux-port.jpg", fallbackImage: "images/points interets/Vieux_Port.svg" },
+    { name: "Fort Lovrijenac", lat: 42.64047, lng: 18.10437, audio: "audio/Fort_Lovrijenac.mp3", image: "images/points interets/fort-lovrijenac.jpg", fallbackImage: "images/points interets/Fort_Lovrijenac.svg" },
+    { name: "Fort Bokar", lat: 42.6409, lng: 18.10548, audio: "audio/Fort_Bokar.mp3", image: "images/points interets/fort-bokar.jpg", fallbackImage: "images/points interets/Fort_Bokar.svg" },
+    { name: "Remparts et tour Minčeta", lat: 42.64306, lng: 18.10839, audio: "audio/Remparts_et_tour_Minceta.mp3", image: "images/points interets/remparts-et-tour-minceta.jpg", fallbackImage: "images/points interets/Remparts_et_tour_Minceta.svg" },
+    { name: "Monastère dominicain", lat: 42.6418, lng: 18.11118, audio: "audio/Monastere_dominicain.mp3", image: "images/points interets/monastere-dominicain.jpg", fallbackImage: "images/points interets/Monastere_dominicain.svg" },
+    { name: "Fort Revelin et porte Ploče", lat: 42.64209, lng: 18.11223, audio: "audio/Fort_Revelin_et_porte_Ploce.mp3", image: "images/points interets/fort-revelin-et-porte-ploce.jpg", fallbackImage: "images/points interets/Fort_Revelin_et_porte_Ploce.svg" }
+];
+const availableCircuits=["petit","moyen","grand"];
+const circuits={"petit":[1,2,3,4,5,6,7,8,1],"petit_gare":[1,2,3,4,5,6,7,8,1],"moyen":[1,2,3,4,5,6,7,9,10,11,12,8,13,1],"moyen_gare":[1,2,3,4,5,6,7,9,10,11,12,8,13,1],"grand":[14,15,1,2,3,16,4,5,6,7,9,10,11,12,8,17,13,18,14],"grand_gare":[14,15,1,2,3,16,4,5,6,7,9,10,11,12,8,17,13,18,14]};
+const circuitEstimates={"petit":{"distanceKm":1,"walkingTimeMinutes":14,"listeningTimeMinutes":56,"totalTimeMinutes":70},"moyen":{"distanceKm":1.9,"walkingTimeMinutes":26,"listeningTimeMinutes":91,"totalTimeMinutes":117},"grand":{"distanceKm":3,"walkingTimeMinutes":40,"listeningTimeMinutes":126,"totalTimeMinutes":166}};

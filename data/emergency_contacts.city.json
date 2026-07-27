@@ -1,0 +1,269 @@
+{
+  "meta": {
+    "distanceNote": "Coordonnées indicatives vérifiées pour Dubrovnik et sa proche région. En urgence vitale, appeler d’abord le 112 ou le 194. Les horaires de garde des pharmacies et vétérinaires changent : confirmer par téléphone."
+  },
+  "emergencyByCountry": {
+    "croatie": {
+      "general": "112",
+      "police": "192",
+      "firefighters": "193",
+      "medical": "194",
+      "maritimeRescue": "195"
+    }
+  },
+  "guardInfoByCountry": {
+    "croatie": {
+      "pharmacyNumber": "-",
+      "pharmacyNote": "La Croatie ne dispose pas d’un numéro national unique pour les pharmacies de garde. Consulter les pharmacies locales, l’Office du tourisme ou la Chambre croate des pharmaciens ; en urgence médicale, appeler le 112 ou le 194.",
+      "pharmacyUrl": "https://www.hljk.hr/",
+      "veterinaryNumber": "-",
+      "veterinaryNote": "Pour une urgence vétérinaire, appeler d’abord une clinique locale ; hors horaires, le répondeur indique généralement le praticien de garde. Annuaire professionnel : Chambre vétérinaire croate.",
+      "veterinaryUrl": "https://www.hvk.hr/"
+    }
+  },
+  "cityAliases": {
+    "dubrovnik": "dubrovnik",
+    "raguse": "dubrovnik"
+  },
+  "cities": {
+    "dubrovnik": {
+      "city": "Dubrovnik",
+      "country": "Croatie",
+      "postalCode": "",
+      "lat": "42.647739",
+      "lng": "18.075857",
+      "onDuty": {
+        "pharmacy": "",
+        "pharmacyUntil": "",
+        "veterinary": "",
+        "veterinaryUntil": ""
+      },
+      "facilities": [
+        {
+          "id": "ab53272c-0e96-4035-8efc-80b8a023ab4e",
+          "category": "hospital",
+          "name": "Hôpital général de Dubrovnik — Opća bolnica Dubrovnik",
+          "address": "Dr. Roka Mišetića 2, 20000 Dubrovnik",
+          "phone": "+385 20 431 777",
+          "email": "",
+          "sourceUrl": "https://www.bolnica-du.hr/",
+          "lat": "42.647739",
+          "lng": "18.075857",
+          "onDuty": false,
+          "onDutyFrom": "",
+          "onDutyUntil": ""
+        },
+        {
+          "id": "d2cecc0a-82d2-4f4d-83ef-7f5e7f5aec4e",
+          "category": "hospital",
+          "name": "Centre de santé de Dubrovnik — Dom zdravlja Dubrovnik",
+          "address": "Dr. Ante Starčevića 1, 20000 Dubrovnik",
+          "phone": "+385 20 411 212",
+          "email": "",
+          "sourceUrl": "https://www.dom-zdravlja-dubrovnik.hr/",
+          "lat": "42.64747945095902",
+          "lng": "18.094184527927105",
+          "onDuty": false,
+          "onDutyFrom": "",
+          "onDutyUntil": ""
+        },
+        {
+          "id": "f64ae8d6-ebda-49c0-bb03-3b305ca081d0",
+          "category": "hospital",
+          "name": "Service médical touristique de Dubrovnik",
+          "address": "Androvićeva bb, 20000 Dubrovnik",
+          "phone": "+385 20 641 676",
+          "email": "",
+          "sourceUrl": "https://tzdubrovnik.hr/lang/en/get/korisne_informacije/5338/health_services.html",
+          "lat": "42.639709468568746",
+          "lng": "18.10956328322936",
+          "onDuty": false,
+          "onDutyFrom": "",
+          "onDutyUntil": ""
+        },
+        {
+          "id": "753bea00-1391-4d3b-9add-e7a1d577d2c3",
+          "category": "hospital",
+          "name": "Poliklinika Marin Med",
+          "address": "Dr. Ante Starčevića 45, 20000 Dubrovnik",
+          "phone": "+385 20 400 500",
+          "email": "",
+          "sourceUrl": "https://www.marin-med.com/",
+          "lat": "42.65210531620906",
+          "lng": "18.08874753942031",
+          "onDuty": false,
+          "onDutyFrom": "",
+          "onDutyUntil": ""
+        },
+        {
+          "id": "93c178e7-e876-482f-be89-a0d1a469e22b",
+          "category": "hospital",
+          "name": "Poliklinika Glavić Dubrovnik",
+          "address": "Ćira Carića 3, 20000 Dubrovnik",
+          "phone": "+385 20 435 565",
+          "email": "",
+          "sourceUrl": "https://poliklinika-glavic.hr/",
+          "lat": "42.65971839955069",
+          "lng": "18.076821059972872",
+          "onDuty": false,
+          "onDutyFrom": "",
+          "onDutyUntil": ""
+        },
+        {
+          "id": "363e4dc9-c0d1-461f-8bb7-9677f4a2b5ca",
+          "category": "hospital",
+          "name": "Institut départemental de médecine d’urgence",
+          "address": "Dr. Ante Starčevića 1, 20000 Dubrovnik",
+          "phone": "194",
+          "email": "",
+          "sourceUrl": "https://www.zzhm-dnz.hr/",
+          "lat": "42.64783289686453",
+          "lng": "18.075848070578836",
+          "onDuty": false,
+          "onDutyFrom": "",
+          "onDutyUntil": ""
+        },
+        {
+          "id": "2358e357-3110-483d-a806-d4b5bd30504d",
+          "category": "pharmacy",
+          "name": "Ljekarna Gruž",
+          "address": "Obala Stjepana Radića 22, 20000 Dubrovnik",
+          "phone": "+385 20 418 990",
+          "email": "",
+          "sourceUrl": "https://tzdubrovnik.hr/lang/en/get/korisne_informacije/5338/health_services.html",
+          "lat": 42.65811,
+          "lng": 18.08713,
+          "onDuty": false,
+          "onDutyFrom": "",
+          "onDutyUntil": ""
+        },
+        {
+          "id": "6084edfa-15ab-482e-8931-676503483bbd",
+          "category": "pharmacy",
+          "name": "Ljekarna Lapad",
+          "address": "Mata Vodopića 30, 20000 Dubrovnik",
+          "phone": "+385 20 436 778",
+          "email": "",
+          "sourceUrl": "https://tzdubrovnik.hr/lang/en/get/korisne_informacije/5338/health_services.html",
+          "lat": 42.65443,
+          "lng": 18.07383,
+          "onDuty": false,
+          "onDutyFrom": "",
+          "onDutyUntil": ""
+        },
+        {
+          "id": "65c4f75b-cc7f-4366-96f4-a757d31c809a",
+          "category": "pharmacy",
+          "name": "Ljekarna Kod Zvonika",
+          "address": "Luža / Placa, 20000 Dubrovnik",
+          "phone": "+385 20 428 656",
+          "email": "",
+          "sourceUrl": "https://tzdubrovnik.hr/lang/en/get/korisne_informacije/5338/health_services.html",
+          "lat": "42.641148",
+          "lng": "18.110333",
+          "onDuty": false,
+          "onDutyFrom": "",
+          "onDutyUntil": ""
+        },
+        {
+          "id": "54ca3fc8-7b07-4004-8be1-84b1fffa94ce",
+          "category": "pharmacy",
+          "name": "Ljekarna Domus Christi",
+          "address": "Placa 11, 20000 Dubrovnik",
+          "phone": "+385 20 323 882",
+          "email": "",
+          "sourceUrl": "https://tzdubrovnik.hr/lang/en/get/korisne_informacije/5338/health_services.html",
+          "lat": 42.64132,
+          "lng": 18.1097,
+          "onDuty": false,
+          "onDutyFrom": "",
+          "onDutyUntil": ""
+        },
+        {
+          "id": "e4a6d496-4812-41c4-916d-2d5ee469906b",
+          "category": "pharmacy",
+          "name": "Ljekarna Kod Male Braće",
+          "address": "Placa 4, 20000 Dubrovnik",
+          "phone": "+385 20 321 411",
+          "email": "",
+          "sourceUrl": "https://tzdubrovnik.hr/lang/en/get/korisne_informacije/5338/health_services.html",
+          "lat": "42.641797",
+          "lng": "18.107533",
+          "onDuty": false,
+          "onDutyFrom": "",
+          "onDutyUntil": ""
+        },
+        {
+          "id": "226b9f23-3101-45e8-a49b-276544f8a7b2",
+          "category": "pharmacy",
+          "name": "Ljekarna Čebulc Montovjerna",
+          "address": "Dr. Ante Starčevića 24, 20000 Dubrovnik",
+          "phone": "+385 20 357 465",
+          "email": "",
+          "sourceUrl": "https://www.hljk.hr/",
+          "lat": 42.64805,
+          "lng": 18.08704,
+          "onDuty": false,
+          "onDutyFrom": "",
+          "onDutyUntil": ""
+        },
+        {
+          "id": "5917b4d9-a0b6-401d-91bd-f9c2611d2b9e",
+          "category": "pharmacy",
+          "name": "Ljekarna Mokošica",
+          "address": "Bartola Kašića 10, 20236 Mokošica",
+          "phone": "+385 20 453 675",
+          "email": "",
+          "sourceUrl": "https://www.hljk.hr/",
+          "lat": 42.67537,
+          "lng": 18.10935,
+          "onDuty": false,
+          "onDutyFrom": "",
+          "onDutyUntil": ""
+        },
+        {
+          "id": "2b02c619-49d0-4107-9015-4d35dd5a5239",
+          "category": "veterinary",
+          "name": "Veterinarska ambulanta Bobanović",
+          "address": "Kneza Domagoja 4, 20000 Dubrovnik",
+          "phone": "+385 20 357 345",
+          "email": "",
+          "sourceUrl": "https://tzdubrovnik.hr/lang/en/get/korisne_informacije/5338/health_services.html",
+          "lat": 42.65558,
+          "lng": 18.07477,
+          "onDuty": false,
+          "onDutyFrom": "",
+          "onDutyUntil": ""
+        },
+        {
+          "id": "0ddb31fa-e74c-4544-b417-3a393f28795b",
+          "category": "veterinary",
+          "name": "Veterinarska ambulanta Fauna",
+          "address": "Rožat Gornji 40, 20236 Mokošica",
+          "phone": "+385 20 452 999",
+          "email": "",
+          "sourceUrl": "https://www.hvk.hr/",
+          "lat": 42.67578,
+          "lng": 18.13786,
+          "onDuty": false,
+          "onDutyFrom": "",
+          "onDutyUntil": ""
+        },
+        {
+          "id": "54874cab-3ec3-44c9-bee2-cf90ee432e70",
+          "category": "veterinary",
+          "name": "Veterinarska stanica Gruda",
+          "address": "Gruda 152, 20215 Gruda",
+          "phone": "+385 20 791 108",
+          "email": "",
+          "sourceUrl": "https://www.hvk.hr/",
+          "lat": 42.51796,
+          "lng": 18.37125,
+          "onDuty": false,
+          "onDutyFrom": "",
+          "onDutyUntil": ""
+        }
+      ]
+    }
+  }
+}

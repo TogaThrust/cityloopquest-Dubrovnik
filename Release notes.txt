@@ -1,0 +1,108 @@
+CityLoop Quest Dubrovnik - Release notes
+Version 26.07.02
+----------------------------------------
+- Renamed city app to Dubrovnik.
+- Updated app title to "CityLoop Quest Dubrovnik".
+- Tour count changed from 0 to 3.
+- Enabled tours: grand, moyen, petit.
+- Added 18 stop(s) to the long tour: Cathédrale de l’Assomption, Colonne d’Orlando, Église Saint-Blaise, Escalier des Jésuites et église Saint-Ignace (+14 more).
+- Added 13 stop(s) to the medium tour: Cathédrale de l’Assomption, Colonne d’Orlando, Église Saint-Blaise, Escalier des Jésuites et église Saint-Ignace (+9 more).
+- Added 8 stop(s) to the short tour: Colonne d’Orlando, Église Saint-Blaise, Grande fontaine d’Onofrio, Monastère franciscain et ancienne pharmacie (+4 more).
+- Added 15 Explorer POI(s): Arboretum de Trsteno, Cavtat et mausolée Račić, Complexe hôtelier abandonné de Kupari, Forteresse Sokol Grad (+11 more).
+- Added 10 museum(s): Maison de Marin Držić, Musée archéologique — fort Revelin, Musée d’art moderne de Dubrovnik, Musée d’histoire culturelle — Palais du Recteur (+6 more).
+- Added 12 culture chapter(s): Anecdotes fiables et intéressantes, Architecture de Dubrovnik, Conseils famille et accessibilité, Grandes périodes historiques (+8 more).
+- Quiz coverage updated: 18 tour stop(s) now have quizzes (was 0).
+- Regenerated 180 tour audio file(s).
+- Updated circuit overview page.
+- Updated main tour page.
+- Updated tour selection page.
+- Updated offline cache and service worker.
+
+CityLoop Quest Dubrovnik - Release notes
+Version 26.07.01
+----------------------------------------
+- Renamed city app to Dubrovnik.
+- Updated app title to "CityLoop Quest Dubrovnik".
+- Tour count changed from 0 to 3.
+- Enabled tours: grand, moyen, petit.
+- Added 18 stop(s) to the long tour: Cathédrale de l’Assomption, Colonne d’Orlando, Église Saint-Blaise, Escalier des Jésuites et église Saint-Ignace (+14 more).
+- Added 13 stop(s) to the medium tour: Cathédrale de l’Assomption, Colonne d’Orlando, Église Saint-Blaise, Escalier des Jésuites et église Saint-Ignace (+9 more).
+- Added 8 stop(s) to the short tour: Colonne d’Orlando, Église Saint-Blaise, Grande fontaine d’Onofrio, Monastère franciscain et ancienne pharmacie (+4 more).
+- Added 15 Explorer POI(s): Arboretum de Trsteno, Cavtat et mausolée Račić, Complexe hôtelier abandonné de Kupari, Forteresse Sokol Grad (+11 more).
+- Added 10 museum(s): Maison de Marin Držić, Musée archéologique — fort Revelin, Musée d’art moderne de Dubrovnik, Musée d’histoire culturelle — Palais du Recteur (+6 more).
+- Added 12 culture chapter(s): Anecdotes fiables et intéressantes, Architecture de Dubrovnik, Conseils famille et accessibilité, Grandes périodes historiques (+8 more).
+- Quiz coverage updated: 18 tour stop(s) now have quizzes (was 0).
+- Regenerated 180 tour audio file(s).
+- Initial release for Dubrovnik.
+- Includes 39 tour stop(s) across 3 route(s).
+- Includes 15 Explorer POI(s).
+- Includes 10 museum(s).
+- Includes quizzes for 18 tour stop(s).
+
+CityLoop Quest Dubrovnik - Release notes
+Version 26.06.26
+----------------------------------------
+
+précision clic et centrage page parcours
+
+CityLoop Quest Dubrovnik - Release notes
+Version 26.06.01
+----------------------------------------
+
+précision clic et centrage page parcours
+
+CityLoop Quest Dubrovnik - Release notes
+Version 26.02.03
+----------------------------------------
+
+new popup and removal of debug window
+
+CityLoop Quest Dubrovnik - Release notes
+Version 26.01.02
+----------------------------------------
+
+Fix Stripe webhook: idempotency + correct status codes
+Update mailer configuration
+Fix webhook idempotence + root GET
+Webhook: idempotence on session_id
+Invoice label: add city name
+Polish invoice PDF layout (A4 one-page)
+
+CityLoop Quest Dubrovnik - Release notes
+Version 25.12.05
+----------------------------------------
+
+implémentation email
+implémentation boutons Train/Tram/Bus et Uber
+Correction de bugs mineurs
+
+CityLoop Quest Dubrovnik - Release notes
+Version 25.11.04
+----------------------------------------
+
+
+Mise en place de la version Android avec carte fixe
+Bugs dûs à Android en carte mobile en mode web non natif
+
+CityLoop Quest Dubrovnik - Release notes
+Version 25.11.03
+----------------------------------------
+
+Modification description Gare de Dubrovnik
+
+CityLoop Quest Dubrovnik - Release notes
+Version 25.11.02
+----------------------------------------
+
+Mise en place de la Version
+Alerte de géolocalisation, contrôle des paramètres navigateur et appareil
+Modification page d'aide
+Modification page install/web
+
+CityLoop Quest Dubrovnik - Release notes
+Version 25.11.1
+----------------------------------------
+
+- Version initiale publiée
+
+

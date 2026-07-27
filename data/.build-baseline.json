@@ -1,0 +1,115 @@
+{
+  "version": "26.07.02",
+  "savedAt": "2026-07-27T07:03:02.142Z",
+  "citySummary": {
+    "cityName": "Dubrovnik",
+    "appTitle": "CityLoop Quest Dubrovnik",
+    "routeCount": 3,
+    "enabledCircuits": [
+      "grand",
+      "moyen",
+      "petit"
+    ],
+    "routePois": {
+      "petit": [
+        "Colonne d’Orlando",
+        "Église Saint-Blaise",
+        "Grande fontaine d’Onofrio",
+        "Monastère franciscain et ancienne pharmacie",
+        "Palais du Recteur",
+        "Palais Sponza",
+        "Porte Pile",
+        "Stradun"
+      ],
+      "moyen": [
+        "Cathédrale de l’Assomption",
+        "Colonne d’Orlando",
+        "Église Saint-Blaise",
+        "Escalier des Jésuites et église Saint-Ignace",
+        "Grande fontaine d’Onofrio",
+        "Grenier Rupe",
+        "Monastère franciscain et ancienne pharmacie",
+        "Palais du Recteur",
+        "Palais Sponza",
+        "Place Gundulić",
+        "Porte Pile",
+        "Stradun",
+        "Vieux-Port"
+      ],
+      "grand": [
+        "Cathédrale de l’Assomption",
+        "Colonne d’Orlando",
+        "Église Saint-Blaise",
+        "Escalier des Jésuites et église Saint-Ignace",
+        "Fort Bokar",
+        "Fort Lovrijenac",
+        "Fort Revelin et porte Ploče",
+        "Grande fontaine d’Onofrio",
+        "Grenier Rupe",
+        "Monastère dominicain",
+        "Monastère franciscain et ancienne pharmacie",
+        "Palais du Recteur",
+        "Palais Sponza",
+        "Place Gundulić",
+        "Porte Pile",
+        "Remparts et tour Minčeta",
+        "Stradun",
+        "Vieux-Port"
+      ]
+    },
+    "explorationNames": [
+      "Arboretum de Trsteno",
+      "Cavtat et mausolée Račić",
+      "Complexe hôtelier abandonné de Kupari",
+      "Forteresse Sokol Grad",
+      "Koločep",
+      "Lopud et baie de Šunj",
+      "Mali Ston, huîtres et salines",
+      "Mont Srđ et fort Imperial",
+      "Plage de Pasjača",
+      "Polače et parc national de Mljet",
+      "Remparts de Ston",
+      "Réserve naturelle de Lokrum",
+      "Šipan et Suđurađ",
+      "Source de l’Ombla et Rijeka Dubrovačka",
+      "Vallée de Konavle et moulins de Ljuta"
+    ],
+    "museumNames": [
+      "Maison de Marin Držić",
+      "Musée archéologique — fort Revelin",
+      "Musée d’art moderne de Dubrovnik",
+      "Musée d’histoire culturelle — Palais du Recteur",
+      "Musée d’histoire naturelle de Dubrovnik",
+      "Musée de l’ancienne pharmacie franciscaine",
+      "Musée de la Guerre d’indépendance — fort Imperial",
+      "Musée ethnographique — Rupe",
+      "Musée maritime — fort Saint-Jean",
+      "Red History Museum"
+    ],
+    "culturePageTitles": [
+      "Anecdotes fiables et intéressantes",
+      "Architecture de Dubrovnik",
+      "Conseils famille et accessibilité",
+      "Grandes périodes historiques",
+      "Lieux et habitudes gourmandes",
+      "Meilleurs moments de visite",
+      "Origines et développement",
+      "Personnages marquants",
+      "Quartiers et ambiances",
+      "Se déplacer",
+      "Spécialités locales",
+      "Traditions et événements"
+    ],
+    "quizPoiCount": 18,
+    "sourceLanguage": "fr"
+  },
+  "files": {
+    "app.js": "5b9cf33dca97fb3a9a55a23fe3bcbf7983b5d2bff59b5385c917cf0ce5bd80c1",
+    "main.html": "e73aff5509429aa36864b441265658c890ae7b5929b9e41b10054da793efe879",
+    "parcours.html": "88d83243e3b97decd6d1c48195907c5e0ffab3af916728403c4c34a354cc4373",
+    "circuit.html": "8b145641caa09b0edbb45684ef32e8312976b9e3c3d19fd1668f410d2aceb4d4",
+    "circuit-data.js": "d535eb7c51ad91451ccc7b8189be396227b02306f35ce5790f2b54c38e95fdda",
+    "service-worker.js": "3cea39336fb4597df2364cb35e635a6c2b5267f0315f72b692c34aee322f4d71",
+    "instructions.html": "a9682165788c6409df663502f40f42a74a1948e3d1edd260fab7766cfdfa4ced"
+  }
+}
