@@ -1,4 +1,9 @@
 CityLoop Quest Dubrovnik - Release notes
+Version 26.07.05
+----------------------------------------
+- Quiz coverage updated: 18 tour stop(s) now have quizzes (was 0).
+
+CityLoop Quest Dubrovnik - Release notes
 Version 26.07.04
 ----------------------------------------
 - Quiz coverage updated: 18 tour stop(s) now have quizzes (was 0).
