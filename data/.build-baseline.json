@@ -1,6 +1,6 @@
 {
-  "version": "26.07.05",
-  "savedAt": "2026-07-28T11:27:18.254Z",
+  "version": "26.07.06",
+  "savedAt": "2026-07-28T11:32:03.500Z",
   "citySummary": {
     "cityName": "Dubrovnik",
     "appTitle": "CityLoop Quest Dubrovnik",
@@ -105,11 +105,11 @@
   },
   "files": {
     "app.js": "5b9cf33dca97fb3a9a55a23fe3bcbf7983b5d2bff59b5385c917cf0ce5bd80c1",
-    "main.html": "73db0d286e51f343cc6db410b01372ee89a846b524f4c909929333b316bfb348",
+    "main.html": "3cbd4ff3d94ba72df15b73c6843ddf2b25223147d9d8a3f2406a71668723d766",
     "parcours.html": "88d83243e3b97decd6d1c48195907c5e0ffab3af916728403c4c34a354cc4373",
-    "circuit.html": "0b8f98f43cf7b42886eb4addccd228ac51f984242db5541d059dd89efd106a2b",
+    "circuit.html": "f26d55081f1f6712e2889c022f81a071efa4f0a1f72c97d8c580b1556d37213c",
     "circuit-data.js": "d535eb7c51ad91451ccc7b8189be396227b02306f35ce5790f2b54c38e95fdda",
-    "service-worker.js": "8f0a9d266533d0f324c4ac0dc880e09ba79fe1e7d563871b0579d1589796c812",
+    "service-worker.js": "6f1bd4ebf345637f29b6afac1cd1035ec83587cf8314512c943351d29e06d52e",
     "instructions.html": "a9682165788c6409df663502f40f42a74a1948e3d1edd260fab7766cfdfa4ced"
   }
 }
